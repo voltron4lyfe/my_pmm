@@ -1,0 +1,26 @@
+collections:
+  Blade Runner Collection:
+    template:
+      collection: 422837
+      name: Set
+      poster: https://theposterdb.com/api/assets/163611
+  Sanjuro Collection:
+    template:
+      collection: 627389
+      name: Set
+      poster: https://theposterdb.com/api/assets/229966
+templates:
+  Set:
+    collection_order: release
+    imdb_list: <<imdb>>
+    optional:
+    - collection
+    - movie
+    - list
+    - imdb
+    sort_title: <<collection_name>>
+    sync_mode: sync
+    tmdb_collection_details: <<collection>>
+    tmdb_list: <<list>>
+    tmdb_movie: <<movie>>
+    url_poster: <<poster>>

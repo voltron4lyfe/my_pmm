@@ -1,0 +1,24 @@
+#####################################################
+#               People Collections                   #
+######################################################
+templates:
+  Person:
+    smart_filter:
+      any:
+        actor: tmdb
+        director: tmdb
+        writer: tmdb
+        producer: tmdb
+      sort_by: random
+      validate: false
+    tmdb_person: <<person>>
+    sort_title: +4_<<collection_name>>
+collections:
+  # Directors
+  Alfred Hitchcock:
+    template: {name: Person, person: 2636}
+    url_poster: https://theposterdb.com/api/assets/160913
+  Tim Burton:
+    template: {name: Person, person: 510}
+    url_poster: https://theposterdb.com/api/assets/287840
+

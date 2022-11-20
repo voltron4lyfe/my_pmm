@@ -1,0 +1,20 @@
+templates:
+  Set:
+    optional:
+      - collection
+      - movie
+      - list
+      - imdb
+    tmdb_collection_details: <<collection>>
+    tmdb_movie: <<movie>>
+    tmdb_list: <<list>>
+    imdb_list: <<imdb>>
+    sync_mode: sync
+    collection_order: release
+    url_poster: <<poster>>
+    sort_title: +_<<collection_name>>
+collections:
+
+  "AFI Top 100":
+    template: {name: Set, imdb: https://www.imdb.com/list/ls000093307/, poster: https://www.themoviedb.org/t/p/w300_and_h450_bestv2/3k78soXWwKbHfpoRpSvI9BEXVob.jpg }
+
