@@ -2,23 +2,22 @@
 #               People Collections                   #
 ######################################################
 templates:
-  Person:
-    smart_filter:
-      any:
-        actor: tmdb
-        director: tmdb
-        writer: tmdb
-        producer: tmdb
-      sort_by: random
-      validate: false
-    tmdb_person: <<person>>
+  Director:
+    tmdb_director: <<director>>
     sort_title: +4_<<collection_name>>
+
 collections:
   # Directors
   Alfred Hitchcock:
-    template: {name: Person, person: 2636}
+    template: {name: Director, director: 2636}
     url_poster: https://theposterdb.com/api/assets/160913
   Tim Burton:
-    template: {name: Person, person: 510}
+    template: {name: Director, director: 510}
     url_poster: https://theposterdb.com/api/assets/287840
+  Quentin Tarantino:
+    template: {name: Director, director: 138}
+    url_poster: https://theposterdb.com/api/assets/167512
+  David Fincher:
+    template: {name: Director, director: 7467}
+    url_poster: https://theposterdb.com/api/assets/52721
 

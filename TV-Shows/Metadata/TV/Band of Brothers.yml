@@ -1,0 +1,21 @@
+metadata:               #Posters found here: https://theposterdb.com/poster/218218
+
+  "Band of Brothers (2001)":
+    year: 2001
+    title: "Band of Brothers"
+    url_poster: https://theposterdb.com/api/assets/218218
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/218219
+      1:
+        url_poster: https://theposterdb.com/api/assets/218220
+
+  "The Pacific (2010)":
+    year: 2010
+    title: "The Pacific"
+    url_poster: https://theposterdb.com/api/assets/218221
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/218222
+      1:
+        url_poster: https://theposterdb.com/api/assets/285127

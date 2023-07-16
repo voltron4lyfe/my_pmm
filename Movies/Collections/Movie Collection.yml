@@ -35,7 +35,7 @@ collections:
 ################################################ After ################################################
   "After":
     template: {name: Set, collection: 702624, poster: https://theposterdb.com/api/assets/205008 }
-      
+
 ################################################ Airplane #############################################
   "Airplane":
     template: {name: Set, collection: 91663, poster: https://theposterdb.com/api/assets/166223 }
@@ -95,6 +95,14 @@ collections:
 ##################################### The Blues Brothers ##############################################
   "The Blues Brothers":
     template: {name: Set, collection: 112636, poster: https://theposterdb.com/api/assets/166229 }
+
+  "Cape Fear":
+    template:
+      name: Set
+      imdb_id:
+        - tt0055824
+        - tt0101540
+      poster: https://theposterdb.com/api/assets/164852
 
 ########################################### Decline of... #############################################
   "Decline of Western Civilization":
@@ -179,7 +187,15 @@ collections:
 ############################################### Evil Dead #############################################
   "Evil Dead":
     template: {name: Set, collection: 12263, poster: https://theposterdb.com/api/assets/1960 }
-      
+
+  "Flatliners":
+    template:
+      name: Set
+      imdb_id:
+        - tt0099582
+        - tt2039338
+      poster: https://theposterdb.com/api/assets/160874
+
 ################################################ Fast and the Furious #################################
   "Universal Frankenstein Collection":
     template: {name: Set, collection: 218406, poster: https://theposterdb.com/api/assets/161003 }
@@ -271,7 +287,7 @@ collections:
 ############################################## Jake Gittes ############################################
   "Jake Gittes":
     template: {name: Set, collection: 359005, poster: https://theposterdb.com/api/assets/164796 }
-      
+
 ################################################ James Bond ###########################################
   "James Bond":
     template: {name: Set, collection: 645, poster: https://theposterdb.com/api/assets/164797 }
@@ -279,7 +295,7 @@ collections:
 ################################################ Jason Bourne  ########################################
   "Jason Bourne":
     template: {name: Set, collection: 31562, poster: https://theposterdb.com/api/assets/164761 }
-      
+
 ################################################ Jaws #################################################
   "Jaws":
     template: {name: Set, collection: 2366, poster: https://theposterdb.com/api/assets/161117 }
@@ -339,10 +355,6 @@ collections:
   "Mummy":
     template: {name: Set, collection: 1733, poster: https://theposterdb.com/api/assets/161305 }
 
-########################################### My Hero Academia ###########################################
-  "My Hero Academia":
-    template: {name: Set, collection: 662002, poster: https://theposterdb.com/api/assets/211628 }
-
 ################################################ Naked Gun #############################################
   "Naked Gun":
     template: {name: Set, collection: 37139, poster: https://theposterdb.com/api/assets/164812 }
@@ -399,6 +411,10 @@ collections:
   "Porky's":
     template: {name: Set, collection: 109592, poster: https://theposterdb.com/api/assets/166262 }
 
+############################################## Predator  ###############################################
+  "Predator":
+    template: {name: Set, collection: 399, poster: https://theposterdb.com/api/assets/163975 }
+
 ################################################ Porky's ###############################################
   "Psycho":
     template: {name: Set, collection: 119674, poster: https://theposterdb.com/api/assets/161295 }
@@ -408,8 +424,8 @@ collections:
     template: {name: Set, collection: 256322, poster: https://theposterdb.com/api/assets/161881 }
 
 ######################################## Quentin Tarantino's ############################################
-  "Quentin Tarantino":
-    template: {name: Set, list: 8201544, poster: https://theposterdb.com/api/assets/167512 }
+ # "Quentin Tarantino":
+  #  template: {name: Set, list: 8201544, poster: https://theposterdb.com/api/assets/167512 }
 
 ################################################ Rambo #################################################
   "Re-Animator":
@@ -455,7 +471,7 @@ collections:
     template: {name: Set, collection: 703485, poster: https://theposterdb.com/api/assets/213548 }
 
 ######################################## Short Circuit  #################################################
-  "Short Circuit":
+  "Short Circuit Collection":
     template: {name: Set, collection: 86347, poster: https://theposterdb.com/api/assets/160987 }
 
 ######################################## Sonic the Hedgehog #############################################
@@ -481,10 +497,19 @@ collections:
   "Sting":
     template: {name: Set, collection: 330605, poster: https://theposterdb.com/api/assets/164837 }
 
+  "Super Mario Brothers":
+    template:
+      name: Set
+      imdb_id:
+        - tt0469611
+        - tt0108255
+        - tt6718170
+      poster: https://theposterdb.com/api/assets/292973
+
 ################################################ Ted ####################################################
   "Ted":
     template: {name: Set, collection: 266672, poster: https://theposterdb.com/api/assets/166268 }
-      
+
 ################################################ Teen Wolf###############################################
   "Teen Wolf":
     template: {name: Set, collection: 43066, poster: https://theposterdb.com/api/assets/161863 }
@@ -511,7 +536,13 @@ collections:
 
 ####################################### The Dukes of Hazzard (Reboot) ###################################
   "The Man with No Name":
-    template: {name: Set, imdb_id: tt0058461, tt0059578, tt0060196 poster: https://theposterdb.com/api/assets/211754, collection_order: custom}
+    template:
+      name: Set
+      imdb_id:
+        - tt0058461
+        - tt0059578
+        - tt0060196
+      poster: https://theposterdb.com/api/assets/211754
 
 ################################################## Thing ################################################
   "Thing":
@@ -532,19 +563,19 @@ collections:
 ############################################# Trainspotting ##############################################
   "Trainspotting":
     template: {name: Set, collection: 424202, poster: https://theposterdb.com/api/assets/164842 }
-    
+
 ############################################# Trainspotting ##############################################
   "Tremors":
     template: {name: Set, collection: 91799, poster: https://theposterdb.com/api/assets/161855 }
-    
+
 ############################################### Twilight #################################################
   "Twilight":
     template: {name: Set, collection: 33514, poster: https://theposterdb.com/api/assets/161853 }
-    
+
 ############################################### Twilight #################################################
   "US Marshals":
     template: {name: Set, collection: 721111, poster: https://theposterdb.com/api/assets/164845 }
-    
+
 ################################################## VHS ###################################################
   "V/H/S":
     template: {name: Set, collection: 207621, poster: https://theposterdb.com/api/assets/161850 }

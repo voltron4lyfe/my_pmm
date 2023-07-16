@@ -10,7 +10,8 @@ metadata:               #Posters found here https://theposterdb.com/poster/17780
     year: 2014
     url_poster: https://theposterdb.com/api/assets/177797
 
-  "The Purge: Election Year (2016)":
+  #The purge election year
+  tt4094724:
     title: "The Purge: Election Year"
     year: 2016
     url_poster: https://theposterdb.com/api/assets/177798

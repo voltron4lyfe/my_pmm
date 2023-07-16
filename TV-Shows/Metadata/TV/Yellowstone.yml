@@ -1,0 +1,40 @@
+metadata:               #Posters found here: https://theposterdb.com/poster/278643
+
+  "Yellowstone":
+    alt_title: "Yellowstone (2018)"
+    year: 2018
+    title: "Yellowstone"
+    url_poster: https://theposterdb.com/api/assets/295700
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/295701    
+      1:
+        url_poster: https://theposterdb.com/api/assets/295702
+      2:
+        url_poster: https://theposterdb.com/api/assets/295703
+      3:
+        url_poster: https://theposterdb.com/api/assets/295704
+      4:
+        url_poster: https://theposterdb.com/api/assets/295705
+      5:
+        url_poster: https://theposterdb.com/api/assets/295706
+  "1883":
+    alt_title: "1883 (2021)"
+    year: 2021
+    title: "1883"
+    url_poster: https://theposterdb.com/api/assets/302801
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/302802    
+      1:
+        url_poster: https://theposterdb.com/api/assets/302803
+  "1923":
+    alt_title: "1923 (2022)"
+    year: 2022
+    title: "1923"
+    url_poster: https://theposterdb.com/api/assets/302804
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/302805    
+      1:
+        url_poster: https://theposterdb.com/api/assets/302806

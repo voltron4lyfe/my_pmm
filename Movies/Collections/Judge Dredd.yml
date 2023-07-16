@@ -1,0 +1,24 @@
+templates:
+  Set:
+    optional:
+      - collection
+      - movie
+      - list
+    tmdb_collection_details: <<collection>>
+    tmdb_movie: <<movie>>
+    tmdb_list: <<list>>
+    sync_mode: sync
+    collection_order: release
+    url_poster: <<poster>>
+    sort_title: <<collection_name>>
+collections:
+
+  "Judge Dredd":
+    tmdb_movie: 
+      - 9482 # Judge Dredd
+      - 49049 # Dredd
+    sync_mode: sync
+    collection_order: release
+    url_poster: https://theposterdb.com/api/assets/162396
+    sort_title: <<collection_name>>
+

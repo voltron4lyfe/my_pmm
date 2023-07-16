@@ -34,3 +34,9 @@ metadata:               #Posters found here https://theposterdb.com/user/musikma
     year: 2020
     title: "Jurassic World: Camp Cretaceous"
     url_poster: https://theposterdb.com/api/assets/179171
+
+  "Jurassic World: Dominion (2022)":
+    year: 2022
+    title: "Jurassic World: Dominion"
+    url_poster: https://theposterdb.com/api/assets/242689
+

@@ -16,5 +16,5 @@ templates:
 collections:
 
   "AFI Top 100":
-    template: {name: Set, imdb: https://www.imdb.com/list/ls000093307/, poster: https://www.themoviedb.org/t/p/w300_and_h450_bestv2/3k78soXWwKbHfpoRpSvI9BEXVob.jpg }
+    template: {name: Set, imdb: https://www.imdb.com/list/ls000093307/, poster: https://theposterdb.com/api/assets/292141}
 

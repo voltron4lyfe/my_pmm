@@ -1,0 +1,11 @@
+metadata:               #Posters found here: https://theposterdb.com/poster/278643
+
+  "Star Trek: Picard (2020)":
+    year: 2020
+    title: "Star Trek: Picard"
+    url_poster: https://theposterdb.com/api/assets/175975
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/218153
+      2:
+        url_poster: https://theposterdb.com/api/assets/218154

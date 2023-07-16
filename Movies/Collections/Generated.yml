@@ -1,14 +1,209 @@
 collections:
-  Blade Runner Collection:
+  28 Days/Weeks Later Collection:
     template:
-      collection: 422837
+      collection: 1565
       name: Set
-      poster: https://theposterdb.com/api/assets/163611
+      poster: https://theposterdb.com/api/assets/160782
+  300 Collection:
+    template:
+      collection: 125570
+      name: Set
+      poster: https://theposterdb.com/api/assets/162103
+  Alex Cross Collection:
+    template:
+      collection: 142680
+      name: Set
+      poster: https://theposterdb.com/api/assets/302790
+  An American Werewolf Collection:
+    template:
+      collection: 9380
+      name: Set
+      poster: https://theposterdb.com/api/assets/180752
+  Arthur Collection:
+    template:
+      collection: 170754
+      name: Set
+      poster: https://theposterdb.com/api/assets/166226
+  Avatar Collection:
+    template:
+      collection: 87096
+      name: Set
+      poster: https://theposterdb.com/api/assets/291315
+  Battle Royale Collection:
+    template:
+      collection: 16302
+      name: Set
+      poster: https://theposterdb.com/api/assets/163595
+  Beverly Hills Cop Collection:
+    template:
+      collection: 85861
+      name: Set
+      poster: https://theposterdb.com/api/assets/163980
+  Conan the Barbarian Collection:
+    template:
+      collection: 43055
+      name: Set
+      poster: https://theposterdb.com/api/assets/162022
+  Darkman Collection:
+    template:
+      collection: 45154
+      name: Set
+      poster: https://theposterdb.com/api/assets/162385
+  Dead Snow Collection:
+    template:
+      collection: 286038
+      name: Set
+      poster: https://theposterdb.com/api/assets/176484
+  Death Wish Collection:
+    template:
+      collection: 14377
+      name: Set
+      poster: https://theposterdb.com/api/assets/248714
+  Dungeons & Dragons Collection:
+    template:
+      collection: 106498
+      name: Set
+      poster: https://theposterdb.com/api/assets/297425
+  F/X Collection:
+    template:
+      collection: 171439
+      name: Set
+      poster: https://theposterdb.com/api/assets/211416
+  Fletch Collection:
+    template:
+      collection: 104833
+      name: Set
+      poster: https://theposterdb.com/api/assets/165801
+  Hostel Collection:
+    template:
+      collection: 86578
+      name: Set
+      poster: https://theposterdb.com/api/assets/91453
+  I Am Legend Collection:
+    template:
+      collection: 945984
+      name: Set
+      poster: https://theposterdb.com/api/assets/160952
+    tmdb_movie:
+    - 21159
+    - 11234
+  Independence Day Collection:
+    template:
+      collection: 304378
+      name: Set
+      poster: https://theposterdb.com/api/assets/162515
+  Major League Collection:
+    template:
+      collection: 97771
+      name: Set
+      poster: https://theposterdb.com/api/assets/163420
+  'Mission: Impossible Collection':
+    template:
+      collection: 87359
+      name: Set
+      poster: https://theposterdb.com/api/assets/164810
+  Ocean's Collection:
+    template:
+      collection: 304
+      name: Set
+      poster: https://theposterdb.com/api/assets/164814
+  Pee-wee's Collection:
+    template:
+      collection: 179244
+      name: Set
+      poster: https://theposterdb.com/api/assets/163401
+  RoboCop Collection:
+    template:
+      collection: 5547
+      name: Set
+      poster: https://theposterdb.com/api/assets/164016
+    tmdb_movie:
+    - 97020
+  Romancing the Stone Collection:
+    template:
+      collection: 89264
+      name: Set
+      poster: https://theposterdb.com/api/assets/165422
   Sanjuro Collection:
     template:
       collection: 627389
       name: Set
       poster: https://theposterdb.com/api/assets/229966
+  Sicario Collection:
+    template:
+      collection: 496796
+      name: Set
+      poster: https://theposterdb.com/api/assets/164828
+  Sleepaway Camp Collection:
+    template:
+      collection: 47391
+      name: Set
+      poster: https://theposterdb.com/api/assets/161870
+  Smokey and the Bandit Collection:
+    template:
+      collection: 87220
+      name: Set
+      poster: https://theposterdb.com/api/assets/164829
+  Sonic the Hedgehog Collection:
+    template:
+      collection: 720879
+      name: Set
+      poster: https://theposterdb.com/api/assets/234937
+  Teenage Mutant Ninja Turtles Collection:
+    template:
+      collection: 1582
+      name: Set
+      poster: https://theposterdb.com/api/assets/162404
+  The Bad News Bears Collection:
+    template:
+      collection: 215326
+      name: Set
+      poster: https://theposterdb.com/api/assets/163415
+  The Crow Collection:
+    template:
+      collection: 9436
+      name: Set
+      poster: https://theposterdb.com/api/assets/162382
+  The Fly (1986) Collection:
+    template:
+      collection: 109609
+      name: Set
+      poster: https://theposterdb.com/api/assets/177230
+  The Gods Must Be Crazy Collection:
+    template:
+      collection: 87805
+      name: Set
+      poster: https://theposterdb.com/api/assets/235733
+  The Hustler Collection:
+    template:
+      collection: 387219
+      name: Set
+      poster: https://theposterdb.com/api/assets/163418
+  The Mummy (Universal) Collection:
+    template:
+      collection: 221544
+      name: Set
+      poster: https://theposterdb.com/api/assets/161304
+  The Secret Life of Pets Collection:
+    template:
+      collection: 427084
+      name: Set
+      poster: https://theposterdb.com/api/assets/162965
+  Underworld Collection:
+    template:
+      collection: 2326
+      name: Set
+      poster: https://theposterdb.com/api/assets/161852
+  Wall Street Collection:
+    template:
+      collection: 52783
+      name: Set
+      poster: https://theposterdb.com/api/assets/165779
+  Zombieland Collection:
+    template:
+      collection: 537982
+      name: Set
+      poster: https://theposterdb.com/api/assets/161841
 templates:
   Set:
     collection_order: release

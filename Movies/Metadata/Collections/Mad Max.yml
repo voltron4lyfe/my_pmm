@@ -7,6 +7,7 @@ metadata:               #Posters found here: https://theposterdb.com/poster/1845
 
   "Mad Max 2 (1981)":
     title: "Mad Max 2"
+    alt_title: "The Road Warrior"
     year: 1981
     url_poster: https://theposterdb.com/api/assets/184551
 

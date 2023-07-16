@@ -1,7 +1,13 @@
 metadata:
 
-  "Black Hawk Down (2002)":
+  "Black Hawk Down (2001)":
     title: "Black Hawk Down"
-    year: 2002
+    year: 2001
+    url_poster: https://theposterdb.com/api/assets/195866
+
+  "Black Hawk Down (Directors Cut)":
+    title: "Black Hawk Down"
+    year: 2001
+    edition_filter: Theatrical
     url_poster: https://theposterdb.com/api/assets/195866
 

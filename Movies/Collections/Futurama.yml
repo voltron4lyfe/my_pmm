@@ -1,0 +1,26 @@
+templates:
+  Set:
+    optional:
+      - collection
+      - movie
+      - list
+    tmdb_collection_details: <<collection>>
+    tmdb_movie: <<movie>>
+    tmdb_list: <<list>>
+    sync_mode: sync
+    collection_order: release
+    url_poster: <<poster>>
+    sort_title: <<collection_name>>
+collections:
+
+  "Futurama":
+    tmdb_movie: 
+      - 7249 # Bender's Big Score (2007)
+      - 13523 # Bender's Game (2008)
+      - 12889 # The Beast with a Billion Backs (2008)
+      - 15060 # Into the Wild Green Yonder (2009) 
+    sync_mode: sync
+    collection_order: release
+    url_poster: https://theposterdb.com/api/assets/289537
+    sort_title: <<collection_name>>
+

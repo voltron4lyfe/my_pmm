@@ -14,3 +14,9 @@ metadata:               #Posters found here https://theposterdb.com/user/musikma
     title: "John Wick: Chapter 3 - Parabellum"
     year: 2019
     url_poster: https://theposterdb.com/api/assets/190885
+
+  "John Wick: Chapter 4 (2023)":
+    title: "John Wick: Chapter 4"
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/341223
+

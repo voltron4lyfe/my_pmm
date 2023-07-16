@@ -24,3 +24,10 @@ metadata:               #Posters found here: https://theposterdb.com/poster/1800
     title: "Hannibal Rising"
     year: 2007
     url_poster: https://theposterdb.com/api/assets/180043
+
+  "Hannibal Rising (Unrated)":
+    title: "Hannibal Rising"
+    year: 2007
+    edition_filter: Unrated
+    url_poster: https://theposterdb.com/api/assets/180043
+

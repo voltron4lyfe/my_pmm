@@ -30,10 +30,10 @@ metadata:
     title: "Planet Earth II"
     url_poster: https://theposterdb.com/api/assets/237880
 
-  "Planet Earth III (N/A) (null)":
-    year: null
-    title: "Planet Earth III (N/A)"
-    url_poster: https://theposterdb.com/api/assets/237881
+      #  "Planet Earth III (N/A) (null)":
+      #    year: null
+      #    title: "Planet Earth III (N/A)"
+      #    url_poster: https://theposterdb.com/api/assets/237881
 
   "Prehistoric Planet (2022)":
     year: 2022
