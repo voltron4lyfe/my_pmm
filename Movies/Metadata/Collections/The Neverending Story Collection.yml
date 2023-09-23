@@ -1,13 +1,22 @@
 metadata:
   The NeverEnding Story (1984):
+    match:
+      title: The NeverEnding Story
+      year: 1984
     title: The NeverEnding Story
     url_poster: https://theposterdb.com/api/assets/174958
     year: 1984
   'The NeverEnding Story II: The Next Chapter (1990)':
+    match:
+      title: 'The NeverEnding Story II: The Next Chapter'
+      year: 1990
     title: 'The NeverEnding Story II: The Next Chapter'
     url_poster: https://theposterdb.com/api/assets/174959
     year: 1990
   The NeverEnding Story III (1994):
+    match:
+      title: The NeverEnding Story III
+      year: 1994
     title: The NeverEnding Story III
     url_poster: https://theposterdb.com/api/assets/174960
     year: 1994

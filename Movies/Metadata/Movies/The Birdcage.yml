@@ -1,7 +1,8 @@
 metadata:
-
-  "The Birdcage (1996)":
-    title: "The Birdcage"
-    year: 1996
+  The Birdcage (1996):
+    match:
+      title: The Birdcage
+      year: 1996
+    title: The Birdcage
     url_poster: https://theposterdb.com/api/assets/206590
-
+    year: 1996

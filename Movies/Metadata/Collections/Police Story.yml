@@ -1,12 +1,15 @@
-metadata:               #Posters found here https://theposterdb.com/set/140211
-
-  "Police Story (1985)":
-    title: "Police Story"
-    year: 1985
+metadata:
+  Police Story (1985):
+    match:
+      title: Police Story
+      year: 1985
+    title: Police Story
     url_poster: https://theposterdb.com/api/assets/208924
-
-  "Police Story 2 (1988)":
-    title: "Police Story 2"
-    year: 1988
+    year: 1985
+  Police Story 2 (1988):
+    match:
+      title: Police Story 2
+      year: 1988
+    title: Police Story 2
     url_poster: https://theposterdb.com/api/assets/208925
-
+    year: 1988

@@ -1,6 +1,8 @@
-metadata:               #Posters found here: https://theposterdb.com/poster/175990
-
-  "The Voyeurs (2021)":
-    title: "The Voyeurs"
-    year: 2021
+metadata:
+  The Voyeurs (2021):
+    match:
+      title: The Voyeurs
+      year: 2021
+    title: The Voyeurs
     url_poster: https://theposterdb.com/api/assets/175990
+    year: 2021

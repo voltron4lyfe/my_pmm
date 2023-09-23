@@ -1,7 +1,8 @@
 metadata:
-
-  "Bone Tomahawk (2015)":
-    title: "Bone Tomahawk"
-    year: 2015
+  Bone Tomahawk (2015):
+    match:
+      title: Bone Tomahawk
+      year: 2015
+    title: Bone Tomahawk
     url_poster: https://theposterdb.com/api/assets/179608
-
+    year: 2015

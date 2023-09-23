@@ -1,7 +1,8 @@
 metadata:
-
-  "Cabaret (1972)":
-    title: "Cabaret"
-    year: 1972
+  Cabaret (1972):
+    match:
+      title: Cabaret
+      year: 1972
+    title: Cabaret
     url_poster: https://theposterdb.com/api/assets/197227
-
+    year: 1972

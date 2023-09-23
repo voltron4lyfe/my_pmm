@@ -1,7 +1,8 @@
 metadata:
-
-  "This Is Spinal Tap (1984)":
-    title: "This Is Spinal Tap"
-    year: 1984
+  This Is Spinal Tap (1984):
+    match:
+      title: This Is Spinal Tap
+      year: 1984
+    title: This Is Spinal Tap
     url_poster: https://theposterdb.com/api/assets/225111
-
+    year: 1984

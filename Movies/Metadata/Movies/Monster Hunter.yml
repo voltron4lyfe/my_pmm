@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/183788
-
-  "Monster Hunter (2020)":
-    title: "Monster Hunter"
-    year: 2020
+metadata:
+  Monster Hunter (2020):
+    match:
+      title: Monster Hunter
+      year: 2020
+    title: Monster Hunter
     url_poster: https://theposterdb.com/api/assets/183788
+    year: 2020

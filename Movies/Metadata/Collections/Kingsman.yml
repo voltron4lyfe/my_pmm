@@ -1,16 +1,22 @@
-metadata:               #Posters found here https://theposterdb.com/user/musikmann2000
-
-  "Kingsman: The Secret Service (2014)":
-    title: "Kingsman: The Secret Service"
-    year: 2014
-    url_poster: https://theposterdb.com/api/assets/201356
-
-  "Kingsman: The Golden Circle (2017)":
-    title: "Kingsman: The Golden Circle"
-    year: 2017
+metadata:
+  'Kingsman: The Golden Circle (2017)':
+    match:
+      title: 'Kingsman: The Golden Circle'
+      year: 2017
+    title: 'Kingsman: The Golden Circle'
     url_poster: https://theposterdb.com/api/assets/201357
-
-  "The King's Man (2021)":
-    title: "The King's Man"
-    year: 2021
+    year: 2017
+  'Kingsman: The Secret Service (2014)':
+    match:
+      title: 'Kingsman: The Secret Service'
+      year: 2014
+    title: 'Kingsman: The Secret Service'
+    url_poster: https://theposterdb.com/api/assets/201356
+    year: 2014
+  The King's Man (2021):
+    match:
+      title: The King's Man
+      year: 2021
+    title: The King's Man
     url_poster: https://theposterdb.com/api/assets/201358
+    year: 2021

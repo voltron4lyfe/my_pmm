@@ -1,16 +1,22 @@
-metadata:               #Posters found here https://theposterdb.com/user/musikmann2000
-
-  "After (2019)":
-    title: "After"
-    year: 2019
+metadata:
+  After (2019):
+    match:
+      title: After
+      year: 2019
+    title: After
     url_poster: https://theposterdb.com/api/assets/198637
-
-  "After We Collided (2020)":
-    title: "After We Collided"
-    year: 2020
+    year: 2019
+  After We Collided (2020):
+    match:
+      title: After We Collided
+      year: 2020
+    title: After We Collided
     url_poster: https://theposterdb.com/api/assets/198228
-
-  "After We Fell (2021)":
-    title: "After We Fell"
-    year: 2021
+    year: 2020
+  After We Fell (2021):
+    match:
+      title: After We Fell
+      year: 2021
+    title: After We Fell
     url_poster: https://theposterdb.com/api/assets/205009
+    year: 2021

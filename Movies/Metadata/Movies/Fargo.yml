@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/211445
-
-  "Fargo (1996)":
-    title: "Fargo"
-    year: 1996
+metadata:
+  Fargo (1996):
+    match:
+      title: Fargo
+      year: 1996
+    title: Fargo
     url_poster: https://theposterdb.com/api/assets/211445
+    year: 1996

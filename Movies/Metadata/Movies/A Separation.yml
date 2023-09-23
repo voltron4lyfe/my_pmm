@@ -1,6 +1,8 @@
-metadata:               #Posters found here: https://theposterdb.com/poster/210209
-
-  "A Separation (2011)":
-    title: "A Separation"
-    year: 2011
+metadata:
+  A Separation (2011):
+    match:
+      title: A Separation
+      year: 2011
+    title: A Separation
     url_poster: https://theposterdb.com/api/assets/210209
+    year: 2011

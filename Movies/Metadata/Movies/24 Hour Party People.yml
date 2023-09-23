@@ -1,7 +1,8 @@
 metadata:
-
-  "24 Hour Party People (2002)":
-    title: "24 Hour Party People"
-    year: 2002
+  24 Hour Party People (2002):
+    match:
+      title: 24 Hour Party People
+      year: 2002
+    title: 24 Hour Party People
     url_poster: https://theposterdb.com/api/assets/207742
-
+    year: 2002

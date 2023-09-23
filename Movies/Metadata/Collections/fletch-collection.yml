@@ -1,9 +1,15 @@
 metadata:
   Fletch (1985):
+    match:
+      title: Fletch
+      year: 1985
     title: Fletch
     url_poster: https://theposterdb.com/api/assets/211881
     year: 1985
   Fletch Lives (1989):
+    match:
+      title: Fletch Lives
+      year: 1989
     title: Fletch Lives
     url_poster: https://theposterdb.com/api/assets/211882
     year: 1989

@@ -1,7 +1,8 @@
 metadata:
-
-  "The Grand (2007)":
-    title: "The Grand"
-    year: 2007
+  The Grand (2007):
+    match:
+      title: The Grand
+      year: 2007
+    title: The Grand
     url_poster: https://theposterdb.com/api/assets/216211
-
+    year: 2007

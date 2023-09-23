@@ -1,7 +1,8 @@
 metadata:
-
-  "Bonnie and Clyde (1967)":
-    title: "Bonnie and Clyde"
-    year: 1967
+  Bonnie and Clyde (1967):
+    match:
+      title: Bonnie and Clyde
+      year: 1967
+    title: Bonnie and Clyde
     url_poster: https://theposterdb.com/api/assets/207026
-
+    year: 1967

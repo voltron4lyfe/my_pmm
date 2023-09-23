@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/194487
-
-  "Old School (2003)":
-    title: "Old School"
-    year: 2003
+metadata:
+  Old School (2003):
+    match:
+      title: Old School
+      year: 2003
+    title: Old School
     url_poster: https://theposterdb.com/api/assets/194487
+    year: 2003

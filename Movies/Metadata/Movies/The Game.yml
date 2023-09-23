@@ -1,7 +1,8 @@
 metadata:
-
-  "The Game (1997)":
-    title: "The Game"
-    year: 1997
+  The Game (1997):
+    match:
+      title: The Game
+      year: 1997
+    title: The Game
     url_poster: https://theposterdb.com/api/assets/218528
-
+    year: 1997

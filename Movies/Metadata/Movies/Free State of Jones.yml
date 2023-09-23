@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/195300
-
-  "Free State of Jones (2016)":
-    title: "Free State of Jones"
-    year: 2016
+metadata:
+  Free State of Jones (2016):
+    match:
+      title: Free State of Jones
+      year: 2016
+    title: Free State of Jones
     url_poster: https://theposterdb.com/api/assets/195300
+    year: 2016

@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/194491
-
-  "The Rum Diary (2011)":
-    title: "The Rum Diary"
-    year: 2011
+metadata:
+  The Rum Diary (2011):
+    match:
+      title: The Rum Diary
+      year: 2011
+    title: The Rum Diary
     url_poster: https://theposterdb.com/api/assets/194491
+    year: 2011

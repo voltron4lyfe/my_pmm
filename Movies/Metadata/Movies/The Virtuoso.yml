@@ -1,6 +1,8 @@
-metadata:               #Posters found here: https://theposterdb.com/poster/188283
-
-  "The Virtuoso (2021)":
-    title: "The Virtuoso"
-    year: 2021
+metadata:
+  The Virtuoso (2021):
+    match:
+      title: The Virtuoso
+      year: 2021
+    title: The Virtuoso
     url_poster: https://theposterdb.com/api/assets/188283
+    year: 2021

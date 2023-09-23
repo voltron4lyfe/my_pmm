@@ -1,7 +1,8 @@
 metadata:
-
-  "Starship Troopers (1997)":
-    title: "Starship Troopers"
-    year: 1997
+  Starship Troopers (1997):
+    match:
+      title: Starship Troopers
+      year: 1997
+    title: Starship Troopers
     url_poster: https://theposterdb.com/api/assets/185158
-
+    year: 1997

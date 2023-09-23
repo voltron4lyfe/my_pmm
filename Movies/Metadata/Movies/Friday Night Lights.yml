@@ -1,7 +1,8 @@
 metadata:
-
-  "Friday Night Lights (2004)":
-    title: "Friday Night Lights"
-    year: 2004
+  Friday Night Lights (2004):
+    match:
+      title: Friday Night Lights
+      year: 2004
+    title: Friday Night Lights
     url_poster: https://theposterdb.com/api/assets/188406
-
+    year: 2004

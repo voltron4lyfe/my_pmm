@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/user/musikmann2000
-
-  "Dune (2021)":
-    title: "Dune"
-    year: 2021
+metadata:
+  Dune (2021):
+    match:
+      title: Dune
+      year: 2021
+    title: Dune
     url_poster: https://theposterdb.com/api/assets/186187
+    year: 2021

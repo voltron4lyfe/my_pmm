@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/179599
-
-  "Krampus (2015)":
-    title: "Krampus"
-    year: 2015
+metadata:
+  Krampus (2015):
+    match:
+      title: Krampus
+      year: 2015
+    title: Krampus
     url_poster: https://theposterdb.com/api/assets/179599
+    year: 2015

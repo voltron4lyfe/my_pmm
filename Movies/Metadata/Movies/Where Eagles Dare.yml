@@ -1,7 +1,8 @@
 metadata:
-
-  "Where Eagles Dare (1968)":
-    title: "Where Eagles Dare"
-    year: 1968
+  Where Eagles Dare (1968):
+    match:
+      title: Where Eagles Dare
+      year: 1968
+    title: Where Eagles Dare
     url_poster: https://theposterdb.com/api/assets/197276
-
+    year: 1968

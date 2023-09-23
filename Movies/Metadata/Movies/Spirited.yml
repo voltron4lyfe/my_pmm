@@ -1,7 +1,8 @@
 metadata:
-
-  "Spirited (2022)":
-    title: "Spirited"
-    year: 2022
+  Spirited (2022):
+    match:
+      title: Spirited
+      year: 2022
+    title: Spirited
     url_poster: https://theposterdb.com/api/assets/288863
-
+    year: 2022

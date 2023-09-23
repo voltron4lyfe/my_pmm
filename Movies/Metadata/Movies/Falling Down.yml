@@ -1,7 +1,8 @@
 metadata:
-
-  "Falling Down (1993)":
-    title: "Falling Down"
-    year: 1993
+  Falling Down (1993):
+    match:
+      title: Falling Down
+      year: 1993
+    title: Falling Down
     url_poster: https://theposterdb.com/api/assets/211429
-
+    year: 1993

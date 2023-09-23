@@ -1,11 +1,15 @@
-metadata:               #Posters found here https://theposterdb.com/user/musikmann2000
-
-  "The Hitman's Bodyguard (2017)":
-    title: "The Hitman's Bodyguard"
-    year: 2017
-    url_poster: https://theposterdb.com/api/assets/173429
-
-  "Hitman's Wife's Bodyguard (2021)":
-    title: "Hitman's Wife's Bodyguard"
-    year: 2021
+metadata:
+  Hitman's Wife's Bodyguard (2021):
+    match:
+      title: Hitman's Wife's Bodyguard
+      year: 2021
+    title: Hitman's Wife's Bodyguard
     url_poster: https://theposterdb.com/api/assets/173430
+    year: 2021
+  The Hitman's Bodyguard (2017):
+    match:
+      title: The Hitman's Bodyguard
+      year: 2017
+    title: The Hitman's Bodyguard
+    url_poster: https://theposterdb.com/api/assets/173429
+    year: 2017

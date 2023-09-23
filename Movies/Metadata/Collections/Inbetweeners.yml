@@ -1,11 +1,15 @@
-metadata:               #Posters found here https://theposterdb.com/set/138771
-
-  "The Inbetweeners (2011)":
-    title: "The Inbetweeners"
-    year: 2011
+metadata:
+  The Inbetweeners (2011):
+    match:
+      title: The Inbetweeners
+      year: 2011
+    title: The Inbetweeners
     url_poster: https://theposterdb.com/api/assets/230745
-
-  "The Inbetweeners 2 (2014)":
-    title: "The Inbetweeners 2"
-    year: 2014
+    year: 2011
+  The Inbetweeners 2 (2014):
+    match:
+      title: The Inbetweeners 2
+      year: 2014
+    title: The Inbetweeners 2
     url_poster: https://theposterdb.com/api/assets/230746
+    year: 2014

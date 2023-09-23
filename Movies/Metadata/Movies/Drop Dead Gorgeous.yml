@@ -1,7 +1,8 @@
 metadata:
-
-  "Drop Dead Gorgeous (1999)":
-    title: "Drop Dead Gorgeous"
-    year: 1999
+  Drop Dead Gorgeous (1999):
+    match:
+      title: Drop Dead Gorgeous
+      year: 1999
+    title: Drop Dead Gorgeous
     url_poster: https://theposterdb.com/api/assets/218450
-
+    year: 1999

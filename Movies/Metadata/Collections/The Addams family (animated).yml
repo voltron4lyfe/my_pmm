@@ -1,11 +1,15 @@
-metadata:               #Posters found here https://theposterdb.com/user/musikmann2000
-
-  "The Addams Family (2019)":
-    title: "The Addams Family"
-    year: 2019
+metadata:
+  The Addams Family (2019):
+    match:
+      title: The Addams Family
+      year: 2019
+    title: The Addams Family
     url_poster: https://theposterdb.com/api/assets/173457
-
-  "The Addams Family 2 (2021)":
-    title: "The Addams Family 2"
-    year: 2021
+    year: 2019
+  The Addams Family 2 (2021):
+    match:
+      title: The Addams Family 2
+      year: 2021
+    title: The Addams Family 2
     url_poster: https://theposterdb.com/api/assets/179106
+    year: 2021

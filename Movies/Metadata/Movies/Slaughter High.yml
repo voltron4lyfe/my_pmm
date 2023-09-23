@@ -1,7 +1,8 @@
 metadata:
-
-  "Slaughter High (1986)":
-    title: "Slaughter High"
-    year: 1986
+  Slaughter High (1986):
+    match:
+      title: Slaughter High
+      year: 1986
+    title: Slaughter High
     url_poster: https://theposterdb.com/api/assets/180716
-
+    year: 1986

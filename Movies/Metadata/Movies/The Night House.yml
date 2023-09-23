@@ -1,6 +1,8 @@
-metadata:               #Posters found here: https://theposterdb.com/poster/186261
-
-  "The Night House (2021)":
-    title: "The Night House"
-    year: 2021
+metadata:
+  The Night House (2021):
+    match:
+      title: The Night House
+      year: 2021
+    title: The Night House
     url_poster: https://theposterdb.com/api/assets/186261
+    year: 2021

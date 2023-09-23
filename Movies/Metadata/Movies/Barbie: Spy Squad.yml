@@ -1,7 +1,8 @@
 metadata:
-
-  "Barbie: Spy Squad (2016)":
-    title: "Barbie: Spy Squad"
-    year: 2016
+  'Barbie: Spy Squad (2016)':
+    match:
+      title: 'Barbie: Spy Squad'
+      year: 2016
+    title: 'Barbie: Spy Squad'
     url_poster: https://theposterdb.com/api/assets/289543
-
+    year: 2016

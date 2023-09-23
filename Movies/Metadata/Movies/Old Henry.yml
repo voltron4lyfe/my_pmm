@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/183630
-
-  "Old Henry (2021)":
-    title: "Old Henry"
-    year: 2021
+metadata:
+  Old Henry (2021):
+    match:
+      title: Old Henry
+      year: 2021
+    title: Old Henry
     url_poster: https://theposterdb.com/api/assets/183630
+    year: 2021

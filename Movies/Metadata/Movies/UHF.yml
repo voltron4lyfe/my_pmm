@@ -1,7 +1,8 @@
 metadata:
-
-  "UHF (1989)":
-    title: "UHF"
-    year: 1989
+  UHF (1989):
+    match:
+      title: UHF
+      year: 1989
+    title: UHF
     url_poster: https://theposterdb.com/api/assets/225350
-
+    year: 1989

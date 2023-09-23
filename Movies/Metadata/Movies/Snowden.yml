@@ -1,6 +1,8 @@
-metadata:               #Posters found here: https://theposterdb.com/poster/202827
-
-  "Snowden (2016)":
-    title: "Snowden"
-    year: 2016
+metadata:
+  Snowden (2016):
+    match:
+      title: Snowden
+      year: 2016
+    title: Snowden
     url_poster: https://theposterdb.com/api/assets/202827
+    year: 2016

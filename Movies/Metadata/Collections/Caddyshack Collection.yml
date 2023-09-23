@@ -1,9 +1,15 @@
 metadata:
   Caddyshack (1980):
+    match:
+      title: Caddyshack
+      year: 1980
     title: Caddyshack
     url_poster: https://theposterdb.com/api/assets/171900
     year: 1980
   Caddyshack II (1988):
+    match:
+      title: Caddyshack II
+      year: 1988
     title: Caddyshack II
     url_poster: https://theposterdb.com/api/assets/171901
     year: 1988

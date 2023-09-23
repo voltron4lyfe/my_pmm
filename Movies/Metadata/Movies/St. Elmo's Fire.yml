@@ -1,7 +1,8 @@
 metadata:
-
-  "St. Elmo's Fire (1985)":
-    title: "St. Elmo's Fire"
-    year: 1985
+  St. Elmo's Fire (1985):
+    match:
+      title: St. Elmo's Fire
+      year: 1985
+    title: St. Elmo's Fire
     url_poster: https://theposterdb.com/api/assets/198515
-
+    year: 1985

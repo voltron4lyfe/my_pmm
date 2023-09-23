@@ -1,6 +1,8 @@
-metadata:               #Posters found here: https://theposterdb.com/poster/178352
-
-  "Old (2021)":
-    title: "Old"
-    year: 2021
+metadata:
+  Old (2021):
+    match:
+      title: Old
+      year: 2021
+    title: Old
     url_poster: https://theposterdb.com/api/assets/178352
+    year: 2021

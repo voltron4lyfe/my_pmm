@@ -1,7 +1,8 @@
 metadata:
-
-  "Total Recall (1990)":
-    title: "Total Recall"
-    year: 1990
+  Total Recall (1990):
+    match:
+      title: Total Recall
+      year: 1990
+    title: Total Recall
     url_poster: https://theposterdb.com/api/assets/185156
-
+    year: 1990

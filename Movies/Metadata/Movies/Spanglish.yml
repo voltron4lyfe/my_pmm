@@ -1,6 +1,8 @@
-metadata:               #Posters found here: https://theposterdb.com/poster/195574
-
-  "Spanglish (2004)":
-    title: "Spanglish"
-    year: 2004
+metadata:
+  Spanglish (2004):
+    match:
+      title: Spanglish
+      year: 2004
+    title: Spanglish
     url_poster: https://theposterdb.com/api/assets/195574
+    year: 2004

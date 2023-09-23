@@ -1,7 +1,8 @@
 metadata:
-
-  "The Muppets Take Manhattan (1984)":
-    title: "The Muppets Take Manhattan"
-    year: 1984
+  The Muppets Take Manhattan (1984):
+    match:
+      title: The Muppets Take Manhattan
+      year: 1984
+    title: The Muppets Take Manhattan
     url_poster: https://theposterdb.com/api/assets/172681
-
+    year: 1984

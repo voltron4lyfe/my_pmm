@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/user/musikmann2000
-
-  "Amélie (2001)":
-    title: "Amélie"
-    year: 2001
+metadata:
+  "Am\xE9lie (2001)":
+    match:
+      title: "Am\xE9lie"
+      year: 2001
+    title: "Am\xE9lie"
     url_poster: https://theposterdb.com/api/assets/187630
+    year: 2001

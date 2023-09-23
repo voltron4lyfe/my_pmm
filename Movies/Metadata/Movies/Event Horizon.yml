@@ -1,7 +1,8 @@
 metadata:
-
-  "Event Horizon (1997)":
-    title: "Event Horizon"
-    year: 1997
+  Event Horizon (1997):
+    match:
+      title: Event Horizon
+      year: 1997
+    title: Event Horizon
     url_poster: https://theposterdb.com/api/assets/176446
-
+    year: 1997

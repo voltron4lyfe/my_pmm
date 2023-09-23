@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/user/musikmann2000
-
-  "Red Notice (2021)":
-    title: "Red Notice"
-    year: 2021
+metadata:
+  Red Notice (2021):
+    match:
+      title: Red Notice
+      year: 2021
+    title: Red Notice
     url_poster: https://theposterdb.com/api/assets/190953
+    year: 2021

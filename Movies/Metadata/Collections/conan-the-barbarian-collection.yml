@@ -1,9 +1,15 @@
 metadata:
   Conan the Barbarian (1982):
+    match:
+      title: Conan the Barbarian
+      year: 1982
     title: Conan the Barbarian
     url_poster: https://theposterdb.com/api/assets/187589
     year: 1982
   Conan the Destroyer (1984):
+    match:
+      title: Conan the Destroyer
+      year: 1984
     title: Conan the Destroyer
     url_poster: https://theposterdb.com/api/assets/187590
     year: 1984

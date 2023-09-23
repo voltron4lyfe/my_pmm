@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/216221
-
-  "Juno (2007)":
-    title: "Juno"
-    year: 2007
+metadata:
+  Juno (2007):
+    match:
+      title: Juno
+      year: 2007
+    title: Juno
     url_poster: https://theposterdb.com/api/assets/216221
+    year: 2007

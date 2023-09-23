@@ -1,6 +1,8 @@
-metadata:               #Posters found here: https://theposterdb.com/poster/212724
-
-  "There Will Be Blood (2008)":
-    title: "There Will Be Blood"
-    year: 2007
+metadata:
+  There Will Be Blood (2008):
+    match:
+      title: There Will Be Blood
+      year: 2008
+    title: There Will Be Blood
     url_poster: https://theposterdb.com/api/assets/212724
+    year: 2007

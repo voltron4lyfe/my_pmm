@@ -1,13 +1,22 @@
 metadata:
   Dungeons & Dragons (2000):
+    match:
+      title: Dungeons & Dragons
+      year: 2000
     title: Dungeons & Dragons
     url_poster: https://theposterdb.com/api/assets/187642
     year: 2000
   'Dungeons & Dragons: The Book of Vile Darkness (2012)':
+    match:
+      title: 'Dungeons & Dragons: The Book of Vile Darkness'
+      year: 2012
     title: 'Dungeons & Dragons: The Book of Vile Darkness'
     url_poster: https://theposterdb.com/api/assets/187644
     year: 2012
   'Dungeons & Dragons: Wrath of the Dragon God (2005)':
+    match:
+      title: 'Dungeons & Dragons: Wrath of the Dragon God'
+      year: 2005
     title: 'Dungeons & Dragons: Wrath of the Dragon God'
     url_poster: https://theposterdb.com/api/assets/187643
     year: 2005

@@ -1,7 +1,8 @@
 metadata:
-
-  "Brawl in Cell Block 99 (2017)":
-    title: "Brawl in Cell Block 99"
-    year: 2017
+  Brawl in Cell Block 99 (2017):
+    match:
+      title: Brawl in Cell Block 99
+      year: 2017
+    title: Brawl in Cell Block 99
     url_poster: https://theposterdb.com/api/assets/201299
-
+    year: 2017

@@ -1,7 +1,8 @@
 metadata:
-
-  "They Live (1988)":
-    title: "They Live"
-    year: 1988
+  They Live (1988):
+    match:
+      title: They Live
+      year: 1988
+    title: They Live
     url_poster: https://theposterdb.com/api/assets/177656
-
+    year: 1988

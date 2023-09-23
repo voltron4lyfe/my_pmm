@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/user/musikmann2000
-
-  "American Underdog (2021)":
-    title: "American Underdog"
-    year: 2021
+metadata:
+  American Underdog (2021):
+    match:
+      title: American Underdog
+      year: 2021
+    title: American Underdog
     url_poster: https://theposterdb.com/api/assets/214296
+    year: 2021

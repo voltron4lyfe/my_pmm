@@ -1,7 +1,8 @@
 metadata:
-
-  "DuckTales the Movie: Treasure of the Lost Lamp (1990)":
-    title: "DuckTales the Movie: Treasure of the Lost Lamp"
-    year: 1990
+  'DuckTales the Movie: Treasure of the Lost Lamp (1990)':
+    match:
+      title: 'DuckTales the Movie: Treasure of the Lost Lamp'
+      year: 1990
+    title: 'DuckTales the Movie: Treasure of the Lost Lamp'
     url_poster: https://theposterdb.com/api/assets/233167
-
+    year: 1990

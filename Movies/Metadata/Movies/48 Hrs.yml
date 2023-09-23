@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/213884
-
-  "48 Hrs. (1982)":
-    title: "48 Hrs."
-    year: 1982
+metadata:
+  48 Hrs. (1982):
+    match:
+      title: 48 Hrs.
+      year: 1982
+    title: 48 Hrs.
     url_poster: https://theposterdb.com/api/assets/200171
+    year: 1982

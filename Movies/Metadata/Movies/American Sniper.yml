@@ -1,7 +1,8 @@
 metadata:
-
-  "American Sniper (2014)":
-    title: "American Sniper"
-    year: 2014
+  American Sniper (2014):
+    match:
+      title: American Sniper
+      year: 2014
+    title: American Sniper
     url_poster: https://theposterdb.com/api/assets/194468
-
+    year: 2014

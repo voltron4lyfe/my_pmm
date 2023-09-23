@@ -1,7 +1,8 @@
 metadata:
-
-  "Scrooged (1988)":
-    title: "Scrooged"
-    year: 1988
+  Scrooged (1988):
+    match:
+      title: Scrooged
+      year: 1988
+    title: Scrooged
     url_poster: https://theposterdb.com/api/assets/190410
-
+    year: 1988

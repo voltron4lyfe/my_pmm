@@ -1,7 +1,8 @@
 metadata:
-
-  "Get Out (2017)":
-    title: "Get Out"
-    year: 2017
+  Get Out (2017):
+    match:
+      title: Get Out
+      year: 2017
+    title: Get Out
     url_poster: https://theposterdb.com/api/assets/178852
-
+    year: 2017

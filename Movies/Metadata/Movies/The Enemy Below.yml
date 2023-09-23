@@ -1,7 +1,8 @@
 metadata:
-
-  "The Enemy Below (1957)":
-    title: "The Enemy Below"
-    year: 1957
+  The Enemy Below (1957):
+    match:
+      title: The Enemy Below
+      year: 1957
+    title: The Enemy Below
     url_poster: https://theposterdb.com/api/assets/326901
-
+    year: 1957

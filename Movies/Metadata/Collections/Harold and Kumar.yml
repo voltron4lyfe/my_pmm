@@ -1,16 +1,22 @@
-metadata:               #Posters found here https://theposterdb.com/user/musikmann2000
-
-  "Harold & Kumar Go to White Castle (2004)":
-    title: "Harold & Kumar Go to White Castle"
-    year: 2004
-    url_poster: https://theposterdb.com/api/assets/189951
-
-  "Harold & Kumar Escape from Guantanamo Bay (2008)":
-    title: "Harold & Kumar Escape from Guantanamo Bay"
-    year: 2008
-    url_poster: https://theposterdb.com/api/assets/189952
-
-  "A Very Harold & Kumar Christmas (2011)":
-    title: "A Very Harold & Kumar Christmas"
-    year: 2011
+metadata:
+  A Very Harold & Kumar Christmas (2011):
+    match:
+      title: A Very Harold & Kumar Christmas
+      year: 2011
+    title: A Very Harold & Kumar Christmas
     url_poster: https://theposterdb.com/api/assets/189953
+    year: 2011
+  Harold & Kumar Escape from Guantanamo Bay (2008):
+    match:
+      title: Harold & Kumar Escape from Guantanamo Bay
+      year: 2008
+    title: Harold & Kumar Escape from Guantanamo Bay
+    url_poster: https://theposterdb.com/api/assets/189952
+    year: 2008
+  Harold & Kumar Go to White Castle (2004):
+    match:
+      title: Harold & Kumar Go to White Castle
+      year: 2004
+    title: Harold & Kumar Go to White Castle
+    url_poster: https://theposterdb.com/api/assets/189951
+    year: 2004

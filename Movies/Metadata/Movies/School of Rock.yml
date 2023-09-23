@@ -1,7 +1,8 @@
 metadata:
-
-  "School of Rock (2003)":
-    title: "School of Rock"
-    year: 2003
+  School of Rock (2003):
+    match:
+      title: School of Rock
+      year: 2003
+    title: School of Rock
     url_poster: https://theposterdb.com/api/assets/212609
-
+    year: 2003

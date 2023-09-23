@@ -1,7 +1,8 @@
 metadata:
-
-  "Flight of the Intruder (1991)":
-    title: "Flight of the Intruder"
-    year: 1991
+  Flight of the Intruder (1991):
+    match:
+      title: Flight of the Intruder
+      year: 1991
+    title: Flight of the Intruder
     url_poster: https://theposterdb.com/api/assets/196066
-
+    year: 1991

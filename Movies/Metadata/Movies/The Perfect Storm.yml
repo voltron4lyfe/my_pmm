@@ -1,6 +1,8 @@
-metadata:               #Posters found here: https://theposterdb.com/poster/194490
-
-  "The Perfect Storm (2000)":
-    title: "The Perfect Storm"
-    year: 2000
+metadata:
+  The Perfect Storm (2000):
+    match:
+      title: The Perfect Storm
+      year: 2000
+    title: The Perfect Storm
     url_poster: https://theposterdb.com/api/assets/194490
+    year: 2000

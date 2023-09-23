@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/190417
-
-  "Four Christmases (2008)":
-    title: "Four Christmases"
-    year: 2008
+metadata:
+  Four Christmases (2008):
+    match:
+      title: Four Christmases
+      year: 2008
+    title: Four Christmases
     url_poster: https://theposterdb.com/api/assets/190417
+    year: 2008

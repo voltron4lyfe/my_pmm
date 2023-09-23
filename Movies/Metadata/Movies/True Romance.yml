@@ -1,7 +1,8 @@
 metadata:
-
-  "True Romance (1993)":
-    title: "True Romance"
-    year: 1993
+  True Romance (1993):
+    match:
+      title: True Romance
+      year: 1993
+    title: True Romance
     url_poster: https://theposterdb.com/api/assets/197025
-
+    year: 1993

@@ -1,7 +1,8 @@
 metadata:
-
-  "The Philadelphia Story (1940)":
-    title: "The Philadelphia Story"
-    year: 1940
+  The Philadelphia Story (1940):
+    match:
+      title: The Philadelphia Story
+      year: 1940
+    title: The Philadelphia Story
     url_poster: https://theposterdb.com/api/assets/244066
-
+    year: 1940

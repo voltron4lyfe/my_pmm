@@ -1,7 +1,8 @@
 metadata:
-
-  "Ripley's Game (2003)":
-    title: "Ripley's Game"
-    year: 2003
+  Ripley's Game (2003):
+    match:
+      title: Ripley's Game
+      year: 2003
+    title: Ripley's Game
     url_poster: https://theposterdb.com/api/assets/292387
-
+    year: 2003

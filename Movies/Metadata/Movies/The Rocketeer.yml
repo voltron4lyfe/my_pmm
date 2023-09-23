@@ -1,7 +1,8 @@
 metadata:
-
-  "The Rocketeer (1991)":
-    title: "The Rocketeer"
-    year: 1991
+  The Rocketeer (1991):
+    match:
+      title: The Rocketeer
+      year: 1991
+    title: The Rocketeer
     url_poster: https://theposterdb.com/api/assets/171837
-
+    year: 1991

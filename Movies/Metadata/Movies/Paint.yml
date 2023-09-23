@@ -1,7 +1,8 @@
 metadata:
-
-  "Paint (2023)":
-    title: "Paint"
-    year: 2023
+  Paint (2023):
+    match:
+      title: Paint
+      year: 2023
+    title: Paint
     url_poster: https://theposterdb.com/api/assets/359759
-
+    year: 2023

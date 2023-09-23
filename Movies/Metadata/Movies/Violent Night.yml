@@ -1,7 +1,8 @@
 metadata:
-
-  "Violent Night (2022)":
-    title: "Violent Night"
-    year: 2022
+  Violent Night (2022):
+    match:
+      title: Violent Night
+      year: 2022
+    title: Violent Night
     url_poster: https://theposterdb.com/api/assets/300805
-
+    year: 2022

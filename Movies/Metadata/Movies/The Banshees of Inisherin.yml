@@ -1,7 +1,8 @@
 metadata:
-
-  "The Banshees of Inisherin (2022)":
-    title: "The Banshees of Inisherin"
-    year: 2022
+  The Banshees of Inisherin (2022):
+    match:
+      title: The Banshees of Inisherin
+      year: 2022
+    title: The Banshees of Inisherin
     url_poster: https://theposterdb.com/api/assets/297370
-
+    year: 2022

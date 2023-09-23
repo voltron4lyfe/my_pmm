@@ -1,7 +1,8 @@
 metadata:
-
-  "The Town (2010)":
-    title: "The Town"
-    year: 2010
+  The Town (2010):
+    match:
+      title: The Town
+      year: 2010
+    title: The Town
     url_poster: https://theposterdb.com/api/assets/194498
-
+    year: 2010

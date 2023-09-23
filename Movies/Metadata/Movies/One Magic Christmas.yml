@@ -1,6 +1,8 @@
-metadata:               #Posters found here: https://theposterdb.com/poster/249018
-
-  "One Magic Christmas (1985)":
-    title: "One Magic Christmas"
-    year: 1985
+metadata:
+  One Magic Christmas (1985):
+    match:
+      title: One Magic Christmas
+      year: 1985
+    title: One Magic Christmas
     url_poster: https://theposterdb.com/api/assets/249018
+    year: 1985

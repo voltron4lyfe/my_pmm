@@ -1,7 +1,8 @@
 metadata:
-
-  "Edge of Tomorrow (2014)":
-    title: "Edge of Tomorrow"
-    year: 2014
+  Edge of Tomorrow (2014):
+    match:
+      title: Edge of Tomorrow
+      year: 2014
+    title: Edge of Tomorrow
     url_poster: https://theposterdb.com/api/assets/184866
-
+    year: 2014

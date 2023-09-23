@@ -1,9 +1,15 @@
 metadata:
   An American Werewolf in London (1981):
+    match:
+      title: An American Werewolf in London
+      year: 1981
     title: An American Werewolf in London
     url_poster: https://theposterdb.com/api/assets/180585
     year: 1981
   An American Werewolf in Paris (1997):
+    match:
+      title: An American Werewolf in Paris
+      year: 1997
     title: An American Werewolf in Paris
     url_poster: https://theposterdb.com/api/assets/180586
     year: 1997

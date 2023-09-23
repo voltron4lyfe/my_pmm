@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/user/musikmann2000
-
-  "12 Years a Slave (2013)":
-    title: "12 Years a Slave"
-    year: 2013
+metadata:
+  12 Years a Slave (2013):
+    match:
+      title: 12 Years a Slave
+      year: 2013
+    title: 12 Years a Slave
     url_poster: https://theposterdb.com/api/assets/184109
+    year: 2013

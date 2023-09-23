@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/210348
-
-  "Antlers (2021)":
-    title: "Antlers"
-    year: 2021
+metadata:
+  Antlers (2021):
+    match:
+      title: Antlers
+      year: 2021
+    title: Antlers
     url_poster: https://theposterdb.com/api/assets/210348
+    year: 2021

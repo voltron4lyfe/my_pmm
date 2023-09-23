@@ -1,11 +1,15 @@
-metadata:               #Posters found here https://theposterdb.com/poster/161052
-
-  "Gremlins (1984)":
-    title: "Gremlins"
-    year: 1984
+metadata:
+  Gremlins (1984):
+    match:
+      title: Gremlins
+      year: 1984
+    title: Gremlins
     url_poster: https://theposterdb.com/api/assets/174790
-
-  "Gremlins 2: The New Batch (1990)":
-    title: "Gremlins 2: The New Batch"
-    year: 1990
+    year: 1984
+  'Gremlins 2: The New Batch (1990)':
+    match:
+      title: 'Gremlins 2: The New Batch'
+      year: 1990
+    title: 'Gremlins 2: The New Batch'
     url_poster: https://theposterdb.com/api/assets/174791
+    year: 1990

@@ -1,7 +1,8 @@
 metadata:
-
-  "West Side Story (1961)":
-    title: "West Side Story"
-    year: 1961
+  West Side Story (1961):
+    match:
+      title: West Side Story
+      year: 1961
+    title: West Side Story
     url_poster: https://theposterdb.com/api/assets/186270
-
+    year: 1961

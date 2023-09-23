@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/189153
-
-  "Blades of Glory (2007)":
-    title: "Blades of Glory"
-    year: 2007
+metadata:
+  Blades of Glory (2007):
+    match:
+      title: Blades of Glory
+      year: 2007
+    title: Blades of Glory
     url_poster: https://theposterdb.com/api/assets/189153
+    year: 2007

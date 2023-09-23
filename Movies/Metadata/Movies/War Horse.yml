@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/user/musikmann2000
-
-  "War Horse (2011)":
-    title: "War Horse"
-    year: 2011
+metadata:
+  War Horse (2011):
+    match:
+      title: War Horse
+      year: 2011
+    title: War Horse
     url_poster: https://theposterdb.com/api/assets/179240
+    year: 2011

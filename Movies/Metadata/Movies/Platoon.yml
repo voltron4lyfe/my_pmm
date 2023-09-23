@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/184620
-
-  "Platoon (1986)":
-    title: "Platoon"
-    year: 1986
+metadata:
+  Platoon (1986):
+    match:
+      title: Platoon
+      year: 1986
+    title: Platoon
     url_poster: https://theposterdb.com/api/assets/184620
+    year: 1986

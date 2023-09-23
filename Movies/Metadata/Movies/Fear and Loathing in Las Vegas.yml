@@ -1,7 +1,8 @@
 metadata:
-
-  "Fear and Loathing in Las Vegas (1998)":
-    title: "Fear and Loathing in Las Vegas"
-    year: 1998
+  Fear and Loathing in Las Vegas (1998):
+    match:
+      title: Fear and Loathing in Las Vegas
+      year: 1998
+    title: Fear and Loathing in Las Vegas
     url_poster: https://theposterdb.com/api/assets/194019
-
+    year: 1998

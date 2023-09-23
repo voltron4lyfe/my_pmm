@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/197219
-
-  "A Beautiful Mind (2001)":
-    title: "A Beautiful Mind"
-    year: 2001
+metadata:
+  A Beautiful Mind (2001):
+    match:
+      title: A Beautiful Mind
+      year: 2001
+    title: A Beautiful Mind
     url_poster: https://theposterdb.com/api/assets/184134
+    year: 2001

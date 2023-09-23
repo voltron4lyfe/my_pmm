@@ -1,6 +1,8 @@
-metadata:               #Posters found here: https://theposterdb.com/poster/250493
-
-  "TINA (2021)":
-    title: "TINA"
-    year: 2021
+metadata:
+  TINA (2021):
+    match:
+      title: TINA
+      year: 2021
+    title: TINA
     url_poster: https://theposterdb.com/api/assets/250493
+    year: 2021

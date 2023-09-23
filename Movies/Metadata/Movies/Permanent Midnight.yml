@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/255397
-
-  "Permanent Midnight (1998)":
-    title: "Permanent Midnight"
-    year: 1998
+metadata:
+  Permanent Midnight (1998):
+    match:
+      title: Permanent Midnight
+      year: 1998
+    title: Permanent Midnight
     url_poster: https://theposterdb.com/api/assets/255397
+    year: 1998

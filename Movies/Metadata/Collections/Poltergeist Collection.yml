@@ -1,13 +1,22 @@
 metadata:
   Poltergeist (1982):
+    match:
+      title: Poltergeist
+      year: 1982
     title: Poltergeist
     url_poster: https://theposterdb.com/api/assets/178581
     year: 1982
   'Poltergeist II: The Other Side (1986)':
+    match:
+      title: 'Poltergeist II: The Other Side'
+      year: 1986
     title: 'Poltergeist II: The Other Side'
     url_poster: https://theposterdb.com/api/assets/178582
     year: 1986
   Poltergeist III (1988):
+    match:
+      title: Poltergeist III
+      year: 1988
     title: Poltergeist III
     url_poster: https://theposterdb.com/api/assets/178583
     year: 1988

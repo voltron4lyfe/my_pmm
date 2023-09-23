@@ -1,6 +1,8 @@
-metadata:               #Posters found here: https://theposterdb.com/poster/245650
-
-  "Reminiscence (2021)":
-    title: "Reminiscence"
-    year: 2021
+metadata:
+  Reminiscence (2021):
+    match:
+      title: Reminiscence
+      year: 2021
+    title: Reminiscence
     url_poster: https://theposterdb.com/api/assets/245650
+    year: 2021

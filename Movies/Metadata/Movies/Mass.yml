@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/201220
-
-  "Mass (2021)":
-    title: "Mass"
-    year: 2021
+metadata:
+  Mass (2021):
+    match:
+      title: Mass
+      year: 2021
+    title: Mass
     url_poster: https://theposterdb.com/api/assets/201220
+    year: 2021

@@ -1,7 +1,8 @@
 metadata:
-
-  "Road Games (1981)":
-    title: "Road Games"
-    year: 1981
+  Road Games (1981):
+    match:
+      title: Road Games
+      year: 1981
+    title: Road Games
     url_poster: https://theposterdb.com/api/assets/266432
-
+    year: 1981

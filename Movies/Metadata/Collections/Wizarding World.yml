@@ -1,62 +1,85 @@
-metadata:               #Posters found here https://theposterdb.com/user/musikmann2000
-
-#Fantastic Beasts:
-  "Fantastic Beasts and Where to Find Them (2016)":
-    title: "Fantastic Beasts and Where to Find Them"
-    year: 2016
+metadata:
+  Fantastic Beasts and Where to Find Them (2016):
+    match:
+      title: Fantastic Beasts and Where to Find Them
+      year: 2016
+    title: Fantastic Beasts and Where to Find Them
     url_poster: https://theposterdb.com/api/assets/173774
-
-  "Fantastic Beasts: The Crimes of Grindelwald (2018)":
-    title: "Fantastic Beasts: The Crimes of Grindelwald"
-    year: 2018
+    year: 2016
+  'Fantastic Beasts: The Crimes of Grindelwald (2018)':
+    match:
+      title: 'Fantastic Beasts: The Crimes of Grindelwald'
+      year: 2018
+    title: 'Fantastic Beasts: The Crimes of Grindelwald'
     url_poster: https://theposterdb.com/api/assets/173775
-
-  "Fantastic Beasts: The Secrets of Dumbledore (2022)":
-    title: "Fantastic Beasts: The Secrets of Dumbledore"
-    year: 2022
+    year: 2018
+  'Fantastic Beasts: The Secrets of Dumbledore (2022)':
+    match:
+      title: 'Fantastic Beasts: The Secrets of Dumbledore'
+      year: 2022
+    title: 'Fantastic Beasts: The Secrets of Dumbledore'
     url_poster: https://theposterdb.com/api/assets/234917
-
-  "Harry Potter and the Sorcerer's Stone (2001)":
-    title: "Harry Potter and the Sorcerer's Stone"
-    year: 2001
-    url_poster: https://theposterdb.com/api/assets/173813
-
-  "Harry Potter and the Chamber of Secrets (2002)":
-    title: "Harry Potter and the Chamber of Secrets"
-    year: 2002
-    url_poster: https://theposterdb.com/api/assets/173814
-
-  "Harry Potter and the Prisoner of Azkaban (2004)":
-    title: "Harry Potter and the Prisoner of Azkaban"
-    year: 2004
-    url_poster: https://theposterdb.com/api/assets/173815
-
-  "Harry Potter and the Goblet of Fire (2005)":
-    title: "Harry Potter and the Goblet of Fire"
-    year: 2005
-    url_poster: https://theposterdb.com/api/assets/173816
-
-  "Harry Potter and the Order of the Phoenix (2007)":
-    title: "Harry Potter and the Order of the Phoenix"
-    year: 2007
-    url_poster: https://theposterdb.com/api/assets/173817
-
-  "Harry Potter and the Half-Blood Prince (2009)":
-    title: "Harry Potter and the Half-Blood Prince"
-    year: 2009
-    url_poster: https://theposterdb.com/api/assets/173818
-
-  "Harry Potter and the Deathly Hallows: Part 1 (2010)":
-    title: "Harry Potter and the Deathly Hallows: Part 1"
-    year: 2010
-    url_poster: https://theposterdb.com/api/assets/173819
-
-  "Harry Potter and the Deathly Hallows: Part 2 (2011)":
-    title: "Harry Potter and the Deathly Hallows: Part 2"
-    year: 2011
-    url_poster: https://theposterdb.com/api/assets/173820
-
-  "Harry Potter 20th Anniversary: Return to Hogwarts (2022)":
-    title: "Harry Potter 20th Anniversary: Return to Hogwarts"
     year: 2022
+  'Harry Potter 20th Anniversary: Return to Hogwarts (2022)':
+    match:
+      title: 'Harry Potter 20th Anniversary: Return to Hogwarts'
+      year: 2022
+    title: 'Harry Potter 20th Anniversary: Return to Hogwarts'
     url_poster: https://theposterdb.com/api/assets/200741
+    year: 2022
+  Harry Potter and the Chamber of Secrets (2002):
+    match:
+      title: Harry Potter and the Chamber of Secrets
+      year: 2002
+    title: Harry Potter and the Chamber of Secrets
+    url_poster: https://theposterdb.com/api/assets/173814
+    year: 2002
+  'Harry Potter and the Deathly Hallows: Part 1 (2010)':
+    match:
+      title: 'Harry Potter and the Deathly Hallows: Part 1'
+      year: 2010
+    title: 'Harry Potter and the Deathly Hallows: Part 1'
+    url_poster: https://theposterdb.com/api/assets/173819
+    year: 2010
+  'Harry Potter and the Deathly Hallows: Part 2 (2011)':
+    match:
+      title: 'Harry Potter and the Deathly Hallows: Part 2'
+      year: 2011
+    title: 'Harry Potter and the Deathly Hallows: Part 2'
+    url_poster: https://theposterdb.com/api/assets/173820
+    year: 2011
+  Harry Potter and the Goblet of Fire (2005):
+    match:
+      title: Harry Potter and the Goblet of Fire
+      year: 2005
+    title: Harry Potter and the Goblet of Fire
+    url_poster: https://theposterdb.com/api/assets/173816
+    year: 2005
+  Harry Potter and the Half-Blood Prince (2009):
+    match:
+      title: Harry Potter and the Half-Blood Prince
+      year: 2009
+    title: Harry Potter and the Half-Blood Prince
+    url_poster: https://theposterdb.com/api/assets/173818
+    year: 2009
+  Harry Potter and the Order of the Phoenix (2007):
+    match:
+      title: Harry Potter and the Order of the Phoenix
+      year: 2007
+    title: Harry Potter and the Order of the Phoenix
+    url_poster: https://theposterdb.com/api/assets/173817
+    year: 2007
+  Harry Potter and the Prisoner of Azkaban (2004):
+    match:
+      title: Harry Potter and the Prisoner of Azkaban
+      year: 2004
+    title: Harry Potter and the Prisoner of Azkaban
+    url_poster: https://theposterdb.com/api/assets/173815
+    year: 2004
+  Harry Potter and the Sorcerer's Stone (2001):
+    match:
+      title: Harry Potter and the Sorcerer's Stone
+      year: 2001
+    title: Harry Potter and the Sorcerer's Stone
+    url_poster: https://theposterdb.com/api/assets/173813
+    year: 2001

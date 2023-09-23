@@ -1,7 +1,8 @@
 metadata:
-
-  "Zero Dark Thirty (2012)":
-    title: "Zero Dark Thirty"
-    year: 2012
+  Zero Dark Thirty (2012):
+    match:
+      title: Zero Dark Thirty
+      year: 2012
+    title: Zero Dark Thirty
     url_poster: https://theposterdb.com/api/assets/194507
-
+    year: 2012

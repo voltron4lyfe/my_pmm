@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/237606
-
-  "Good Hair (2009)":
-    title: "Good Hair"
-    year: 2009
+metadata:
+  Good Hair (2009):
+    match:
+      title: Good Hair
+      year: 2009
+    title: Good Hair
     url_poster: https://theposterdb.com/api/assets/237606
+    year: 2009

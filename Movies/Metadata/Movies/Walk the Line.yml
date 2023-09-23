@@ -1,7 +1,8 @@
 metadata:
-
-  "Walk the Line (2005)":
-    title: "Walk the Line"
-    year: 2005
+  Walk the Line (2005):
+    match:
+      title: Walk the Line
+      year: 2005
+    title: Walk the Line
     url_poster: https://theposterdb.com/api/assets/207812
-
+    year: 2005

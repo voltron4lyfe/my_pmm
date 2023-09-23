@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/213040
-
-  "Get Him to the Greek (2010)":
-    title: "Get Him to the Greek"
-    year: 2010
+metadata:
+  Get Him to the Greek (2010):
+    match:
+      title: Get Him to the Greek
+      year: 2010
+    title: Get Him to the Greek
     url_poster: https://theposterdb.com/api/assets/213040
+    year: 2010

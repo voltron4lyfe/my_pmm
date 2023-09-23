@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/user/musikmann2000
-
-  "Big Daddy (1999)":
-    title: "Big Daddy"
-    year: 1999
+metadata:
+  Big Daddy (1999):
+    match:
+      title: Big Daddy
+      year: 1999
+    title: Big Daddy
     url_poster: https://theposterdb.com/api/assets/195556
+    year: 1999

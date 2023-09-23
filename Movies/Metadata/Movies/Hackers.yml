@@ -1,7 +1,8 @@
 metadata:
-
-  "Hackers (1995)":
-    title: "Hackers"
-    year: 1995
+  Hackers (1995):
+    match:
+      title: Hackers
+      year: 1995
+    title: Hackers
     url_poster: https://theposterdb.com/api/assets/218699
-
+    year: 1995

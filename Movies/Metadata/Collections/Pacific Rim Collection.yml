@@ -1,9 +1,15 @@
 metadata:
   Pacific Rim (2013):
+    match:
+      title: Pacific Rim
+      year: 2013
     title: Pacific Rim
     url_poster: https://theposterdb.com/api/assets/201000
     year: 2013
   'Pacific Rim: Uprising (2018)':
+    match:
+      title: 'Pacific Rim: Uprising'
+      year: 2018
     title: 'Pacific Rim: Uprising'
     url_poster: https://theposterdb.com/api/assets/201001
     year: 2018

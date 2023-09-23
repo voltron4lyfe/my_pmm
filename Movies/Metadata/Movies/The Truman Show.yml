@@ -1,6 +1,8 @@
-metadata:               #Posters found here: https://theposterdb.com/poster/221822
-
-  "The Truman Show (1998)":
-    title: "The Truman Show"
-    year: 1998
+metadata:
+  The Truman Show (1998):
+    match:
+      title: The Truman Show
+      year: 1998
+    title: The Truman Show
     url_poster: https://theposterdb.com/api/assets/221822
+    year: 1998

@@ -1,7 +1,8 @@
 metadata:
-
-  "Repo Man (1984)":
-    title: "Repo Man"
-    year: 1984
+  Repo Man (1984):
+    match:
+      title: Repo Man
+      year: 1984
+    title: Repo Man
     url_poster: https://theposterdb.com/api/assets/187086
-
+    year: 1984

@@ -1,7 +1,8 @@
 metadata:
-
-  "Elysium (2013)":
-    title: "Elysium"
-    year: 2013
+  Elysium (2013):
+    match:
+      title: Elysium
+      year: 2013
+    title: Elysium
     url_poster: https://theposterdb.com/api/assets/185058
-
+    year: 2013

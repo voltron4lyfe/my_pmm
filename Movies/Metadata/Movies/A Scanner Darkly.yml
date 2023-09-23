@@ -1,7 +1,8 @@
 metadata:
-
-  "A Scanner Darkly (2006)":
-    title: "A Scanner Darkly"
-    year: 2006
+  A Scanner Darkly (2006):
+    match:
+      title: A Scanner Darkly
+      year: 2006
+    title: A Scanner Darkly
     url_poster: https://theposterdb.com/api/assets/185464
-
+    year: 2006

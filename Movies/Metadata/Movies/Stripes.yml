@@ -1,13 +1,13 @@
 metadata:
-
-  "Stripes (1981)":
-    title: "Stripes"
-    year: 1981
+  Stripes (1981):
+    match:
+      title: Stripes
+      year: 1981
+    title: Stripes
     url_poster: https://theposterdb.com/api/assets/196941
-
-  "Stripes (Extended)":
-    title: "Stripes"
     year: 1981
+  Stripes (Extended):
     edition_filter: Extended Cut
+    title: Stripes
     url_poster: https://theposterdb.com/api/assets/196941
-
+    year: 1981

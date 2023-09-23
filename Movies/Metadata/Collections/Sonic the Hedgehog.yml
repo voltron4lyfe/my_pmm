@@ -1,11 +1,15 @@
-metadata:               #Posters found here https://theposterdb.com/poster/175302
-
-  "Sonic the Hedgehog (2020)":
-    title: "Sonic the Hedgehog"
-    year: 2020
+metadata:
+  Sonic the Hedgehog (2020):
+    match:
+      title: Sonic the Hedgehog
+      year: 2020
+    title: Sonic the Hedgehog
     url_poster: https://theposterdb.com/api/assets/175302
-
-  "Sonic the Hedgehog 2 (2022)":
-    title: "Sonic the Hedgehog 2"
-    year: 2022
+    year: 2020
+  Sonic the Hedgehog 2 (2022):
+    match:
+      title: Sonic the Hedgehog 2
+      year: 2022
+    title: Sonic the Hedgehog 2
     url_poster: https://theposterdb.com/api/assets/234938
+    year: 2022

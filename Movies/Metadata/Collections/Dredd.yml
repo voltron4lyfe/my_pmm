@@ -1,10 +1,15 @@
 metadata:
-  Judge Dredd (1995):
-    title: Judge Dredd
-    url_poster: https://theposterdb.com/api/assets/171688
-    year: 1995
   Dredd (2012):
+    match:
+      title: Dredd
+      year: 2012
     title: Dredd
     url_poster: https://theposterdb.com/api/assets/1716898
     year: 2012
-
+  Judge Dredd (1995):
+    match:
+      title: Judge Dredd
+      year: 1995
+    title: Judge Dredd
+    url_poster: https://theposterdb.com/api/assets/171688
+    year: 1995

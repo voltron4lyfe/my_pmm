@@ -1,7 +1,8 @@
 metadata:
-
-  "Vertical Limit (2000)":
-    title: "Vertical Limit"
-    year: 2000
+  Vertical Limit (2000):
+    match:
+      title: Vertical Limit
+      year: 2000
+    title: Vertical Limit
     url_poster: https://theposterdb.com/api/assets/188762
-
+    year: 2000

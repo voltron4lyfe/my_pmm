@@ -1,7 +1,8 @@
 metadata:
-
-  "Vertigo (1958)":
-    title: "Vertigo"
-    year: 1958
+  Vertigo (1958):
+    match:
+      title: Vertigo
+      year: 1958
+    title: Vertigo
     url_poster: https://theposterdb.com/api/assets/207825
-
+    year: 1958

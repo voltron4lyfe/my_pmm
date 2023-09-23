@@ -1,7 +1,8 @@
 metadata:
-
-  "Lost in Translation (2003)":
-    title: "Lost in Translation"
-    year: 2003
+  Lost in Translation (2003):
+    match:
+      title: Lost in Translation
+      year: 2003
+    title: Lost in Translation
     url_poster: https://theposterdb.com/api/assets/217557
-
+    year: 2003

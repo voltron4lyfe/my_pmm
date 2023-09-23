@@ -1,7 +1,8 @@
 metadata:
-
-  "Young Frankenstein (1974)":
-    title: "Young Frankenstein"
-    year: 1974
+  Young Frankenstein (1974):
+    match:
+      title: Young Frankenstein
+      year: 1974
+    title: Young Frankenstein
     url_poster: https://theposterdb.com/api/assets/181320
-
+    year: 1974

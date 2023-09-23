@@ -1,7 +1,8 @@
 metadata:
-
-  "Mars Attacks! (1996)":
-    title: "Mars Attacks!"
-    year: 1996
+  Mars Attacks! (1996):
+    match:
+      title: Mars Attacks!
+      year: 1996
+    title: Mars Attacks!
     url_poster: https://theposterdb.com/api/assets/186818
-
+    year: 1996

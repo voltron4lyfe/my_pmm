@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/179257
-
-  "The Guilty (2021)":
-    title: "The Guilty"
-    year: 2021
+metadata:
+  The Guilty (2021):
+    match:
+      title: The Guilty
+      year: 2021
+    title: The Guilty
     url_poster: https://theposterdb.com/api/assets/179257
+    year: 2021

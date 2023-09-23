@@ -1,7 +1,8 @@
 metadata:
-
-  "Little Shop of Horrors (1986)":
-    title: "Little Shop of Horrors"
-    year: 1986
+  Little Shop of Horrors (1986):
+    match:
+      title: Little Shop of Horrors
+      year: 1986
+    title: Little Shop of Horrors
     url_poster: https://theposterdb.com/api/assets/180671
-
+    year: 1986

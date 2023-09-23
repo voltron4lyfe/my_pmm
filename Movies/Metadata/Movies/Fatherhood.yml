@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/198188
-
-  "Fatherhood (2021)":
-    title: "Fatherhood"
-    year: 2021
+metadata:
+  Fatherhood (2021):
+    match:
+      title: Fatherhood
+      year: 2021
+    title: Fatherhood
     url_poster: https://theposterdb.com/api/assets/198188
+    year: 2021

@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/user/musikmann2000
-
-  "Escape From Alcatraz (1979)":
-    title: "Escape from Alcatraz"
-    year: 1979
+metadata:
+  Escape From Alcatraz (1979):
+    match:
+      title: Escape From Alcatraz
+      year: 1979
+    title: Escape from Alcatraz
     url_poster: https://theposterdb.com/api/assets/211228
+    year: 1979

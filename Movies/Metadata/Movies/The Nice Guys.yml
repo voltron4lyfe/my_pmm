@@ -1,7 +1,8 @@
 metadata:
-
-  "The Nice Guys (2016)":
-    title: "The Nice Guys"
-    year: 2016
+  The Nice Guys (2016):
+    match:
+      title: The Nice Guys
+      year: 2016
+    title: The Nice Guys
     url_poster: https://theposterdb.com/api/assets/202371
-
+    year: 2016

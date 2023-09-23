@@ -1,7 +1,8 @@
 metadata:
-
-  "Mad God (2022)":
-    title: "Mad God"
-    year: 2022
+  Mad God (2022):
+    match:
+      title: Mad God
+      year: 2022
+    title: Mad God
     url_poster: https://theposterdb.com/api/assets/245865
-
+    year: 2022

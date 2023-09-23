@@ -1,7 +1,8 @@
 metadata:
-
-  "Lord of War (2005)":
-    title: "Lord of War"
-    year: 2005
+  Lord of War (2005):
+    match:
+      title: Lord of War
+      year: 2005
+    title: Lord of War
     url_poster: https://theposterdb.com/api/assets/216861
-
+    year: 2005

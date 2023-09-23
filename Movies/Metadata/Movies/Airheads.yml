@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/user/musikmann2000
-
-  "Airheads (1994)":
-    title: "Airheads"
-    year: 1994
+metadata:
+  Airheads (1994):
+    match:
+      title: Airheads
+      year: 1994
+    title: Airheads
     url_poster: https://theposterdb.com/api/assets/195554
+    year: 1994

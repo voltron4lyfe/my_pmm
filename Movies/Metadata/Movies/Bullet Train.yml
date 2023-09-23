@@ -1,7 +1,8 @@
 metadata:
-
-  "Bullet Train (2022)":
-    title: "Bullet Train"
-    year: 2022
+  Bullet Train (2022):
+    match:
+      title: Bullet Train
+      year: 2022
+    title: Bullet Train
     url_poster: https://theposterdb.com/api/assets/269722
-
+    year: 2022

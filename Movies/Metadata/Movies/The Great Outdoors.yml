@@ -1,7 +1,8 @@
 metadata:
-
-  "The Great Outdoors (1988)":
-    title: "The Great Outdoors"
-    year: 1988
+  The Great Outdoors (1988):
+    match:
+      title: The Great Outdoors
+      year: 1988
+    title: The Great Outdoors
     url_poster: https://theposterdb.com/api/assets/200024
-
+    year: 1988

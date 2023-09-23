@@ -1,26 +1,36 @@
-metadata:               #Posters found here https://theposterdb.com/user/musikmann2000
-
-  "Jaws (1975)":
-    title: "Jaws"
-    year: 1975
-    url_poster: https://theposterdb.com/api/assets/177611
-
-  "Jaws 2 (1978)":
-    title: "Jaws 2"
-    year: 1978
-    url_poster: https://theposterdb.com/api/assets/177612
-
-  "Jaws 3-D (1983)":
-    title: "Jaws 3-D"
-    year: 1983
-    url_poster: https://theposterdb.com/api/assets/177613
-
-  "Jaws: The Revenge (1987)":
-    title: "Jaws: The Revenge"
-    year: 1987
-    url_poster: https://theposterdb.com/api/assets/177614
-
-  "Cruel Jaws (1995)":
-    title: "Cruel Jaws"
-    year: 1995
+metadata:
+  Cruel Jaws (1995):
+    match:
+      title: Cruel Jaws
+      year: 1995
+    title: Cruel Jaws
     url_poster: https://theposterdb.com/api/assets/177615
+    year: 1995
+  Jaws (1975):
+    match:
+      title: Jaws
+      year: 1975
+    title: Jaws
+    url_poster: https://theposterdb.com/api/assets/177611
+    year: 1975
+  Jaws 2 (1978):
+    match:
+      title: Jaws 2
+      year: 1978
+    title: Jaws 2
+    url_poster: https://theposterdb.com/api/assets/177612
+    year: 1978
+  Jaws 3-D (1983):
+    match:
+      title: Jaws 3-D
+      year: 1983
+    title: Jaws 3-D
+    url_poster: https://theposterdb.com/api/assets/177613
+    year: 1983
+  'Jaws: The Revenge (1987)':
+    match:
+      title: 'Jaws: The Revenge'
+      year: 1987
+    title: 'Jaws: The Revenge'
+    url_poster: https://theposterdb.com/api/assets/177614
+    year: 1987

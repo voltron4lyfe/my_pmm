@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/255393
-
-  "Luck (2022)":
-    title: "Luck"
-    year: 2022
+metadata:
+  Luck (2022):
+    match:
+      title: Luck
+      year: 2022
+    title: Luck
     url_poster: https://theposterdb.com/api/assets/255393
+    year: 2022

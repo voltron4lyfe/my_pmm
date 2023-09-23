@@ -1,16 +1,22 @@
-metadata:               #Posters found here https://theposterdb.com/user/musikmann2000
-
-  "Back to the Future (1985)":
-    title: "Back to the Future"
-    year: 1985
+metadata:
+  Back to the Future (1985):
+    match:
+      title: Back to the Future
+      year: 1985
+    title: Back to the Future
     url_poster: https://theposterdb.com/api/assets/173584
-
-  "Back to the Future Part II (1989)":
-    title: "Back to the Future Part II"
-    year: 1989
+    year: 1985
+  Back to the Future Part II (1989):
+    match:
+      title: Back to the Future Part II
+      year: 1989
+    title: Back to the Future Part II
     url_poster: https://theposterdb.com/api/assets/173585
-
-  "Back to the Future Part III (1990)":
-    title: "Back to the Future Part III"
-    year: 1990
+    year: 1989
+  Back to the Future Part III (1990):
+    match:
+      title: Back to the Future Part III
+      year: 1990
+    title: Back to the Future Part III
     url_poster: https://theposterdb.com/api/assets/173586
+    year: 1990

@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/user/musikmann2000
-
-  "Fatman (2020)":
-    title: "Fatman"
-    year: 2020
+metadata:
+  Fatman (2020):
+    match:
+      title: Fatman
+      year: 2020
+    title: Fatman
     url_poster: https://theposterdb.com/api/assets/190416
+    year: 2020

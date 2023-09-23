@@ -1,7 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/user/musikmann2000
-
-  "Black Christmas (1974)":
-    title: "Black Christmas"
-    year: 1974
+metadata:
+  Black Christmas (1974):
+    match:
+      title: Black Christmas
+      year: 1974
+    title: Black Christmas
     url_poster: https://theposterdb.com/api/assets/273622
-
+    year: 1974

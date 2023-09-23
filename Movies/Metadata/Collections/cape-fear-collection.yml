@@ -1,10 +1,15 @@
 metadata:
-  'Cape Fear (1962)':
-    title: 'Cape Fear'
+  Cape Fear (1962):
+    match:
+      title: Cape Fear
+      year: 1962
+    title: Cape Fear
     url_poster: https://theposterdb.com/api/assets/218333
     year: 1962
-  'Cape Fear (1991)':
-    title: 'Cape Fear'
+  Cape Fear (1991):
+    match:
+      title: Cape Fear
+      year: 1991
+    title: Cape Fear
     url_poster: https://theposterdb.com/api/assets/218332
     year: 1991
-

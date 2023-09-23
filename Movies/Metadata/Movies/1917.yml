@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/user/musikmann2000
-
-  "1917 (2020)":
-    title: "1917"
-    year: 2020
+metadata:
+  1917 (2020):
+    match:
+      title: '1917'
+      year: 2020
+    title: '1917'
     url_poster: https://theposterdb.com/api/assets/195274
+    year: 2020

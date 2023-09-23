@@ -1,7 +1,8 @@
 metadata:
-
-  "Song of the South (1946)":
-    title: "Song of the South"
-    year: 1946
+  Song of the South (1946):
+    match:
+      title: Song of the South
+      year: 1946
+    title: Song of the South
     url_poster: https://theposterdb.com/api/assets/173383
-
+    year: 1946

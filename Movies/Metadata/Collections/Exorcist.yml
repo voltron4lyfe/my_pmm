@@ -1,26 +1,21 @@
-metadata:               #Posters found here https://theposterdb.com/user/musikmann2000
-
-  "The Exorcist (1973)":
-    title: "The Exorcist"
-    year: 1973
+metadata:
+  9552:
+    title: The Exorcist
     url_poster: https://theposterdb.com/api/assets/177158
-
-  "Exorcist II: The Heretic (1977)":
-    title: "Exorcist II: The Heretic"
-    year: 1977
+    year: 1973
+  tt0076009:
+    title: 'Exorcist II: The Heretic'
     url_poster: https://theposterdb.com/api/assets/177159
-
-  "The Exorcist III (1990)":
-    title: "The Exorcist III"
-    year: 1990
+    year: 1977
+  tt0099528:
+    title: The Exorcist III
     url_poster: https://theposterdb.com/api/assets/177160
-
-  "Exorcist: The Beginning (2004)":
-    title: "Exorcist: The Beginning"
-    year: 2004
+    year: 1990
+  tt0204313:
+    title: 'Exorcist: The Beginning'
     url_poster: https://theposterdb.com/api/assets/177161
-
-  "Dominion: Prequel to The Exorcist (2005)":
-    title: "Dominion: Prequel to The Exorcist"
-    year: 2005
+    year: 2004
+  tt0449086:
+    title: 'Dominion: Prequel to The Exorcist'
     url_poster: https://theposterdb.com/api/assets/177162
+    year: 2005

@@ -1,6 +1,8 @@
-metadata:               #Posters found here: https://theposterdb.com/poster/184105
-
-  "Spotlight (2015)":
-    title: "Spotlight"
-    year: 2015
+metadata:
+  Spotlight (2015):
+    match:
+      title: Spotlight
+      year: 2015
+    title: Spotlight
     url_poster: https://theposterdb.com/api/assets/184105
+    year: 2015

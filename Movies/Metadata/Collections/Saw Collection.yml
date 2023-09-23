@@ -1,33 +1,57 @@
 metadata:
   Jigsaw (2017):
+    match:
+      title: Jigsaw
+      year: 2017
     title: Jigsaw
     url_poster: https://theposterdb.com/api/assets/177773
     year: 2017
   Saw (2004):
+    match:
+      title: Saw
+      year: 2004
     title: Saw
     url_poster: https://theposterdb.com/api/assets/177766
     year: 2004
   Saw 3D (2010):
+    match:
+      title: Saw 3D
+      year: 2010
     title: Saw 3D
     url_poster: https://theposterdb.com/api/assets/177772
     year: 2010
   Saw II (2005):
+    match:
+      title: Saw II
+      year: 2005
     title: Saw II
     url_poster: https://theposterdb.com/api/assets/177767
     year: 2005
   Saw III (2006):
+    match:
+      title: Saw III
+      year: 2006
     title: Saw III
     url_poster: https://theposterdb.com/api/assets/177768
     year: 2006
   Saw IV (2007):
+    match:
+      title: Saw IV
+      year: 2007
     title: Saw IV
     url_poster: https://theposterdb.com/api/assets/177769
     year: 2007
   Saw V (2008):
+    match:
+      title: Saw V
+      year: 2008
     title: Saw V
     url_poster: https://theposterdb.com/api/assets/177770
     year: 2008
   Saw VI (2009):
+    match:
+      title: Saw VI
+      year: 2009
     title: Saw VI
     url_poster: https://theposterdb.com/api/assets/177771
     year: 2009

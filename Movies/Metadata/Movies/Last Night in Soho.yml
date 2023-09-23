@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/190955
-
-  "Last Night in Soho (2021)":
-    title: "Last Night in Soho"
-    year: 2021
+metadata:
+  Last Night in Soho (2021):
+    match:
+      title: Last Night in Soho
+      year: 2021
+    title: Last Night in Soho
     url_poster: https://theposterdb.com/api/assets/190955
+    year: 2021

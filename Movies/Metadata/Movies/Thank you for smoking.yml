@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/user/musikmann2000
-
-  "Thank You for Smoking (2006)":
-    title: "Thank You for Smoking"
-    year: 2006
+metadata:
+  Thank You for Smoking (2006):
+    match:
+      title: Thank You for Smoking
+      year: 2006
+    title: Thank You for Smoking
     url_poster: https://theposterdb.com/api/assets/216519
+    year: 2006

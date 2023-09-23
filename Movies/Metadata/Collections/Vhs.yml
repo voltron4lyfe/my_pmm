@@ -1,21 +1,29 @@
-metadata:               #Posters found here: https://theposterdb.com/poster/179580
-
-  "V/H/S (2012)":
-    title: "V/H/S"
-    year: 2012
+metadata:
+  V/H/S (2012):
+    match:
+      title: V/H/S
+      year: 2012
+    title: V/H/S
     url_poster: https://theposterdb.com/api/assets/179577
-
-  "V/H/S/2 (2013)":
-    title: "V/H/S/2"
-    year: 2013
+    year: 2012
+  V/H/S/2 (2013):
+    match:
+      title: V/H/S/2
+      year: 2013
+    title: V/H/S/2
     url_poster: https://theposterdb.com/api/assets/179578
-
-  "V/H/S: Viral (2014)":
-    title: "V/H/S: Viral"
-    year: 2014
-    url_poster: https://theposterdb.com/api/assets/179579
-
-  "V/H/S/94 (2021)":
-    title: "V/H/S/94"
-    year: 2021
+    year: 2013
+  V/H/S/94 (2021):
+    match:
+      title: V/H/S/94
+      year: 2021
+    title: V/H/S/94
     url_poster: https://theposterdb.com/api/assets/179580
+    year: 2021
+  'V/H/S: Viral (2014)':
+    match:
+      title: 'V/H/S: Viral'
+      year: 2014
+    title: 'V/H/S: Viral'
+    url_poster: https://theposterdb.com/api/assets/179579
+    year: 2014

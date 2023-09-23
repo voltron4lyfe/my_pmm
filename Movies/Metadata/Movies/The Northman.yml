@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/234930
-
-  "The Northman (2022)":
-    title: "The Northman"
-    year: 2022
+metadata:
+  The Northman (2022):
+    match:
+      title: The Northman
+      year: 2022
+    title: The Northman
     url_poster: https://theposterdb.com/api/assets/234930
+    year: 2022

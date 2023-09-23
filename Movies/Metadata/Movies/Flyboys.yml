@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/195699
-
-  "Flyboys (2006)":
-    title: "Flyboys"
-    year: 2006
+metadata:
+  Flyboys (2006):
+    match:
+      title: Flyboys
+      year: 2006
+    title: Flyboys
     url_poster: https://theposterdb.com/api/assets/195699
+    year: 2006

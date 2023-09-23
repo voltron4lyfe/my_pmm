@@ -1,7 +1,8 @@
 metadata:
-
-  "Harakiri (1962)":
-    title: "Harakiri"
-    year: 1962
+  Harakiri (1962):
+    match:
+      title: Harakiri
+      year: 1962
+    title: Harakiri
     url_poster: https://theposterdb.com/api/assets/229775
-
+    year: 1962

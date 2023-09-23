@@ -1,9 +1,15 @@
 metadata:
   The Gods Must Be Crazy (1980):
+    match:
+      title: The Gods Must Be Crazy
+      year: 1980
     title: The Gods Must Be Crazy
     url_poster: https://theposterdb.com/api/assets/223154
     year: 1980
   The Gods Must Be Crazy II (1989):
+    match:
+      title: The Gods Must Be Crazy II
+      year: 1989
     title: The Gods Must Be Crazy II
     url_poster: https://theposterdb.com/api/assets/223155
     year: 1989

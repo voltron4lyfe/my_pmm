@@ -1,7 +1,8 @@
 metadata:
-
-  "X (2022)":
-    title: "X"
-    year: 2022
+  X (2022):
+    match:
+      title: X
+      year: 2022
+    title: X
     url_poster: https://theposterdb.com/api/assets/228273
-
+    year: 2022

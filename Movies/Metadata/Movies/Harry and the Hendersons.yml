@@ -1,7 +1,8 @@
 metadata:
-
-  "Harry and the Hendersons (1987)":
-    title: "Harry and the Hendersons"
-    year: 1987
+  Harry and the Hendersons (1987):
+    match:
+      title: Harry and the Hendersons
+      year: 1987
+    title: Harry and the Hendersons
     url_poster: https://theposterdb.com/api/assets/174797
-
+    year: 1987

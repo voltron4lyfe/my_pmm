@@ -1,7 +1,8 @@
 metadata:
-
-  "High Noon (1952)":
-    title: "High Noon"
-    year: 1952
+  High Noon (1952):
+    match:
+      title: High Noon
+      year: 1952
+    title: High Noon
     url_poster: https://theposterdb.com/api/assets/212315
-
+    year: 1952

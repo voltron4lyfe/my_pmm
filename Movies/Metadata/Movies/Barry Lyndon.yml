@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/205979
-
-  "Barry Lyndon (1975)":
-    title: "Barry Lyndon"
-    year: 1975
+metadata:
+  Barry Lyndon (1975):
+    match:
+      title: Barry Lyndon
+      year: 1975
+    title: Barry Lyndon
     url_poster: https://theposterdb.com/api/assets/205979
+    year: 1975

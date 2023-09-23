@@ -1,11 +1,15 @@
 metadata:
-
-  "Chinatown (1974)":
-    title: "Chinatown"
-    year: 1974
+  Chinatown (1974):
+    match:
+      title: Chinatown
+      year: 1974
+    title: Chinatown
     url_poster: https://theposterdb.com/api/assets/221829
-
-  "The Two Jakes (1990)":
-    title: "The Two Jakes"
-    year: 1990
+    year: 1974
+  The Two Jakes (1990):
+    match:
+      title: The Two Jakes
+      year: 1990
+    title: The Two Jakes
     url_poster: https://theposterdb.com/api/assets/221830
+    year: 1990

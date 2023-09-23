@@ -1,7 +1,8 @@
 metadata:
-
-  "The Third Man (1949)":
-    title: "The Third Man"
-    year: 1949
+  The Third Man (1949):
+    match:
+      title: The Third Man
+      year: 1949
+    title: The Third Man
     url_poster: https://theposterdb.com/api/assets/248967
-
+    year: 1949

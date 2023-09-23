@@ -1,11 +1,15 @@
-metadata:               #Posters found here https://theposterdb.com/set/150935
-
-  "Top Gun (1986)":
-    title: "Top Gun"
-    year: 1986
+metadata:
+  Top Gun (1986):
+    match:
+      title: Top Gun
+      year: 1986
+    title: Top Gun
     url_poster: https://theposterdb.com/api/assets/252569
-
-  "Top Gun: Maverick (2022)":
-    title: "Top Gun: Maverick"
-    year: 2022
+    year: 1986
+  'Top Gun: Maverick (2022)':
+    match:
+      title: 'Top Gun: Maverick'
+      year: 2022
+    title: 'Top Gun: Maverick'
     url_poster: https://theposterdb.com/api/assets/252570
+    year: 2022

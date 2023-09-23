@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/190414
-
-  "Elf (2003)":
-    title: "Elf"
-    year: 2003
+metadata:
+  Elf (2003):
+    match:
+      title: Elf
+      year: 2003
+    title: Elf
     url_poster: https://theposterdb.com/api/assets/190414
+    year: 2003

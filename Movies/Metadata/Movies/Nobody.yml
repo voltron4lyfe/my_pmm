@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/user/musikmann2000
-
-  "Nobody (2021)":
-    title: "Nobody"
-    year: 2021
+metadata:
+  Nobody (2021):
+    match:
+      title: Nobody
+      year: 2021
+    title: Nobody
     url_poster: https://theposterdb.com/api/assets/188274
+    year: 2021

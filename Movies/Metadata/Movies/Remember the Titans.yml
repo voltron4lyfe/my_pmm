@@ -1,7 +1,8 @@
 metadata:
-
-  "Remember the Titans (2000)":
-    title: "Remember the Titans"
-    year: 2000
+  Remember the Titans (2000):
+    match:
+      title: Remember the Titans
+      year: 2000
+    title: Remember the Titans
     url_poster: https://theposterdb.com/api/assets/173372
-
+    year: 2000

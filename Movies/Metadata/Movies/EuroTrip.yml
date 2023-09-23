@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/194008
-
-  "EuroTrip (2004)":
-    title: "EuroTrip"
-    year: 2004
+metadata:
+  EuroTrip (2004):
+    match:
+      title: EuroTrip
+      year: 2004
+    title: EuroTrip
     url_poster: https://theposterdb.com/api/assets/194008
+    year: 2004

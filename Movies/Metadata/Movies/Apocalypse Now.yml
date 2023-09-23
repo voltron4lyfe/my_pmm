@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/user/musikmann2000
-
-  "Apocalypse Now (1979)":
-    title: "Apocalypse Now"
-    year: 1979
+metadata:
+  Apocalypse Now (1979):
+    match:
+      title: Apocalypse Now
+      year: 1979
+    title: Apocalypse Now
     url_poster: https://theposterdb.com/api/assets/195040
+    year: 1979

@@ -1,7 +1,8 @@
 metadata:
-
-  "Robin Hood: Prince of Thieves (1991)":
-    title: "Robin Hood: Prince of Thieves"
-    year: 1991
+  'Robin Hood: Prince of Thieves (1991)':
+    match:
+      title: 'Robin Hood: Prince of Thieves'
+      year: 1991
+    title: 'Robin Hood: Prince of Thieves'
     url_poster: https://theposterdb.com/api/assets/170287
-
+    year: 1991

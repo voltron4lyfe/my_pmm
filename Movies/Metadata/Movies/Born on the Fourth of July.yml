@@ -1,7 +1,8 @@
 metadata:
-
-  "Born on the Fourth of July (1990)":
-    title: "Born on the Fourth of July"
-    year: 1990
+  Born on the Fourth of July (1990):
+    match:
+      title: Born on the Fourth of July
+      year: 1990
+    title: Born on the Fourth of July
     url_poster: https://theposterdb.com/api/assets/196901
-
+    year: 1990

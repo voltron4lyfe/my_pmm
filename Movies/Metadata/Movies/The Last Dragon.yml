@@ -1,7 +1,8 @@
 metadata:
-
-  "The Last Dragon (1985)":
-    title: "The Last Dragon"
-    year: 1985
+  The Last Dragon (1985):
+    match:
+      title: The Last Dragon
+      year: 1985
+    title: The Last Dragon
     url_poster: https://theposterdb.com/api/assets/223658
-
+    year: 1985

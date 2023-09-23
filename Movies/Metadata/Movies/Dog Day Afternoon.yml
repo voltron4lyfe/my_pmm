@@ -1,7 +1,8 @@
 metadata:
-
-  "Dog Day Afternoon (1975)":
-    title: "Dog Day Afternoon"
-    year: 1975
+  Dog Day Afternoon (1975):
+    match:
+      title: Dog Day Afternoon
+      year: 1975
+    title: Dog Day Afternoon
     url_poster: https://theposterdb.com/api/assets/226673
-
+    year: 1975

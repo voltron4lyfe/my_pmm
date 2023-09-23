@@ -1,6 +1,8 @@
-metadata:               #Posters found here: https://theposterdb.com/poster/194503
-
-  "The Wedding Singer (1998)":
-    title: "The Wedding Singer"
-    year: 1998
+metadata:
+  The Wedding Singer (1998):
+    match:
+      title: The Wedding Singer
+      year: 1998
+    title: The Wedding Singer
     url_poster: https://theposterdb.com/api/assets/194503
+    year: 1998

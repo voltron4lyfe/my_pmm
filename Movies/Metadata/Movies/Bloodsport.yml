@@ -1,7 +1,8 @@
 metadata:
-
-  "Bloodsport (1988)":
-    title: "Bloodsport"
-    year: 1988
+  Bloodsport (1988):
+    match:
+      title: Bloodsport
+      year: 1988
+    title: Bloodsport
     url_poster: https://theposterdb.com/api/assets/201655
-
+    year: 1988

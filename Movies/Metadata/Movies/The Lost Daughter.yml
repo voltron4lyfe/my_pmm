@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/201216
-
-  "The Lost Daughter (2021)":
-    title: "The Lost Daughter"
-    year: 2021
+metadata:
+  The Lost Daughter (2021):
+    match:
+      title: The Lost Daughter
+      year: 2021
+    title: The Lost Daughter
     url_poster: https://theposterdb.com/api/assets/201216
+    year: 2021

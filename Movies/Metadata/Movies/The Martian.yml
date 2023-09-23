@@ -1,7 +1,8 @@
 metadata:
-
-  "The Martian (2015)":
-    title: "The Martian"
-    year: 2015
+  The Martian (2015):
+    match:
+      title: The Martian
+      year: 2015
+    title: The Martian
     url_poster: https://theposterdb.com/api/assets/184531
-
+    year: 2015

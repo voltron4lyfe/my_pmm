@@ -1,27 +1,36 @@
-metadata:               #Posters found here https://theposterdb.com/user/musikmann2000
-
-  "The Bourne Identity (2002)":
-    title: "The Bourne Identity"
-    year: 2002
-    url_poster: https://theposterdb.com/api/assets/191270
-
-  "The Bourne Supremacy (2004)":
-    title: "The Bourne Supremacy"
-    year: 2004
-    url_poster: https://theposterdb.com/api/assets/191271
-
-  "The Bourne Ultimatum (2007)":
-    title: "The Bourne Ultimatum"
-    year: 2007
-    url_poster: https://theposterdb.com/api/assets/191272
-
-  "The Bourne Legacy (2012)":
-    title: "The Bourne Legacy"
-    year: 2012 
-    url_poster: https://theposterdb.com/api/assets/191273
-
-  "Jason Bourne (2016)":
-    title: "Jason Bourne"
-    year: 2016 
+metadata:
+  Jason Bourne (2016):
+    match:
+      title: Jason Bourne
+      year: 2016
+    title: Jason Bourne
     url_poster: https://theposterdb.com/api/assets/191274
-
+    year: 2016
+  The Bourne Identity (2002):
+    match:
+      title: The Bourne Identity
+      year: 2002
+    title: The Bourne Identity
+    url_poster: https://theposterdb.com/api/assets/191270
+    year: 2002
+  The Bourne Legacy (2012):
+    match:
+      title: The Bourne Legacy
+      year: 2012
+    title: The Bourne Legacy
+    url_poster: https://theposterdb.com/api/assets/191273
+    year: 2012
+  The Bourne Supremacy (2004):
+    match:
+      title: The Bourne Supremacy
+      year: 2004
+    title: The Bourne Supremacy
+    url_poster: https://theposterdb.com/api/assets/191271
+    year: 2004
+  The Bourne Ultimatum (2007):
+    match:
+      title: The Bourne Ultimatum
+      year: 2007
+    title: The Bourne Ultimatum
+    url_poster: https://theposterdb.com/api/assets/191272
+    year: 2007

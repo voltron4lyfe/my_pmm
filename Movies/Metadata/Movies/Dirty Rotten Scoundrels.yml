@@ -1,7 +1,8 @@
 metadata:
-
-  "Dirty Rotten Scoundrels (1988)":
-    title: "Dirty Rotten Scoundrels"
-    year: 1988
+  Dirty Rotten Scoundrels (1988):
+    match:
+      title: Dirty Rotten Scoundrels
+      year: 1988
+    title: Dirty Rotten Scoundrels
     url_poster: https://theposterdb.com/api/assets/222892
-
+    year: 1988

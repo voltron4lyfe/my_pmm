@@ -1,7 +1,8 @@
 metadata:
-
-  "Notorious (1946)":
-    title: "Notorious"
-    year: 1946
+  Notorious (1946):
+    match:
+      title: Notorious
+      year: 1946
+    title: Notorious
     url_poster: https://theposterdb.com/api/assets/207838
-
+    year: 1946

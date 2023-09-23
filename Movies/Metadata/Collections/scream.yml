@@ -1,32 +1,43 @@
-metadata:               #Posters found here https://theposterdb.com/user/musikmann2000
-
-  "Scream (1996)":
-    title: "Scream"
-    year: 1996
+metadata:
+  Scream (1996):
+    match:
+      title: Scream
+      year: 1996
+    title: Scream
     url_poster: https://theposterdb.com/api/assets/178984
-
-  "Scream 2 (1997)":
-    title: "Scream 2"
-    year: 1997
-    url_poster: https://theposterdb.com/api/assets/178985
-
-  "Scream 3 (2000)":
-    title: "Scream 3"
-    year: 2000
-    url_poster: https://theposterdb.com/api/assets/178986
-
-  "Scream 4 (2011)":
-    title: "Scream 4"
-    year: 2011
-    url_poster: https://theposterdb.com/api/assets/178987
-
-  "Scream (2022)":
-    title: "Scream"
-    year: 2022
+    year: 1996
+  Scream (2022):
+    match:
+      title: Scream
+      year: 2022
+    title: Scream
     url_poster: https://theposterdb.com/api/assets/214308
-
-  "Scream VI (2023)":
-    title: "Scream VI"
-    year: 2023
+    year: 2022
+  Scream 2 (1997):
+    match:
+      title: Scream 2
+      year: 1997
+    title: Scream 2
+    url_poster: https://theposterdb.com/api/assets/178985
+    year: 1997
+  Scream 3 (2000):
+    match:
+      title: Scream 3
+      year: 2000
+    title: Scream 3
+    url_poster: https://theposterdb.com/api/assets/178986
+    year: 2000
+  Scream 4 (2011):
+    match:
+      title: Scream 4
+      year: 2011
+    title: Scream 4
+    url_poster: https://theposterdb.com/api/assets/178987
+    year: 2011
+  Scream VI (2023):
+    match:
+      title: Scream VI
+      year: 2023
+    title: Scream VI
     url_poster: https://theposterdb.com/api/assets/334356
-
+    year: 2023

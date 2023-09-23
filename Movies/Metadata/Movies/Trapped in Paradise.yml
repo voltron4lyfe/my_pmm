@@ -1,6 +1,8 @@
-metadata:               #Posters found here: https://theposterdb.com/poster/190465
-
-  "Trapped in Paradise (1994)":
-    title: "Trapped in Paradise"
-    year: 1994
+metadata:
+  Trapped in Paradise (1994):
+    match:
+      title: Trapped in Paradise
+      year: 1994
+    title: Trapped in Paradise
     url_poster: https://theposterdb.com/api/assets/190465
+    year: 1994

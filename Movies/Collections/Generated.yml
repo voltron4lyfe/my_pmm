@@ -34,6 +34,11 @@ collections:
       collection: 16302
       name: Set
       poster: https://theposterdb.com/api/assets/163595
+  Becky Collection:
+    template:
+      collection: 986072
+      name: Set
+      poster: https://theposterdb.com/api/assets/379941
   Beverly Hills Cop Collection:
     template:
       collection: 85861
@@ -164,6 +169,11 @@ collections:
       collection: 9436
       name: Set
       poster: https://theposterdb.com/api/assets/162382
+  The Equalizer Collection:
+    template:
+      collection: 523855
+      name: Set
+      poster: https://theposterdb.com/api/assets/164777
   The Fly (1986) Collection:
     template:
       collection: 109609
@@ -179,16 +189,16 @@ collections:
       collection: 387219
       name: Set
       poster: https://theposterdb.com/api/assets/163418
+  The Meg Collection:
+    template:
+      collection: 742536
+      name: Set
+      poster: https://theposterdb.com/api/assets/389609
   The Mummy (Universal) Collection:
     template:
       collection: 221544
       name: Set
       poster: https://theposterdb.com/api/assets/161304
-  The Secret Life of Pets Collection:
-    template:
-      collection: 427084
-      name: Set
-      poster: https://theposterdb.com/api/assets/162965
   Underworld Collection:
     template:
       collection: 2326

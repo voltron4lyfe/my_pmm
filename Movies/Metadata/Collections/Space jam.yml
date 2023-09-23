@@ -1,11 +1,15 @@
-metadata:               #Posters found here https://theposterdb.com/user/musikmann2000
-
-  "Space Jam (1996)":
-    title: "Space Jam"
-    year: 1996
+metadata:
+  Space Jam (1996):
+    match:
+      title: Space Jam
+      year: 1996
+    title: Space Jam
     url_poster: https://theposterdb.com/api/assets/172043
-
-  "Space Jam: A New Legacy (2021)":
-    title: "Space Jam: A New Legacy"
-    year: 2021
+    year: 1996
+  'Space Jam: A New Legacy (2021)':
+    match:
+      title: 'Space Jam: A New Legacy'
+      year: 2021
+    title: 'Space Jam: A New Legacy'
     url_poster: https://theposterdb.com/api/assets/172044
+    year: 2021

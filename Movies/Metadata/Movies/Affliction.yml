@@ -1,7 +1,8 @@
 metadata:
-
-  "Affliction (1998)":
-    title: "Affliction"
-    year: 1998
+  Affliction (1998):
+    match:
+      title: Affliction
+      year: 1998
+    title: Affliction
     url_poster: https://theposterdb.com/api/assets/333766
-
+    year: 1998

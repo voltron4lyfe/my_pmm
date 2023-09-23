@@ -1,7 +1,8 @@
 metadata:
-
-  "Chicken Run (2000)":
-    title: "Chicken Run"
-    year: 2000
+  Chicken Run (2000):
+    match:
+      title: Chicken Run
+      year: 2000
+    title: Chicken Run
     url_poster: https://theposterdb.com/api/assets/192943
-
+    year: 2000

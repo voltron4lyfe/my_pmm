@@ -1,7 +1,8 @@
 metadata:
-
-  "Arbitrage (2012)":
-    title: "Arbitrage"
-    year: 2012
+  Arbitrage (2012):
+    match:
+      title: Arbitrage
+      year: 2012
+    title: Arbitrage
     url_poster: https://theposterdb.com/api/assets/203968
-
+    year: 2012

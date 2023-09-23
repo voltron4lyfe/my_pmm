@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/179254
-
-  "The Marksman (2021)":
-    title: "The Marksman"
-    year: 2021
+metadata:
+  The Marksman (2021):
+    match:
+      title: The Marksman
+      year: 2021
+    title: The Marksman
     url_poster: https://theposterdb.com/api/assets/179254
+    year: 2021

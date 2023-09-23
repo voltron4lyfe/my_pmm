@@ -1,7 +1,8 @@
 metadata:
-
-  "Bridge of Spies (2015)":
-    title: "Bridge of Spies"
-    year: 2015
+  Bridge of Spies (2015):
+    match:
+      title: Bridge of Spies
+      year: 2015
+    title: Bridge of Spies
     url_poster: https://theposterdb.com/api/assets/179242
-
+    year: 2015

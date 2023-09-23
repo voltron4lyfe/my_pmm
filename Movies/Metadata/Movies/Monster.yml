@@ -1,7 +1,8 @@
 metadata:
-
-  "Monster (2003)":
-    title: "Monster"
-    year: 2003
+  Monster (2003):
+    match:
+      title: Monster
+      year: 2003
+    title: Monster
     url_poster: https://theposterdb.com/api/assets/217632
-
+    year: 2003

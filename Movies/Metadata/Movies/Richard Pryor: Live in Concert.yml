@@ -1,7 +1,8 @@
 metadata:
-
-  "Richard Pryor: Live in Concert (1979)":
-    title: "Richard Pryor: Live in Concert"
-    year: 1979
+  'Richard Pryor: Live in Concert (1979)':
+    match:
+      title: 'Richard Pryor: Live in Concert'
+      year: 1979
+    title: 'Richard Pryor: Live in Concert'
     url_poster: https://theposterdb.com/api/assets/224460
-
+    year: 1979

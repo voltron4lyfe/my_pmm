@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/user/musikmann2000
-
-  "Legend (2015)":
-    title: "Legend"
-    year: 2015
+metadata:
+  Legend (2015):
+    match:
+      title: Legend
+      year: 2015
+    title: Legend
     url_poster: https://theposterdb.com/api/assets/202223
+    year: 2015

@@ -1,7 +1,8 @@
 metadata:
-
-  "Cocktail (1988)":
-    title: "Cocktail"
-    year: 1988
+  Cocktail (1988):
+    match:
+      title: Cocktail
+      year: 1988
+    title: Cocktail
     url_poster: https://theposterdb.com/api/assets/201664
-
+    year: 1988

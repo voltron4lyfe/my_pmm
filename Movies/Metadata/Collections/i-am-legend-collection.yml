@@ -1,14 +1,22 @@
 metadata:
+  I Am Legend (2007):
+    match:
+      title: I Am Legend
+      year: 2007
+    title: I Am Legend
+    url_poster: https://theposterdb.com/api/assets/177521
+    year: 2007
   The Last Man on Earth (1964):
+    match:
+      title: The Last Man on Earth
+      year: 1964
     title: The Last Man on Earth
     url_poster: https://theposterdb.com/api/assets/177519
     year: 1964
   The Omega Man (1971):
+    match:
+      title: The Omega Man
+      year: 1971
     title: The Omega Man
     url_poster: https://theposterdb.com/api/assets/177520
     year: 1971
-  I Am Legend (2007):
-    title: I Am Legend
-    url_poster: https://theposterdb.com/api/assets/177521
-    year: 2007
-

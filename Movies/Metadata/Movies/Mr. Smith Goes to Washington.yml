@@ -1,7 +1,8 @@
 metadata:
-
-  "Mr. Smith Goes to Washington (1939)":
-    title: "Mr. Smith Goes to Washington"
-    year: 1939
+  Mr. Smith Goes to Washington (1939):
+    match:
+      title: Mr. Smith Goes to Washington
+      year: 1939
+    title: Mr. Smith Goes to Washington
     url_poster: https://theposterdb.com/api/assets/242420
-
+    year: 1939

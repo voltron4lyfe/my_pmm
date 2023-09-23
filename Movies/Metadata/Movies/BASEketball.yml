@@ -1,7 +1,8 @@
 metadata:
-
-  "BASEketball (1998)":
-    title: "BASEketball"
-    year: 1998
+  BASEketball (1998):
+    match:
+      title: BASEketball
+      year: 1998
+    title: BASEketball
     url_poster: https://theposterdb.com/api/assets/188360
-
+    year: 1998

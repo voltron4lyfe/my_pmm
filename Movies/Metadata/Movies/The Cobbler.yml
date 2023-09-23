@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/user/musikmann2000
-
-  "The Cobbler (2015)":
-    title: "The Cobbler"
-    year: 2015
+metadata:
+  The Cobbler (2015):
+    match:
+      title: The Cobbler
+      year: 2015
+    title: The Cobbler
     url_poster: https://theposterdb.com/api/assets/187528
+    year: 2015

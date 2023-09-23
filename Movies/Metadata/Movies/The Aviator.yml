@@ -1,7 +1,8 @@
 metadata:
-
-  "The Aviator (2004)":
-    title: "The Aviator"
-    year: 2004
+  The Aviator (2004):
+    match:
+      title: The Aviator
+      year: 2004
+    title: The Aviator
     url_poster: https://theposterdb.com/api/assets/204081
-
+    year: 2004

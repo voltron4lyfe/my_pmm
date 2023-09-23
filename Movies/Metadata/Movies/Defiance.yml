@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/195692
-
-  "Defiance (2009)":
-    title: "Defiance"
-    year: 2009
+metadata:
+  Defiance (2009):
+    match:
+      title: Defiance
+      year: 2009
+    title: Defiance
     url_poster: https://theposterdb.com/api/assets/195692
+    year: 2009

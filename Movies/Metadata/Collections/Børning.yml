@@ -1,16 +1,22 @@
-metadata:               #Posters found here https://theposterdb.com/user/musikmann2000
-
-  "Børning (2014)":
-    title: "Børning"
-    year: 2014
+metadata:
+  "B\xF8rning (2014)":
+    match:
+      title: "B\xF8rning"
+      year: 2014
+    title: "B\xF8rning"
     url_poster: https://theposterdb.com/api/assets/222311
-
-  "Børning 2 (2016)":
-    title: "Børning 2"
-    year: 2016
+    year: 2014
+  "B\xF8rning 2 (2016)":
+    match:
+      title: "B\xF8rning 2"
+      year: 2016
+    title: "B\xF8rning 2"
     url_poster: https://theposterdb.com/api/assets/222312
-
-  "Børning 3 (2020)":
-    title: "Børning 3"
-    year: 2020
+    year: 2016
+  "B\xF8rning 3 (2020)":
+    match:
+      title: "B\xF8rning 3"
+      year: 2020
+    title: "B\xF8rning 3"
     url_poster: https://theposterdb.com/api/assets/222313
+    year: 2020

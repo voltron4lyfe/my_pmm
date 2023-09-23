@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/188287
-
-  "Wrath of Man (2021)":
-    title: "Wrath of Man"
-    year: 2021
+metadata:
+  Wrath of Man (2021):
+    match:
+      title: Wrath of Man
+      year: 2021
+    title: Wrath of Man
     url_poster: https://theposterdb.com/api/assets/188287
+    year: 2021

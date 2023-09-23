@@ -1,7 +1,8 @@
 metadata:
-
-  "East of Eden (1955)":
-    title: "East of Eden"
-    year: 1955
+  East of Eden (1955):
+    match:
+      title: East of Eden
+      year: 1955
+    title: East of Eden
     url_poster: https://theposterdb.com/api/assets/237042
-
+    year: 1955

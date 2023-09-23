@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/236609
-
-  "Memory (2022)":
-    title: "Memory"
-    year: 2022
+metadata:
+  Memory (2022):
+    match:
+      title: Memory
+      year: 2022
+    title: Memory
     url_poster: https://theposterdb.com/api/assets/236609
+    year: 2022

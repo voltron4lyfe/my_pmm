@@ -1,7 +1,8 @@
 metadata:
-
-  "To Kill a Mockingbird (1962)":
-    title: "To Kill a Mockingbird"
-    year: 1962
+  To Kill a Mockingbird (1962):
+    match:
+      title: To Kill a Mockingbird
+      year: 1962
+    title: To Kill a Mockingbird
     url_poster: https://theposterdb.com/api/assets/229901
-
+    year: 1962

@@ -1,7 +1,8 @@
 metadata:
-
-  "Ghost World (2001)":
-    title: "Ghost World"
-    year: 2001
+  Ghost World (2001):
+    match:
+      title: Ghost World
+      year: 2001
+    title: Ghost World
     url_poster: https://theposterdb.com/api/assets/217098
-
+    year: 2001

@@ -1,6 +1,8 @@
-metadata:               #Posters found here: https://theposterdb.com/posters/943803
-
-  "Swan Song (2021)":
-    title: "Swan Song"
-    year: 2021
+metadata:
+  Swan Song (2021):
+    match:
+      title: Swan Song
+      year: 2021
+    title: Swan Song
     url_poster: https://theposterdb.com/api/assets/197926
+    year: 2021

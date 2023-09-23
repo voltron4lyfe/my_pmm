@@ -1,11 +1,15 @@
 metadata:
-
-  "Rutete Ninja (2018)":
-    title: "Rutete Ninja"
-    year: 2018
+  Rutete Ninja (2018):
+    match:
+      title: Rutete Ninja
+      year: 2018
+    title: Rutete Ninja
     url_poster: https://theposterdb.com/api/assets/261242
-
-  "Rutete Ninja 2 (2021)":
-    title: "Rutete Ninja 2"
-    year: 2021
+    year: 2018
+  Rutete Ninja 2 (2021):
+    match:
+      title: Rutete Ninja 2
+      year: 2021
+    title: Rutete Ninja 2
     url_poster: https://theposterdb.com/api/assets/261243
+    year: 2021

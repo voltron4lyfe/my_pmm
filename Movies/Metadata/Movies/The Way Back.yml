@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/195610
-
-  "The Way Back (2010)":
-    title: "The Way Back"
-    year: 2010
+metadata:
+  The Way Back (2010):
+    match:
+      title: The Way Back
+      year: 2010
+    title: The Way Back
     url_poster: https://theposterdb.com/api/assets/195610
+    year: 2010

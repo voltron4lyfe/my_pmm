@@ -1,22 +1,36 @@
 metadata:
   The Mummy (1932):
+    match:
+      title: The Mummy
+      year: 1932
     title: The Mummy
     url_poster: https://theposterdb.com/api/assets/181553
     year: 1932
   The Mummy's Curse (1944):
+    match:
+      title: The Mummy's Curse
+      year: 1944
     title: The Mummy's Curse
     url_poster: https://theposterdb.com/api/assets/181572
     year: 1944
   The Mummy's Ghost (1944):
+    match:
+      title: The Mummy's Ghost
+      year: 1944
     title: The Mummy's Ghost
     url_poster: https://theposterdb.com/api/assets/181570
     year: 1944
   The Mummy's Hand (1940):
+    match:
+      title: The Mummy's Hand
+      year: 1940
     title: The Mummy's Hand
     url_poster: https://theposterdb.com/api/assets/181534
     year: 1940
   The Mummy's Tomb (1942):
+    match:
+      title: The Mummy's Tomb
+      year: 1942
     title: The Mummy's Tomb
     url_poster: https://theposterdb.com/api/assets/181565
     year: 1942
-

@@ -1,7 +1,8 @@
 metadata:
-
-  "The Taking of Pelham One Two Three (1974)":
-    title: "The Taking of Pelham One Two Three"
-    year: 1974
+  The Taking of Pelham One Two Three (1974):
+    match:
+      title: The Taking of Pelham One Two Three
+      year: 1974
+    title: The Taking of Pelham One Two Three
     url_poster: https://theposterdb.com/api/assets/213522
-
+    year: 1974

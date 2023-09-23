@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/190415
-
-  "The Family Man (2000)":
-    title: "The Family Man"
-    year: 2000
+metadata:
+  The Family Man (2000):
+    match:
+      title: The Family Man
+      year: 2000
+    title: The Family Man
     url_poster: https://theposterdb.com/api/assets/190415
+    year: 2000

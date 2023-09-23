@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/user/musikmann2000
-
-  "House of Gucci (2021)":
-    title: "House of Gucci"
-    year: 2021
+metadata:
+  House of Gucci (2021):
+    match:
+      title: House of Gucci
+      year: 2021
+    title: House of Gucci
     url_poster: https://theposterdb.com/api/assets/210488
+    year: 2021

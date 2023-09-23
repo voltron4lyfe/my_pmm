@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/user/musikmann2000
-
-  "Dunkirk (2017)":
-    title: "Dunkirk"
-    year: 2017
+metadata:
+  Dunkirk (2017):
+    match:
+      title: Dunkirk
+      year: 2017
+    title: Dunkirk
     url_poster: https://theposterdb.com/api/assets/194476
+    year: 2017

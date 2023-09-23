@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/205331
-
-  "Gone Girl (2014)":
-    title: "Gone Girl"
-    year: 2014
+metadata:
+  Gone Girl (2014):
+    match:
+      title: Gone Girl
+      year: 2014
+    title: Gone Girl
     url_poster: https://theposterdb.com/api/assets/205331
+    year: 2014

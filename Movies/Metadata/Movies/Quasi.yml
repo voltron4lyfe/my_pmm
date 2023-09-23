@@ -1,7 +1,8 @@
 metadata:
-
-  "Quasi (2023)":
-    title: "Quasi"
-    year: 2023
+  Quasi (2023):
+    match:
+      title: Quasi
+      year: 2023
+    title: Quasi
     url_poster: https://theposterdb.com/api/assets/351510
-
+    year: 2023

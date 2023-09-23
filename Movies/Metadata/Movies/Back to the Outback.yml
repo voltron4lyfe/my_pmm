@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/210349
-
-  "Back to the Outback (2021)":
-    title: "Back to the Outback"
-    year: 2021
+metadata:
+  Back to the Outback (2021):
+    match:
+      title: Back to the Outback
+      year: 2021
+    title: Back to the Outback
     url_poster: https://theposterdb.com/api/assets/210349
+    year: 2021

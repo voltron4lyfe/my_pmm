@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/user/musikmann2000
-
-  "Dude, Where's My Car? (2000)":
-    title: "Dude, Where's My Car?"
-    year: 2000
+metadata:
+  Dude, Where's My Car? (2000):
+    match:
+      title: Dude, Where's My Car?
+      year: 2000
+    title: Dude, Where's My Car?
     url_poster: https://theposterdb.com/api/assets/217059
+    year: 2000

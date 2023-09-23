@@ -1,7 +1,8 @@
 metadata:
-
-  "The Zero Theorem (2013)":
-    title: "The Zero Theorem"
-    year: 2013
+  The Zero Theorem (2013):
+    match:
+      title: The Zero Theorem
+      year: 2013
+    title: The Zero Theorem
     url_poster: https://theposterdb.com/api/assets/185071
-
+    year: 2013

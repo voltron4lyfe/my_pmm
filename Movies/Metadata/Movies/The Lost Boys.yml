@@ -1,7 +1,8 @@
 metadata:
-
-  "The Lost Boys (1987)":
-    title: "The Lost Boys"
-    year: 1987
+  The Lost Boys (1987):
+    match:
+      title: The Lost Boys
+      year: 1987
+    title: The Lost Boys
     url_poster: https://theposterdb.com/api/assets/178322
-
+    year: 1987

@@ -1,7 +1,8 @@
 metadata:
-
-  "The Man Who Knew Too Much (1956)":
-    title: "The Man Who Knew Too Much"
-    year: 1956
+  The Man Who Knew Too Much (1956):
+    match:
+      title: The Man Who Knew Too Much
+      year: 1956
+    title: The Man Who Knew Too Much
     url_poster: https://theposterdb.com/api/assets/207852
-
+    year: 1956

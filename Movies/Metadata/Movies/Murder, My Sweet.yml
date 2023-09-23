@@ -1,7 +1,8 @@
 metadata:
-
-  "Murder, My Sweet (1945)":
-    title: "Murder, My Sweet"
-    year: 1945
+  Murder, My Sweet (1945):
+    match:
+      title: Murder, My Sweet
+      year: 1945
+    title: Murder, My Sweet
     url_poster: https://theposterdb.com/api/assets/242421
-
+    year: 1945

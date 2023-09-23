@@ -1,9 +1,15 @@
 metadata:
   'AVP: Alien vs. Predator (2004)':
+    match:
+      title: 'AVP: Alien vs. Predator'
+      year: 2004
     title: 'AVP: Alien vs. Predator'
     url_poster: https://theposterdb.com/api/assets/12345
     year: 2004
   'Aliens vs Predator: Requiem (2007)':
+    match:
+      title: 'Aliens vs Predator: Requiem'
+      year: 2007
     title: 'Aliens vs Predator: Requiem'
     url_poster: https://theposterdb.com/api/assets/12346
     year: 2007

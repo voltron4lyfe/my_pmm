@@ -1,7 +1,8 @@
 metadata:
-
-  "The Rock (1996)":
-    title: "The Rock"
-    year: 1996
+  The Rock (1996):
+    match:
+      title: The Rock
+      year: 1996
+    title: The Rock
     url_poster: https://theposterdb.com/api/assets/220220
-
+    year: 1996

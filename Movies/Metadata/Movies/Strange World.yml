@@ -1,7 +1,8 @@
 metadata:
-
-  "Strange World (2022)":
-    title: "Strange World"
-    year: 2022
+  Strange World (2022):
+    match:
+      title: Strange World
+      year: 2022
+    title: Strange World
     url_poster: https://theposterdb.com/api/assets/289853
-
+    year: 2022

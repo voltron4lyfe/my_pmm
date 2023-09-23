@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/188636
-
-  "Talladega Nights: The Ballad of Ricky Bobby (2006)":
-    title: "Talladega Nights: The Ballad of Ricky Bobby"
-    year: 2006
+metadata:
+  'Talladega Nights: The Ballad of Ricky Bobby (2006)':
+    match:
+      title: 'Talladega Nights: The Ballad of Ricky Bobby'
+      year: 2006
+    title: 'Talladega Nights: The Ballad of Ricky Bobby'
     url_poster: https://theposterdb.com/api/assets/188636
+    year: 2006

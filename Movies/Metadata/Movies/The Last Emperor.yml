@@ -1,7 +1,8 @@
 metadata:
-
-  "The Last Emperor (1987)":
-    title: "The Last Emperor"
-    year: 1987
+  The Last Emperor (1987):
+    match:
+      title: The Last Emperor
+      year: 1987
+    title: The Last Emperor
     url_poster: https://theposterdb.com/api/assets/184622
-
+    year: 1987

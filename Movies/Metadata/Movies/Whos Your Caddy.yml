@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/255300
-
-  "Who's Your Caddy? (2007)":
-    title: "Who's Your Caddy?"
-    year: 2007
+metadata:
+  Who's Your Caddy? (2007):
+    match:
+      title: Who's Your Caddy?
+      year: 2007
+    title: Who's Your Caddy?
     url_poster: https://theposterdb.com/api/assets/255300
+    year: 2007

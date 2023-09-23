@@ -1,7 +1,8 @@
 metadata:
-
-  "The Boys from Brazil (1978)":
-    title: "The Boys from Brazil"
-    year: 1978
+  The Boys from Brazil (1978):
+    match:
+      title: The Boys from Brazil
+      year: 1978
+    title: The Boys from Brazil
     url_poster: https://theposterdb.com/api/assets/207047
-
+    year: 1978

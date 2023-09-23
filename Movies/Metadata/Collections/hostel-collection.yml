@@ -1,13 +1,22 @@
 metadata:
   Hostel (2005):
+    match:
+      title: Hostel
+      year: 2005
     title: Hostel
     url_poster: https://theposterdb.com/api/assets/177345
     year: 2005
   'Hostel: Part II (2007)':
+    match:
+      title: 'Hostel: Part II'
+      year: 2007
     title: 'Hostel: Part II'
     url_poster: https://theposterdb.com/api/assets/177346
     year: 2007
   'Hostel: Part III (2011)':
+    match:
+      title: 'Hostel: Part III'
+      year: 2011
     title: 'Hostel: Part III'
     url_poster: https://theposterdb.com/api/assets/177347
     year: 2011

@@ -1,7 +1,8 @@
 metadata:
-
-  "Kingpin (1996)":
-    title: "Kingpin"
-    year: 1996
+  Kingpin (1996):
+    match:
+      title: Kingpin
+      year: 1996
+    title: Kingpin
     url_poster: https://theposterdb.com/api/assets/188790
-
+    year: 1996

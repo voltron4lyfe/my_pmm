@@ -1,6 +1,8 @@
-metadata:               #Posters found here: https://theposterdb.com/poster/260101
-
-  "Edge of the World (2021)":
-    title: "Edge of the World"
-    year: 2021
+metadata:
+  Edge of the World (2021):
+    match:
+      title: Edge of the World
+      year: 2021
+    title: Edge of the World
     url_poster: https://theposterdb.com/api/assets/260101
+    year: 2021

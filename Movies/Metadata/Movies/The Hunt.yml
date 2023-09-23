@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/209420
-
-  "The Hunt (2012)":
-    title: "The Hunt"
-    year: 2012
+metadata:
+  The Hunt (2012):
+    match:
+      title: The Hunt
+      year: 2012
+    title: The Hunt
     url_poster: https://theposterdb.com/api/assets/209420
+    year: 2012

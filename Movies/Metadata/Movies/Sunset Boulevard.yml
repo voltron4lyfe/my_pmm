@@ -1,7 +1,8 @@
 metadata:
-
-  "Sunset Blvd. (1950)":
-    title: "Sunset Blvd."
-    year: 1950
+  Sunset Blvd. (1950):
+    match:
+      title: Sunset Blvd.
+      year: 1950
+    title: Sunset Blvd.
     url_poster: https://theposterdb.com/api/assets/207804
-
+    year: 1950

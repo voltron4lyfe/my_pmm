@@ -1,7 +1,8 @@
 metadata:
-
-  "The Gambler (1975)":
-    title: "The Gambler"
-    year: 1975
+  The Gambler (1975):
+    match:
+      title: The Gambler
+      year: 1975
+    title: The Gambler
     url_poster: https://theposterdb.com/api/assets/226959
-
+    year: 1975

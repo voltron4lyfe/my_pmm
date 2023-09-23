@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/215660
-
-  "In Bruges (2008)":
-    title: "In Bruges"
-    year: 2008
+metadata:
+  In Bruges (2008):
+    match:
+      title: In Bruges
+      year: 2008
+    title: In Bruges
     url_poster: https://theposterdb.com/api/assets/215660
+    year: 2008

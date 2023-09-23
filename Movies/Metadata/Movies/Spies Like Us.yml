@@ -1,7 +1,8 @@
 metadata:
-
-  "Spies Like Us (1985)":
-    title: "Spies Like Us"
-    year: 1985
+  Spies Like Us (1985):
+    match:
+      title: Spies Like Us
+      year: 1985
+    title: Spies Like Us
     url_poster: https://theposterdb.com/api/assets/196940
-
+    year: 1985

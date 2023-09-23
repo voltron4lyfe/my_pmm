@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/185444
-
-  "Inception (2010)":
-    title: "Inception"
-    year: 2010
+metadata:
+  Inception (2010):
+    match:
+      title: Inception
+      year: 2010
+    title: Inception
     url_poster: https://theposterdb.com/api/assets/185444
+    year: 2010

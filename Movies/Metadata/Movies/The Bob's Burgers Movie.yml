@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/251394
-
-  "The Bob's Burgers Movie (2022)":
-    title: "The Bob's Burgers Movie"
-    year: 2022
+metadata:
+  The Bob's Burgers Movie (2022):
+    match:
+      title: The Bob's Burgers Movie
+      year: 2022
+    title: The Bob's Burgers Movie
     url_poster: https://theposterdb.com/api/assets/251394
+    year: 2022

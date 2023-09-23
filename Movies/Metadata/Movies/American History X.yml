@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/user/musikmann2000
-
-  "American History X (1998)":
-    title: "American History X"
-    year: 1998
+metadata:
+  American History X (1998):
+    match:
+      title: American History X
+      year: 1998
+    title: American History X
     url_poster: https://theposterdb.com/api/assets/194722
+    year: 1998

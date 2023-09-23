@@ -1,7 +1,8 @@
 metadata:
-
-  "Charlie Wilson's War (2007)":
-    title: "Charlie Wilson's War"
-    year: 2007
+  Charlie Wilson's War (2007):
+    match:
+      title: Charlie Wilson's War
+      year: 2007
+    title: Charlie Wilson's War
     url_poster: https://theposterdb.com/api/assets/195691
-
+    year: 2007

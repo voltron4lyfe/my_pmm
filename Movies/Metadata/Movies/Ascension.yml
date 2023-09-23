@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/214297
-
-  "Ascension (2021)":
-    title: "Ascension"
-    year: 2021
+metadata:
+  Ascension (2021):
+    match:
+      title: Ascension
+      year: 2021
+    title: Ascension
     url_poster: https://theposterdb.com/api/assets/214297
+    year: 2021

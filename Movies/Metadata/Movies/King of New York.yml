@@ -1,7 +1,8 @@
 metadata:
-
-  "King of New York (1990)":
-    title: "King of New York"
-    year: 1990
+  King of New York (1990):
+    match:
+      title: King of New York
+      year: 1990
+    title: King of New York
     url_poster: https://theposterdb.com/api/assets/219182
-
+    year: 1990

@@ -1,9 +1,15 @@
 metadata:
   Dead Snow (2009):
+    match:
+      title: Dead Snow
+      year: 2009
     title: Dead Snow
     url_poster: https://theposterdb.com/api/assets/176484
     year: 2009
   'Dead Snow 2: Red vs. Dead (2014)':
+    match:
+      title: 'Dead Snow 2: Red vs. Dead'
+      year: 2014
     title: 'Dead Snow 2: Red vs. Dead'
     url_poster: https://theposterdb.com/api/assets/176485
     year: 2014

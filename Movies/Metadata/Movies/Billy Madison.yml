@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/user/musikmann2000
-
-  "Billy Madison (1995)":
-    title: "Billy Madison"
-    year: 1995
+metadata:
+  Billy Madison (1995):
+    match:
+      title: Billy Madison
+      year: 1995
+    title: Billy Madison
     url_poster: https://theposterdb.com/api/assets/195557
+    year: 1995

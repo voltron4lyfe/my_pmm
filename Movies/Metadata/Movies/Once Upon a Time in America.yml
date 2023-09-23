@@ -1,6 +1,8 @@
-metadata:               #Posters found here: https://theposterdb.com/poster/217719
-
-  "Once Upon a Time in America (1984)":
-    title: "Once Upon a Time in America"
-    year: 1984
+metadata:
+  Once Upon a Time in America (1984):
+    match:
+      title: Once Upon a Time in America
+      year: 1984
+    title: Once Upon a Time in America
     url_poster: https://theposterdb.com/api/assets/217719
+    year: 1984

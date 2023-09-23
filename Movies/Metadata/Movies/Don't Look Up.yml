@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/user/musikmann2000
-
-  "Don't Look Up (2021)":
-    title: "Don't Look Up"
-    year: 2021
+metadata:
+  Don't Look Up (2021):
+    match:
+      title: Don't Look Up
+      year: 2021
+    title: Don't Look Up
     url_poster: https://theposterdb.com/api/assets/201211
+    year: 2021

@@ -1,7 +1,8 @@
 metadata:
-
-  "The Longest Day (1962)":
-    title: "The Longest Day"
-    year: 1962
+  The Longest Day (1962):
+    match:
+      title: The Longest Day
+      year: 1962
+    title: The Longest Day
     url_poster: https://theposterdb.com/api/assets/197251
-
+    year: 1962

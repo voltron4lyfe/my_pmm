@@ -1,7 +1,8 @@
 metadata:
-
-  "The Sandlot (1993)":
-    title: "The Sandlot"
-    year: 1993
+  The Sandlot (1993):
+    match:
+      title: The Sandlot
+      year: 1993
+    title: The Sandlot
     url_poster: https://theposterdb.com/api/assets/175284
-
+    year: 1993

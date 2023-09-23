@@ -1,33 +1,41 @@
-metadata:               #Posters found here: https://theposterdb.com/poster/180040
-
-  "Manhunter (1986)":
-    title: "Manhunter"
-    year: 1986
-    url_poster: https://theposterdb.com/api/assets/180039
-
-  "The Silence of the Lambs (1991)":
-    title: "The Silence of the Lambs"
-    year: 1991
-    url_poster: https://theposterdb.com/api/assets/180040
-
-  "Hannibal (2001)":
-    title: "Hannibal"
-    year: 2001
+metadata:
+  Hannibal (2001):
+    match:
+      title: Hannibal
+      year: 2001
+    title: Hannibal
     url_poster: https://theposterdb.com/api/assets/180041
-
-  "Red Dragon (2002)":
-    title: "Red Dragon"
-    year: 2002
-    url_poster: https://theposterdb.com/api/assets/180042
-
-  "Hannibal Rising (2007)":
-    title: "Hannibal Rising"
-    year: 2007
+    year: 2001
+  Hannibal Rising (2007):
+    match:
+      title: Hannibal Rising
+      year: 2007
+    title: Hannibal Rising
     url_poster: https://theposterdb.com/api/assets/180043
-
-  "Hannibal Rising (Unrated)":
-    title: "Hannibal Rising"
     year: 2007
+  Hannibal Rising (Unrated):
     edition_filter: Unrated
+    title: Hannibal Rising
     url_poster: https://theposterdb.com/api/assets/180043
-
+    year: 2007
+  Manhunter (1986):
+    match:
+      title: Manhunter
+      year: 1986
+    title: Manhunter
+    url_poster: https://theposterdb.com/api/assets/180039
+    year: 1986
+  Red Dragon (2002):
+    match:
+      title: Red Dragon
+      year: 2002
+    title: Red Dragon
+    url_poster: https://theposterdb.com/api/assets/180042
+    year: 2002
+  The Silence of the Lambs (1991):
+    match:
+      title: The Silence of the Lambs
+      year: 1991
+    title: The Silence of the Lambs
+    url_poster: https://theposterdb.com/api/assets/180040
+    year: 1991

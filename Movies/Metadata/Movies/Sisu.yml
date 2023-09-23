@@ -1,7 +1,8 @@
 metadata:
-
-  "Sisu (2023)":
-    title: "Sisu"
+  Sisu (2023):
+    match:
+      title: Sisu
+      year: 2023
+    title: Sisu
+    url_poster: https://theposterdb.com/api/assets/362476
     year: 2023
-    url_poster: https://theposterdb.com/api/assets/1799410
-

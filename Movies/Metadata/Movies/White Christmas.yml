@@ -1,7 +1,8 @@
 metadata:
-
-  "White Christmas (1954)":
-    title: "White Christmas"
-    year: 1954
+  White Christmas (1954):
+    match:
+      title: White Christmas
+      year: 1954
+    title: White Christmas
     url_poster: https://theposterdb.com/api/assets/190466
-
+    year: 1954

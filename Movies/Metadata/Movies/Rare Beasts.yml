@@ -1,6 +1,8 @@
-metadata:               #Posters found here: https://theposterdb.com/poster/198200
-
-  "Rare Beasts (2021)":
-    title: "Rare Beasts"
-    year: 2021
+metadata:
+  Rare Beasts (2021):
+    match:
+      title: Rare Beasts
+      year: 2021
+    title: Rare Beasts
     url_poster: https://theposterdb.com/api/assets/198200
+    year: 2021

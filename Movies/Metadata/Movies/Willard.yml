@@ -1,7 +1,8 @@
 metadata:
-
-  "Willard (2003)":
-    title: "Willard"
-    year: 2003
+  Willard (2003):
+    match:
+      title: Willard
+      year: 2003
+    title: Willard
     url_poster: https://theposterdb.com/api/assets/179789
-
+    year: 2003

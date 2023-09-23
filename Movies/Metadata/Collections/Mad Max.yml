@@ -1,22 +1,30 @@
-metadata:               #Posters found here: https://theposterdb.com/poster/184549
-
-  "Mad Max (1979)":
-    title: "Mad Max"
-    year: 1979
+metadata:
+  Mad Max (1979):
+    match:
+      title: Mad Max
+      year: 1979
+    title: Mad Max
     url_poster: https://theposterdb.com/api/assets/184550
-
-  "Mad Max 2 (1981)":
-    title: "Mad Max 2"
-    alt_title: "The Road Warrior"
-    year: 1981
+    year: 1979
+  Mad Max 2 (1981):
+    alt_title: The Road Warrior
+    match:
+      title: Mad Max 2
+      year: 1981
+    title: Mad Max 2
     url_poster: https://theposterdb.com/api/assets/184551
-
-  "Mad Max Beyond Thunderdome (1985)":
-    title: "Mad Max Beyond Thunderdome"
-    year: 1985
+    year: 1981
+  Mad Max Beyond Thunderdome (1985):
+    match:
+      title: Mad Max Beyond Thunderdome
+      year: 1985
+    title: Mad Max Beyond Thunderdome
     url_poster: https://theposterdb.com/api/assets/184552
-
-  "Mad Max: Fury Road (2015)":
-    title: "Mad Max: Fury Road"
-    year: 2015
+    year: 1985
+  'Mad Max: Fury Road (2015)':
+    match:
+      title: 'Mad Max: Fury Road'
+      year: 2015
+    title: 'Mad Max: Fury Road'
     url_poster: https://theposterdb.com/api/assets/184553
+    year: 2015

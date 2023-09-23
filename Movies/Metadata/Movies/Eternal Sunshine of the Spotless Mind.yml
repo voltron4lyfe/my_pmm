@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/185434
-
-  "Eternal Sunshine of the Spotless Mind (2004)":
-    title: "Eternal Sunshine of the Spotless Mind"
-    year: 2004
+metadata:
+  Eternal Sunshine of the Spotless Mind (2004):
+    match:
+      title: Eternal Sunshine of the Spotless Mind
+      year: 2004
+    title: Eternal Sunshine of the Spotless Mind
     url_poster: https://theposterdb.com/api/assets/185434
+    year: 2004

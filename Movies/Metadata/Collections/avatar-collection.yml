@@ -1,21 +1,36 @@
 metadata:
   Avatar (2009):
+    match:
+      title: Avatar
+      year: 2009
     title: Avatar
     url_poster: https://theposterdb.com/api/assets/187633
     year: 2009
   Avatar 3 (2024):
+    match:
+      title: Avatar 3
+      year: 2024
     title: Avatar 3
     url_poster: https://theposterdb.com/api/assets/187635
     year: 2024
   Avatar 4 (2026):
+    match:
+      title: Avatar 4
+      year: 2026
     title: Avatar 4
     url_poster: https://theposterdb.com/api/assets/187636
     year: 2026
   Avatar 5 (2028):
+    match:
+      title: Avatar 5
+      year: 2028
     title: Avatar 5
     url_poster: https://theposterdb.com/api/assets/187637
     year: 2028
   'Avatar: The Way of Water (2022)':
+    match:
+      title: 'Avatar: The Way of Water'
+      year: 2022
     title: 'Avatar: The Way of Water'
     url_poster: https://theposterdb.com/api/assets/291316
     year: 2022

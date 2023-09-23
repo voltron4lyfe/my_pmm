@@ -1,7 +1,8 @@
 metadata:
-
-  "Den of Thieves (2018)":
-    title: "Den of Thieves"
-    year: 2018
+  Den of Thieves (2018):
+    match:
+      title: Den of Thieves
+      year: 2018
+    title: Den of Thieves
     url_poster: https://theposterdb.com/api/assets/230740
-
+    year: 2018

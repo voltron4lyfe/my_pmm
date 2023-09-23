@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/213463
-
-  "Knowing (2009)":
-    title: "Knowing"
-    year: 2009
+metadata:
+  Knowing (2009):
+    match:
+      title: Knowing
+      year: 2009
+    title: Knowing
     url_poster: https://theposterdb.com/api/assets/213463
+    year: 2009

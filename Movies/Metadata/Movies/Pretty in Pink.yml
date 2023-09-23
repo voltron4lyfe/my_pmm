@@ -1,7 +1,8 @@
 metadata:
-
-  "Pretty in Pink (1986)":
-    title: "Pretty in Pink"
-    year: 1986
+  Pretty in Pink (1986):
+    match:
+      title: Pretty in Pink
+      year: 1986
+    title: Pretty in Pink
     url_poster: https://theposterdb.com/api/assets/198998
-
+    year: 1986

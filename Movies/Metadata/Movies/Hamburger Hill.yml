@@ -1,7 +1,8 @@
 metadata:
-
-  "Hamburger Hill (1987)":
-    title: "Hamburger Hill"
-    year: 1987
+  Hamburger Hill (1987):
+    match:
+      title: Hamburger Hill
+      year: 1987
+    title: Hamburger Hill
     url_poster: https://theposterdb.com/api/assets/196919
-
+    year: 1987

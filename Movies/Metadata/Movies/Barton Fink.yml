@@ -1,7 +1,8 @@
 metadata:
-
-  "Barton Fink (1991)":
-    title: "Barton Fink"
-    year: 1991
+  Barton Fink (1991):
+    match:
+      title: Barton Fink
+      year: 1991
+    title: Barton Fink
     url_poster: https://theposterdb.com/api/assets/205985
-
+    year: 1991

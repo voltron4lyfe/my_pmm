@@ -1,7 +1,8 @@
 metadata:
-
-  "Best in Show (2000)":
-    title: "Best in Show"
-    year: 2000
+  Best in Show (2000):
+    match:
+      title: Best in Show
+      year: 2000
+    title: Best in Show
     url_poster: https://theposterdb.com/api/assets/206489
-
+    year: 2000

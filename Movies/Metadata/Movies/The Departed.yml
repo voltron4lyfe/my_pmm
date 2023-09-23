@@ -1,7 +1,8 @@
 metadata:
-
-  "The Departed (2006)":
-    title: "The Departed"
-    year: 2006
+  The Departed (2006):
+    match:
+      title: The Departed
+      year: 2006
+    title: The Departed
     url_poster: https://theposterdb.com/api/assets/184123
-
+    year: 2006

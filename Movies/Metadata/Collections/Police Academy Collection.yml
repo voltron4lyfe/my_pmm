@@ -1,29 +1,50 @@
 metadata:
   Police Academy (1984):
+    match:
+      title: Police Academy
+      year: 1984
     title: Police Academy
     url_poster: https://theposterdb.com/api/assets/199954
     year: 1984
-  'Police Academy 2 Their First Assignment (1985)':
-    title: 'Police Academy 2 Their First Assignment'
+  Police Academy 2 Their First Assignment (1985):
+    match:
+      title: Police Academy 2 Their First Assignment
+      year: 1985
+    title: Police Academy 2 Their First Assignment
     url_poster: https://theposterdb.com/api/assets/199955
     year: 1985
   'Police Academy 3: Back in Training (1986)':
+    match:
+      title: 'Police Academy 3: Back in Training'
+      year: 1986
     title: 'Police Academy 3: Back in Training'
     url_poster: https://theposterdb.com/api/assets/199956
     year: 1986
   'Police Academy 4: Citizens on Patrol (1987)':
+    match:
+      title: 'Police Academy 4: Citizens on Patrol'
+      year: 1987
     title: 'Police Academy 4: Citizens on Patrol'
     url_poster: https://theposterdb.com/api/assets/199957
     year: 1987
   'Police Academy 5: Assignment Miami Beach (1988)':
+    match:
+      title: 'Police Academy 5: Assignment Miami Beach'
+      year: 1988
     title: 'Police Academy 5: Assignment Miami Beach'
     url_poster: https://theposterdb.com/api/assets/199958
     year: 1988
   'Police Academy 6: City Under Siege (1989)':
+    match:
+      title: 'Police Academy 6: City Under Siege'
+      year: 1989
     title: 'Police Academy 6: City Under Siege'
     url_poster: https://theposterdb.com/api/assets/199959
     year: 1989
   'Police Academy: Mission to Moscow (1994)':
+    match:
+      title: 'Police Academy: Mission to Moscow'
+      year: 1994
     title: 'Police Academy: Mission to Moscow'
     url_poster: https://theposterdb.com/api/assets/199960
     year: 1994

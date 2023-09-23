@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/187731
-
-  "Edward Scissorhands (1990)":
-    title: "Edward Scissorhands"
-    year: 1990
+metadata:
+  Edward Scissorhands (1990):
+    match:
+      title: Edward Scissorhands
+      year: 1990
+    title: Edward Scissorhands
     url_poster: https://theposterdb.com/api/assets/187731
+    year: 1990

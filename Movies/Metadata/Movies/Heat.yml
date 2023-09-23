@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/218708
-
-  "Heat (1995)":
-    title: "Heat"
-    year: 1995
+metadata:
+  Heat (1995):
+    match:
+      title: Heat
+      year: 1995
+    title: Heat
     url_poster: https://theposterdb.com/api/assets/218708
+    year: 1995

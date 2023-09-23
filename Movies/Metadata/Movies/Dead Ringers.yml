@@ -1,7 +1,8 @@
 metadata:
-
-  "Dead Ringers (1988)":
-    title: "Dead Ringers"
-    year: 1988
+  Dead Ringers (1988):
+    match:
+      title: Dead Ringers
+      year: 1988
+    title: Dead Ringers
     url_poster: https://theposterdb.com/api/assets/180618
-
+    year: 1988

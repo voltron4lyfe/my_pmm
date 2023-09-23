@@ -1,6 +1,8 @@
-metadata:               #Posters found here: https://theposterdb.com/poster/236929
-
-  "Violet Evergarden: Eternity and the Auto Memory Doll (2019)":
-    title: "Violet Evergarden: Eternity and the Auto Memory Doll"
-    year: 2019
+metadata:
+  'Violet Evergarden: Eternity and the Auto Memory Doll (2019)':
+    match:
+      title: 'Violet Evergarden: Eternity and the Auto Memory Doll'
+      year: 2019
+    title: 'Violet Evergarden: Eternity and the Auto Memory Doll'
     url_poster: https://theposterdb.com/api/assets/236929
+    year: 2019

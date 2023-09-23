@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/184870
-
-  "Interstellar (2014)":
-    title: "Interstellar"
-    year: 2014
+metadata:
+  Interstellar (2014):
+    match:
+      title: Interstellar
+      year: 2014
+    title: Interstellar
     url_poster: https://theposterdb.com/api/assets/184870
+    year: 2014

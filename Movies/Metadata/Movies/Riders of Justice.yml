@@ -1,6 +1,8 @@
-metadata:               #Posters found here: https://theposterdb.com/poster/255527
-
-  "Riders of Justice (2020)":
-    title: "Riders of Justice"
-    year: 2020
+metadata:
+  Riders of Justice (2020):
+    match:
+      title: Riders of Justice
+      year: 2020
+    title: Riders of Justice
     url_poster: https://theposterdb.com/api/assets/255527
+    year: 2020

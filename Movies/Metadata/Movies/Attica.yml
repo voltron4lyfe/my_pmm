@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/user/musikmann2000
-
-  "Attica (2021)":
-    title: "Attica"
-    year: 2021
+metadata:
+  Attica (2021):
+    match:
+      title: Attica
+      year: 2021
+    title: Attica
     url_poster: https://theposterdb.com/api/assets/189833
+    year: 2021

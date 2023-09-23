@@ -1,7 +1,8 @@
 metadata:
-
-  "A Clockwork Orange (1971)":
-    title: "A Clockwork Orange"
-    year: 1971
+  A Clockwork Orange (1971):
+    match:
+      title: A Clockwork Orange
+      year: 1971
+    title: A Clockwork Orange
     url_poster: https://theposterdb.com/api/assets/226353
-
+    year: 1971

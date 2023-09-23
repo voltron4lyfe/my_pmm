@@ -1,7 +1,8 @@
 metadata:
-
-  "Eastern Promises (2007)":
-    title: "Eastern Promises"
-    year: 2007
+  Eastern Promises (2007):
+    match:
+      title: Eastern Promises
+      year: 2007
+    title: Eastern Promises
     url_poster: https://theposterdb.com/api/assets/211159
-
+    year: 2007

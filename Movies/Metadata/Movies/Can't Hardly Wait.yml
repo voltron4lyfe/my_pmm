@@ -1,7 +1,8 @@
 metadata:
-
-  "Can't Hardly Wait (1998)":
-    title: "Can't Hardly Wait"
-    year: 1998
+  Can't Hardly Wait (1998):
+    match:
+      title: Can't Hardly Wait
+      year: 1998
+    title: Can't Hardly Wait
     url_poster: https://theposterdb.com/api/assets/213557
-
+    year: 1998

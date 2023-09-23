@@ -1,7 +1,8 @@
 metadata:
-
-  "True Grit (2010)":
-    title: "True Grit"
-    year: 2010
+  True Grit (2010):
+    match:
+      title: True Grit
+      year: 2010
+    title: True Grit
     url_poster: https://theposterdb.com/api/assets/194500
-
+    year: 2010

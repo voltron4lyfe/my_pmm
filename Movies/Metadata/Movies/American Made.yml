@@ -1,7 +1,8 @@
 metadata:
-
-  "American Made (2017)":
-    title: "American Made"
-    year: 2017
+  American Made (2017):
+    match:
+      title: American Made
+      year: 2017
+    title: American Made
     url_poster: https://theposterdb.com/api/assets/197015
-
+    year: 2017

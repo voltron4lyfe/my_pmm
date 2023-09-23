@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/196083
-
-  "Encounter (2021)":
-    title: "Encounter"
-    year: 2021
+metadata:
+  Encounter (2021):
+    match:
+      title: Encounter
+      year: 2021
+    title: Encounter
     url_poster: https://theposterdb.com/api/assets/196083
+    year: 2021

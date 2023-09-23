@@ -1,7 +1,8 @@
 metadata:
-
-  "Bullitt (1968)":
-    title: "Bullitt"
-    year: 1968
+  Bullitt (1968):
+    match:
+      title: Bullitt
+      year: 1968
+    title: Bullitt
     url_poster: https://theposterdb.com/api/assets/194583
-
+    year: 1968

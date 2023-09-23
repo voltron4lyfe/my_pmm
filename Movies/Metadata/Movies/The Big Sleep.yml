@@ -1,7 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/user/musikmann2000
-
-  "The Big Sleep (1946)":
-    title: "The Big Sleep"
-    year: 1946
+metadata:
+  The Big Sleep (1946):
+    match:
+      title: The Big Sleep
+      year: 1946
+    title: The Big Sleep
     url_poster: https://theposterdb.com/api/assets/235240
-
+    year: 1946

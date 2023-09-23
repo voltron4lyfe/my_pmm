@@ -1,7 +1,8 @@
 metadata:
-
-  "Out of the Furnace (2013)":
-    title: "Out of the Furnace"
-    year: 2013
+  Out of the Furnace (2013):
+    match:
+      title: Out of the Furnace
+      year: 2013
+    title: Out of the Furnace
     url_poster: https://theposterdb.com/api/assets/208901
-
+    year: 2013

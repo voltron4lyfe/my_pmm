@@ -1,6 +1,8 @@
-metadata:               #Posters found here: https://theposterdb.com/poster/220205
-
-  "The Ref (1994)":
-    title: "The Ref"
-    year: 1994
+metadata:
+  The Ref (1994):
+    match:
+      title: The Ref
+      year: 1994
+    title: The Ref
     url_poster: https://theposterdb.com/api/assets/220205
+    year: 1994

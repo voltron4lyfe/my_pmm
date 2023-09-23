@@ -1,7 +1,8 @@
 metadata:
-
-  "The Player (1992)":
-    title: "The Player"
-    year: 1992
+  The Player (1992):
+    match:
+      title: The Player
+      year: 1992
+    title: The Player
     url_poster: https://theposterdb.com/api/assets/213821
-
+    year: 1992

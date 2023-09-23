@@ -1,16 +1,22 @@
-metadata:               #Posters found here https://theposterdb.com/user/musikmann2000
-
-  "Before Sunrise (1995)":
-    title: "Before Sunrise"
-    year: 1995
-    url_poster: https://theposterdb.com/api/assets/206468
-
-  "Before Sunset (2004)":
-    title: "Before Sunset"
-    year: 2004
-    url_poster: https://theposterdb.com/api/assets/206469
-
-  "Before Midnight (2013)":
-    title: "Before Midnight"
-    year: 2013
+metadata:
+  Before Midnight (2013):
+    match:
+      title: Before Midnight
+      year: 2013
+    title: Before Midnight
     url_poster: https://theposterdb.com/api/assets/206470
+    year: 2013
+  Before Sunrise (1995):
+    match:
+      title: Before Sunrise
+      year: 1995
+    title: Before Sunrise
+    url_poster: https://theposterdb.com/api/assets/206468
+    year: 1995
+  Before Sunset (2004):
+    match:
+      title: Before Sunset
+      year: 2004
+    title: Before Sunset
+    url_poster: https://theposterdb.com/api/assets/206469
+    year: 2004

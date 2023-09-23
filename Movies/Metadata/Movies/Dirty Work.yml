@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/218436
-
-  "Dirty Work (1998)":
-    title: "Dirty Work"
-    year: 1998
+metadata:
+  Dirty Work (1998):
+    match:
+      title: Dirty Work
+      year: 1998
+    title: Dirty Work
     url_poster: https://theposterdb.com/api/assets/218436
+    year: 1998

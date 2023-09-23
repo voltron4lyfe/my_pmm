@@ -1,7 +1,8 @@
 metadata:
-
-  "Funeral in Berlin (1966)":
-    title: "Funeral in Berlin"
-    year: 1966
+  Funeral in Berlin (1966):
+    match:
+      title: Funeral in Berlin
+      year: 1966
+    title: Funeral in Berlin
     url_poster: https://theposterdb.com/api/assets/212192
-
+    year: 1966

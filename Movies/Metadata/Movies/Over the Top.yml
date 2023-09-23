@@ -1,7 +1,8 @@
 metadata:
-
-  "Over the Top (1987)":
-    title: "Over the Top"
-    year: 1987
+  Over the Top (1987):
+    match:
+      title: Over the Top
+      year: 1987
+    title: Over the Top
     url_poster: https://theposterdb.com/api/assets/194580
-
+    year: 1987

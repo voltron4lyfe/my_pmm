@@ -1,9 +1,15 @@
 metadata:
   Babe (1995):
+    match:
+      title: Babe
+      year: 1995
     title: Babe
     url_poster: https://theposterdb.com/api/assets/173580
     year: 1995
   'Babe: Pig in the City (1998)':
+    match:
+      title: 'Babe: Pig in the City'
+      year: 1998
     title: 'Babe: Pig in the City'
     url_poster: https://theposterdb.com/api/assets/173581
     year: 1998

@@ -1,11 +1,15 @@
-metadata:               #Posters found here https://theposterdb.com/set/140211
-
-  "365 Days (2020)":
-    title: "365 Days"
-    year: 2020
+metadata:
+  365 Days (2020):
+    match:
+      title: 365 Days
+      year: 2020
+    title: 365 Days
     url_poster: https://theposterdb.com/api/assets/233229
-
-  "365 Days: This Day (2022)":
-    title: "365 Days: This Day"
-    year: 2022
+    year: 2020
+  '365 Days: This Day (2022)':
+    match:
+      title: '365 Days: This Day'
+      year: 2022
+    title: '365 Days: This Day'
     url_poster: https://theposterdb.com/api/assets/233230
+    year: 2022

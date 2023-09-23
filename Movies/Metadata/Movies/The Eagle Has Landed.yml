@@ -1,7 +1,8 @@
 metadata:
-
-  "The Eagle Has Landed (1976)":
-    title: "The Eagle Has Landed"
-    year: 1976
+  The Eagle Has Landed (1976):
+    match:
+      title: The Eagle Has Landed
+      year: 1976
+    title: The Eagle Has Landed
     url_poster: https://theposterdb.com/api/assets/288519
-
+    year: 1976

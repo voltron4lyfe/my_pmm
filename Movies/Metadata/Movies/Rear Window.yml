@@ -1,7 +1,8 @@
 metadata:
-
-  "Rear Window (1954)":
-    title: "Rear Window"
-    year: 1954
+  Rear Window (1954):
+    match:
+      title: Rear Window
+      year: 1954
+    title: Rear Window
     url_poster: https://theposterdb.com/api/assets/207747
-
+    year: 1954

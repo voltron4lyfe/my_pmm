@@ -1,7 +1,8 @@
 metadata:
-
-  "Crimson Tide (1995)":
-    title: "Crimson Tide"
-    year: 1995
+  Crimson Tide (1995):
+    match:
+      title: Crimson Tide
+      year: 1995
+    title: Crimson Tide
     url_poster: https://theposterdb.com/api/assets/196061
-
+    year: 1995

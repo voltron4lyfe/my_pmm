@@ -1,7 +1,8 @@
 metadata:
-
-  "Everybody's Everything (2019)":
-    title: "Everybody's Everything"
-    year: 2019
+  Everybody's Everything (2019):
+    match:
+      title: Everybody's Everything
+      year: 2019
+    title: Everybody's Everything
     url_poster: https://theposterdb.com/api/assets/306989
-
+    year: 2019

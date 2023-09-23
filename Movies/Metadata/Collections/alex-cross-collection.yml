@@ -1,13 +1,22 @@
 metadata:
   Alex Cross (2012):
+    match:
+      title: Alex Cross
+      year: 2012
     title: Alex Cross
     url_poster: https://theposterdb.com/api/assets/302791
     year: 2012
   Along Came a Spider (2001):
+    match:
+      title: Along Came a Spider
+      year: 2001
     title: Along Came a Spider
     url_poster: https://theposterdb.com/api/assets/203401
     year: 2001
   Kiss the Girls (1997):
+    match:
+      title: Kiss the Girls
+      year: 1997
     title: Kiss the Girls
     url_poster: https://theposterdb.com/api/assets/219184
     year: 1997

@@ -1,7 +1,8 @@
 metadata:
-
-  "The Searchers (1956)":
-    title: "The Searchers"
-    year: 1956
+  The Searchers (1956):
+    match:
+      title: The Searchers
+      year: 1956
+    title: The Searchers
     url_poster: https://theposterdb.com/api/assets/197023
-
+    year: 1956

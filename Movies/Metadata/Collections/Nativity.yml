@@ -1,21 +1,29 @@
-metadata:               #Posters found here: https://theposterdb.com/poster/196836
-
-  "Nativity! (2009)":
-    title: "Nativity!"
-    year: 2009
-    url_poster: https://theposterdb.com/api/assets/196836
-
-  "Nativity 2: Danger in the Manger! (2012)":
-    title: "Nativity 2: Danger in the Manger!"
-    year: 2012
+metadata:
+  'Nativity 2: Danger in the Manger! (2012)':
+    match:
+      title: 'Nativity 2: Danger in the Manger!'
+      year: 2012
+    title: 'Nativity 2: Danger in the Manger!'
     url_poster: https://theposterdb.com/api/assets/196837
-
-  "Nativity 3: Dude, Where's My Donkey?! (2014)":
-    title: "Nativity 3: Dude, Where's My Donkey?!"
-    year: 2014
+    year: 2012
+  'Nativity 3: Dude, Where''s My Donkey?! (2014)':
+    match:
+      title: 'Nativity 3: Dude, Where''s My Donkey?!'
+      year: 2014
+    title: 'Nativity 3: Dude, Where''s My Donkey?!'
     url_poster: https://theposterdb.com/api/assets/196838
-
-  "Nativity Rocks! (2018)":
-    title: "Nativity Rocks!"
-    year: 2018
+    year: 2014
+  Nativity Rocks! (2018):
+    match:
+      title: Nativity Rocks!
+      year: 2018
+    title: Nativity Rocks!
     url_poster: https://theposterdb.com/api/assets/196839
+    year: 2018
+  Nativity! (2009):
+    match:
+      title: Nativity!
+      year: 2009
+    title: Nativity!
+    url_poster: https://theposterdb.com/api/assets/196836
+    year: 2009

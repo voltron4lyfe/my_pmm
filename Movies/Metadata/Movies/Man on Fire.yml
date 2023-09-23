@@ -1,7 +1,8 @@
 metadata:
-
-  "Man on Fire (2004)":
-    title: "Man on Fire"
-    year: 2004
+  Man on Fire (2004):
+    match:
+      title: Man on Fire
+      year: 2004
+    title: Man on Fire
     url_poster: https://theposterdb.com/api/assets/219357
-
+    year: 2004

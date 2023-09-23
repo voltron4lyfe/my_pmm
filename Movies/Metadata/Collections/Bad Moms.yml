@@ -1,11 +1,15 @@
-metadata:               #Posters found here: https://theposterdb.com/poster/166227
-
-  "Bad Moms (2016)":
-    title: "Bad Moms"
-    year: 2016
-    url_poster: https://theposterdb.com/api/assets/189968
-
-  "A Bad Moms Christmas (2017)":
-    title: "A Bad Moms Christmas"
-    year: 2017
+metadata:
+  A Bad Moms Christmas (2017):
+    match:
+      title: A Bad Moms Christmas
+      year: 2017
+    title: A Bad Moms Christmas
     url_poster: https://theposterdb.com/api/assets/189969
+    year: 2017
+  Bad Moms (2016):
+    match:
+      title: Bad Moms
+      year: 2016
+    title: Bad Moms
+    url_poster: https://theposterdb.com/api/assets/189968
+    year: 2016

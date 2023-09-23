@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/190956
-
-  "Clifford the Big Red Dog (2021)":
-    title: "Clifford the Big Red Dog"
-    year: 2021
+metadata:
+  Clifford the Big Red Dog (2021):
+    match:
+      title: Clifford the Big Red Dog
+      year: 2021
+    title: Clifford the Big Red Dog
     url_poster: https://theposterdb.com/api/assets/190956
+    year: 2021

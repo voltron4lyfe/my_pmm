@@ -1,7 +1,8 @@
 metadata:
-
-  "Office Space (1999)":
-    title: "Office Space"
-    year: 1999
+  Office Space (1999):
+    match:
+      title: Office Space
+      year: 1999
+    title: Office Space
     url_poster: https://theposterdb.com/api/assets/216278
-
+    year: 1999

@@ -1,56 +1,78 @@
-metadata:               #Posters found here https://theposterdb.com/user/musikmann2000
-
-  "The Fast and the Furious (2001)":
-    title: "The Fast and the Furious"
-    year: 2001
-    url_poster: https://theposterdb.com/api/assets/173861
-
-  "2 Fast 2 Furious (2003)":
-    title: "2 Fast 2 Furious"
-    year: 2003
+metadata:
+  2 Fast 2 Furious (2003):
+    match:
+      title: 2 Fast 2 Furious
+      year: 2003
+    title: 2 Fast 2 Furious
     url_poster: https://theposterdb.com/api/assets/173862
-
-  "The Fast and the Furious: Tokyo Drift (2006)":
-    title: "The Fast and the Furious: Tokyo Drift"
-    year: 2006
-    url_poster: https://theposterdb.com/api/assets/173863
-
-  "Fast & Furious (2009)":
-    title: "Fast & Furious"
-    year: 2009
-    url_poster: https://theposterdb.com/api/assets/173864
-
-  "Fast Five (2011)":
-    title: "Fast Five"
-    year: 2011
-    url_poster: https://theposterdb.com/api/assets/173865
-
-  "Fast & Furious 6 (2013)":
-    title: "Fast & Furious 6"
-    year: 2013
-    url_poster: https://theposterdb.com/api/assets/173866
-
-  "Furious 7 (2015)":
-    title: "Furious 7"
-    year: 2015
-    url_poster: https://theposterdb.com/api/assets/173867
-
-  "The Fate of the Furious (2017)":
-    title: "The Fate of the Furious"
-    year: 2017
-    url_poster: https://theposterdb.com/api/assets/173868
-
-  "Fast & Furious Presents: Hobbs & Shaw (2019)":
-    title: "Fast & Furious Presents: Hobbs & Shaw"
-    year: 2019
-    url_poster: https://theposterdb.com/api/assets/173869
-
-  "F9: The Fast Saga (2021)":
-    title: "F9: The Fast Saga"
-    year: 2021
+    year: 2003
+  'F9: The Fast Saga (2021)':
+    match:
+      title: 'F9: The Fast Saga'
+      year: 2021
+    title: 'F9: The Fast Saga'
     url_poster: https://theposterdb.com/api/assets/173870
-
-  "Fast X (2023)":
-    title: "Fast X"
-    year: 2023
+    year: 2021
+  Fast & Furious (2009):
+    match:
+      title: Fast & Furious
+      year: 2009
+    title: Fast & Furious
+    url_poster: https://theposterdb.com/api/assets/173864
+    year: 2009
+  Fast & Furious 6 (2013):
+    match:
+      title: Fast & Furious 6
+      year: 2013
+    title: Fast & Furious 6
+    url_poster: https://theposterdb.com/api/assets/173866
+    year: 2013
+  'Fast & Furious Presents: Hobbs & Shaw (2019)':
+    match:
+      title: 'Fast & Furious Presents: Hobbs & Shaw'
+      year: 2019
+    title: 'Fast & Furious Presents: Hobbs & Shaw'
+    url_poster: https://theposterdb.com/api/assets/173869
+    year: 2019
+  Fast Five (2011):
+    match:
+      title: Fast Five
+      year: 2011
+    title: Fast Five
+    url_poster: https://theposterdb.com/api/assets/173865
+    year: 2011
+  Fast X (2023):
+    match:
+      title: Fast X
+      year: 2023
+    title: Fast X
     url_poster: https://theposterdb.com/api/assets/368983
+    year: 2023
+  Furious 7 (2015):
+    match:
+      title: Furious 7
+      year: 2015
+    title: Furious 7
+    url_poster: https://theposterdb.com/api/assets/173867
+    year: 2015
+  The Fast and the Furious (2001):
+    match:
+      title: The Fast and the Furious
+      year: 2001
+    title: The Fast and the Furious
+    url_poster: https://theposterdb.com/api/assets/173861
+    year: 2001
+  'The Fast and the Furious: Tokyo Drift (2006)':
+    match:
+      title: 'The Fast and the Furious: Tokyo Drift'
+      year: 2006
+    title: 'The Fast and the Furious: Tokyo Drift'
+    url_poster: https://theposterdb.com/api/assets/173863
+    year: 2006
+  The Fate of the Furious (2017):
+    match:
+      title: The Fate of the Furious
+      year: 2017
+    title: The Fate of the Furious
+    url_poster: https://theposterdb.com/api/assets/173868
+    year: 2017

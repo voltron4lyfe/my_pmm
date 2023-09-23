@@ -1,7 +1,8 @@
 metadata:
-
-  "Baadasssss! (2005)":
-    title: "Baadasssss!"
-    year: 2005
+  Baadasssss! (2005):
+    match:
+      title: Baadasssss!
+      year: 2005
+    title: Baadasssss!
     url_poster: https://theposterdb.com/api/assets/197470
-
+    year: 2005

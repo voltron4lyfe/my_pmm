@@ -1,6 +1,8 @@
-metadata:               #Posters found here: https://theposterdb.com/poster/188569
-
-  "Raging Bull (1980)":
-    title: "Raging Bull"
-    year: 1980
+metadata:
+  Raging Bull (1980):
+    match:
+      title: Raging Bull
+      year: 1980
+    title: Raging Bull
     url_poster: https://theposterdb.com/api/assets/188569
+    year: 1980

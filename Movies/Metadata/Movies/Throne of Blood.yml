@@ -1,7 +1,8 @@
 metadata:
-
-  "Throne of Blood (1957)":
-    title: "Throne of Blood"
-    year: 1957
+  Throne of Blood (1957):
+    match:
+      title: Throne of Blood
+      year: 1957
+    title: Throne of Blood
     url_poster: https://theposterdb.com/api/assets/230036
-
+    year: 1957

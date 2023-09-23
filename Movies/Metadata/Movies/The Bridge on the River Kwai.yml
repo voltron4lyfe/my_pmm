@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/186636
-
-  "The Bridge on the River Kwai (1957)":
-    title: "The Bridge on the River Kwai"
-    year: 1957
+metadata:
+  The Bridge on the River Kwai (1957):
+    match:
+      title: The Bridge on the River Kwai
+      year: 1957
+    title: The Bridge on the River Kwai
     url_poster: https://theposterdb.com/api/assets/186636
+    year: 1957

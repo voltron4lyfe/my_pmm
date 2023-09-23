@@ -1,7 +1,8 @@
 metadata:
-
-  "The Falcon and the Snowman (1985)":
-    title: "The Falcon and the Snowman"
-    year: 1985
+  The Falcon and the Snowman (1985):
+    match:
+      title: The Falcon and the Snowman
+      year: 1985
+    title: The Falcon and the Snowman
     url_poster: https://theposterdb.com/api/assets/288606
-
+    year: 1985

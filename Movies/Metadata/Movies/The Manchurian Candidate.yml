@@ -1,7 +1,8 @@
 metadata:
-
-  "The Manchurian Candidate (1962)":
-    title: "The Manchurian Candidate"
-    year: 1962
+  The Manchurian Candidate (1962):
+    match:
+      title: The Manchurian Candidate
+      year: 1962
+    title: The Manchurian Candidate
     url_poster: https://theposterdb.com/api/assets/214069
-
+    year: 1962

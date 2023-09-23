@@ -1,7 +1,8 @@
 metadata:
-
-  "Bubba Ho-Tep (2002)":
-    title: "Bubba Ho-Tep"
-    year: 2002
+  Bubba Ho-Tep (2002):
+    match:
+      title: Bubba Ho-Tep
+      year: 2002
+    title: Bubba Ho-Tep
     url_poster: https://theposterdb.com/api/assets/180053
-
+    year: 2002

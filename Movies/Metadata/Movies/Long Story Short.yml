@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/251256
-
-  "Long Story Short (2021)":
-    title: "Long Story Short"
-    year: 2021
+metadata:
+  Long Story Short (2021):
+    match:
+      title: Long Story Short
+      year: 2021
+    title: Long Story Short
     url_poster: https://theposterdb.com/api/assets/251256
+    year: 2021

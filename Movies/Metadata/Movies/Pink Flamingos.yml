@@ -1,7 +1,8 @@
 metadata:
-
-  "Pink Flamingos (1976)":
-    title: "Pink Flamingos"
-    year: 1976
+  Pink Flamingos (1976):
+    match:
+      title: Pink Flamingos
+      year: 1976
+    title: Pink Flamingos
     url_poster: https://theposterdb.com/api/assets/246553
-
+    year: 1976

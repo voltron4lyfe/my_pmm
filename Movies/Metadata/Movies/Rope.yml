@@ -1,7 +1,8 @@
 metadata:
-
-  "Rope (1948)":
-    title: "Rope"
-    year: 1948
+  Rope (1948):
+    match:
+      title: Rope
+      year: 1948
+    title: Rope
     url_poster: https://theposterdb.com/api/assets/207840
-
+    year: 1948

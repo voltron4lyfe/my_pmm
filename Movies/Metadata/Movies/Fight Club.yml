@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/194478
-
-  "Fight Club (1999)":
-    title: "Fight Club"
-    year: 1999
+metadata:
+  Fight Club (1999):
+    match:
+      title: Fight Club
+      year: 1999
+    title: Fight Club
     url_poster: https://theposterdb.com/api/assets/194478
+    year: 1999

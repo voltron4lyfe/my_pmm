@@ -1,56 +1,78 @@
-metadata:               #Posters found here https://theposterdb.com/user/musikmann2000
-
-  "Night of the Living Dead (1968)":
-    title: "Night of the Living Dead"
-    year: 1968
-    url_poster: https://theposterdb.com/api/assets/176432
-
-  "Dawn of the Dead (1978)":
-    title: "Dawn of the Dead"
-    year: 1978
-    url_poster: https://theposterdb.com/api/assets/176433
-
-  "Document of the Dead (1981)":
-    title: "Document of the Dead"
-    year: 1981
-    url_poster: https://theposterdb.com/api/assets/176441
-
-  "Day of the Dead (1985)":
-    title: "Day of the Dead"
-    year: 1985
-    url_poster: https://theposterdb.com/api/assets/176434
-
-  "Night of the Living Dead (1990)":
-    title: "Night of the Living Dead"
-    year: 1990
-    url_poster: https://theposterdb.com/api/assets/176435
-
-  "Dawn of the Dead (2004)":
-    title: "Dawn of the Dead"
-    year: 2004
-    url_poster: https://theposterdb.com/api/assets/176436
-
-  "Land of the Dead (2005)":
-    title: "Land of the Dead"
-    year: 2005
-    url_poster: https://theposterdb.com/api/assets/176437
-
-  "Day of the Dead (2008)":
-    title: "Day of the Dead"
-    year: 2008
-    url_poster: https://theposterdb.com/api/assets/179247
-
-  "Diary of the Dead (2008)":
-    title: "Diary of the Dead"
-    year: 2008
-    url_poster: https://theposterdb.com/api/assets/176438
-
-  "Survival of the Dead (2010)":
-    title: "Survival of the Dead"
-    year: 2010
-    url_poster: https://theposterdb.com/api/assets/176439
-
-  "Army of the Dead (2021)":
-    title: "Army of the Dead"
-    year: 2021
+metadata:
+  Army of the Dead (2021):
+    match:
+      title: Army of the Dead
+      year: 2021
+    title: Army of the Dead
     url_poster: https://theposterdb.com/api/assets/176440
+    year: 2021
+  Dawn of the Dead (1978):
+    match:
+      title: Dawn of the Dead
+      year: 1978
+    title: Dawn of the Dead
+    url_poster: https://theposterdb.com/api/assets/176433
+    year: 1978
+  Dawn of the Dead (2004):
+    match:
+      title: Dawn of the Dead
+      year: 2004
+    title: Dawn of the Dead
+    url_poster: https://theposterdb.com/api/assets/176436
+    year: 2004
+  Day of the Dead (1985):
+    match:
+      title: Day of the Dead
+      year: 1985
+    title: Day of the Dead
+    url_poster: https://theposterdb.com/api/assets/176434
+    year: 1985
+  Day of the Dead (2008):
+    match:
+      title: Day of the Dead
+      year: 2008
+    title: Day of the Dead
+    url_poster: https://theposterdb.com/api/assets/179247
+    year: 2008
+  Diary of the Dead (2008):
+    match:
+      title: Diary of the Dead
+      year: 2008
+    title: Diary of the Dead
+    url_poster: https://theposterdb.com/api/assets/176438
+    year: 2008
+  Document of the Dead (1981):
+    match:
+      title: Document of the Dead
+      year: 1981
+    title: Document of the Dead
+    url_poster: https://theposterdb.com/api/assets/176441
+    year: 1981
+  Land of the Dead (2005):
+    match:
+      title: Land of the Dead
+      year: 2005
+    title: Land of the Dead
+    url_poster: https://theposterdb.com/api/assets/176437
+    year: 2005
+  Night of the Living Dead (1968):
+    match:
+      title: Night of the Living Dead
+      year: 1968
+    title: Night of the Living Dead
+    url_poster: https://theposterdb.com/api/assets/176432
+    year: 1968
+  Night of the Living Dead (1990):
+    match:
+      title: Night of the Living Dead
+      year: 1990
+    title: Night of the Living Dead
+    url_poster: https://theposterdb.com/api/assets/176435
+    year: 1990
+  Survival of the Dead (2010):
+    match:
+      title: Survival of the Dead
+      year: 2010
+    title: Survival of the Dead
+    url_poster: https://theposterdb.com/api/assets/176439
+    year: 2010

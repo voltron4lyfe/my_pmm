@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/212364
-
-  "The Treasure of the Sierra Madre (1948)":
-    title: "The Treasure of the Sierra Madre"
-    year: 1948
+metadata:
+  The Treasure of the Sierra Madre (1948):
+    match:
+      title: The Treasure of the Sierra Madre
+      year: 1948
+    title: The Treasure of the Sierra Madre
     url_poster: https://theposterdb.com/api/assets/212364
+    year: 1948

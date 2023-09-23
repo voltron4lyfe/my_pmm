@@ -1,21 +1,29 @@
-metadata:               #Posters found here https://theposterdb.com/user/musikmann2000
-
-  "Candyman (1992)":
-    title: "Candyman"
-    year: 1992
+metadata:
+  Candyman (1992):
+    match:
+      title: Candyman
+      year: 1992
+    title: Candyman
     url_poster: https://theposterdb.com/api/assets/176378
-
-  "Candyman: Farewell to the Flesh (1995)":
-    title: "Candyman: Farewell to the Flesh"
-    year: 1995
-    url_poster: https://theposterdb.com/api/assets/176379
-
-  "Candyman: Day of the Dead (1999)":
-    title: "Candyman: Day of the Dead"
-    year: 1999
-    url_poster: https://theposterdb.com/api/assets/176380
-
-  "Candyman (2021)":
-    title: "Candyman"
-    year: 2021
+    year: 1992
+  Candyman (2021):
+    match:
+      title: Candyman
+      year: 2021
+    title: Candyman
     url_poster: https://theposterdb.com/api/assets/176381
+    year: 2021
+  'Candyman: Day of the Dead (1999)':
+    match:
+      title: 'Candyman: Day of the Dead'
+      year: 1999
+    title: 'Candyman: Day of the Dead'
+    url_poster: https://theposterdb.com/api/assets/176380
+    year: 1999
+  'Candyman: Farewell to the Flesh (1995)':
+    match:
+      title: 'Candyman: Farewell to the Flesh'
+      year: 1995
+    title: 'Candyman: Farewell to the Flesh'
+    url_poster: https://theposterdb.com/api/assets/176379
+    year: 1995

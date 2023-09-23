@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/214312
-
-  "Uncharted (2022)":
-    title: "Uncharted"
-    year: 2022
+metadata:
+  Uncharted (2022):
+    match:
+      title: Uncharted
+      year: 2022
+    title: Uncharted
     url_poster: https://theposterdb.com/api/assets/214312
+    year: 2022

@@ -1,9 +1,15 @@
 metadata:
   City Slickers (1991):
+    match:
+      title: City Slickers
+      year: 1991
     title: City Slickers
     url_poster: https://theposterdb.com/api/assets/212304
     year: 1991
   'City Slickers II: The Legend of Curly''s Gold (1994)':
+    match:
+      title: 'City Slickers II: The Legend of Curly''s Gold'
+      year: 1994
     title: 'City Slickers II: The Legend of Curly''s Gold'
     url_poster: https://theposterdb.com/api/assets/212305
     year: 1994

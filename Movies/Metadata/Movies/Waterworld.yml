@@ -1,7 +1,8 @@
 metadata:
-
-  "Waterworld (1995)":
-    title: "Waterworld"
-    year: 1995
+  Waterworld (1995):
+    match:
+      title: Waterworld
+      year: 1995
+    title: Waterworld
     url_poster: https://theposterdb.com/api/assets/186850
-
+    year: 1995

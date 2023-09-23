@@ -1,27 +1,33 @@
-metadata:               #Posters found here https://theposterdb.com/poster/177800
-
-  "The Purge (2013)":
-    title: "The Purge"
-    year: 2013
-    url_poster: https://theposterdb.com/api/assets/177796
-
-  "The Purge: Anarchy (2014)":
-    title: "The Purge: Anarchy"
-    year: 2014
-    url_poster: https://theposterdb.com/api/assets/177797
-
-  #The purge election year
-  tt4094724:
-    title: "The Purge: Election Year"
-    year: 2016
-    url_poster: https://theposterdb.com/api/assets/177798
-
-  "The First Purge (2018)":
-    title: "The First Purge"
-    year: 2018
+metadata:
+  The First Purge (2018):
+    match:
+      title: The First Purge
+      year: 2018
+    title: The First Purge
     url_poster: https://theposterdb.com/api/assets/177799
-
-  "The Forever Purge (2021)":
-    title: "The Forever Purge"
-    year: 2021
+    year: 2018
+  The Forever Purge (2021):
+    match:
+      title: The Forever Purge
+      year: 2021
+    title: The Forever Purge
     url_poster: https://theposterdb.com/api/assets/177800
+    year: 2021
+  The Purge (2013):
+    match:
+      title: The Purge
+      year: 2013
+    title: The Purge
+    url_poster: https://theposterdb.com/api/assets/177796
+    year: 2013
+  'The Purge: Anarchy (2014)':
+    match:
+      title: 'The Purge: Anarchy'
+      year: 2014
+    title: 'The Purge: Anarchy'
+    url_poster: https://theposterdb.com/api/assets/177797
+    year: 2014
+  tt4094724:
+    title: 'The Purge: Election Year'
+    url_poster: https://theposterdb.com/api/assets/177798
+    year: 2016

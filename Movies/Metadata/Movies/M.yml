@@ -1,7 +1,8 @@
 metadata:
-
-  "M (1931)":
-    title: "M"
-    year: 1931
+  M (1931):
+    match:
+      title: M
+      year: 1931
+    title: M
     url_poster: https://theposterdb.com/api/assets/229826
-
+    year: 1931

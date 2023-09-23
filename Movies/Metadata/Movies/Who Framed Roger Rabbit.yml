@@ -1,7 +1,8 @@
 metadata:
-
-  "Who Framed Roger Rabbit (1988)":
-    title: "Who Framed Roger Rabbit"
-    year: 1988
+  Who Framed Roger Rabbit (1988):
+    match:
+      title: Who Framed Roger Rabbit
+      year: 1988
+    title: Who Framed Roger Rabbit
     url_poster: https://theposterdb.com/api/assets/197338
-
+    year: 1988

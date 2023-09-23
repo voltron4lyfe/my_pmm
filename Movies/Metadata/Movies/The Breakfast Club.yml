@@ -1,7 +1,8 @@
 metadata:
-
-  "The Breakfast Club (1985)":
-    title: "The Breakfast Club"
-    year: 1985
+  The Breakfast Club (1985):
+    match:
+      title: The Breakfast Club
+      year: 1985
+    title: The Breakfast Club
     url_poster: https://theposterdb.com/api/assets/201657
-
+    year: 1985

@@ -1,7 +1,8 @@
 metadata:
-
-  "Gravity (2013)":
-    title: "Gravity"
-    year: 2013
+  Gravity (2013):
+    match:
+      title: Gravity
+      year: 2013
+    title: Gravity
     url_poster: https://theposterdb.com/api/assets/185062
-
+    year: 2013

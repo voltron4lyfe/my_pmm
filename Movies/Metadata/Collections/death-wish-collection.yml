@@ -1,21 +1,36 @@
 metadata:
   Death Wish (1974):
+    match:
+      title: Death Wish
+      year: 1974
     title: Death Wish
     url_poster: https://theposterdb.com/api/assets/200744
     year: 1974
   Death Wish 3 (1985):
+    match:
+      title: Death Wish 3
+      year: 1985
     title: Death Wish 3
     url_poster: https://theposterdb.com/api/assets/200746
     year: 1985
   'Death Wish 4: The Crackdown (1987)':
+    match:
+      title: 'Death Wish 4: The Crackdown'
+      year: 1987
     title: 'Death Wish 4: The Crackdown'
     url_poster: https://theposterdb.com/api/assets/200747
     year: 1987
   Death Wish II (1982):
+    match:
+      title: Death Wish II
+      year: 1982
     title: Death Wish II
     url_poster: https://theposterdb.com/api/assets/200745
     year: 1982
   'Death Wish V: The Face of Death (1994)':
+    match:
+      title: 'Death Wish V: The Face of Death'
+      year: 1994
     title: 'Death Wish V: The Face of Death'
     url_poster: https://theposterdb.com/api/assets/200748
     year: 1994

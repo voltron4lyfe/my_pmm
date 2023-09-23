@@ -1,6 +1,8 @@
-metadata:               #Posters found here: https://theposterdb.com/poster/192771
-
-  "Spencer (2021)":
-    title: "Spencer"
-    year: 2021
+metadata:
+  Spencer (2021):
+    match:
+      title: Spencer
+      year: 2021
+    title: Spencer
     url_poster: https://theposterdb.com/api/assets/192771
+    year: 2021

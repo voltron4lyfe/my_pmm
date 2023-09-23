@@ -1,6 +1,8 @@
-metadata:               #Posters found here: https://theposterdb.com/poster/184624
-
-  "Rain Man (1988)":
-    title: "Rain Man"
-    year: 1988
+metadata:
+  Rain Man (1988):
+    match:
+      title: Rain Man
+      year: 1988
+    title: Rain Man
     url_poster: https://theposterdb.com/api/assets/184624
+    year: 1988

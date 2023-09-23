@@ -1,61 +1,78 @@
 metadata:
-
-  "A Perfect Planet (2021)":
-    year: 2021
-    title: "A Perfect Planet"
+  A Perfect Planet (2021):
+    match:
+      title: A Perfect Planet
+      year: 2021
+    title: A Perfect Planet
     url_poster: https://theposterdb.com/api/assets/237874
-
-  "Blue Planet II (2017)":
-    year: 2017
-    title: "Blue Planet II"
+    year: 2021
+  Blue Planet II (2017):
+    match:
+      title: Blue Planet II
+      year: 2017
+    title: Blue Planet II
     url_poster: https://theposterdb.com/api/assets/237875
-
-  "Frozen Planet (2011)":
-    year: 2011
-    title: "Frozen Planet"
+    year: 2017
+  Frozen Planet (2011):
+    match:
+      title: Frozen Planet
+      year: 2011
+    title: Frozen Planet
     url_poster: https://theposterdb.com/api/assets/237876
-
-  "Our Planet (2019)":
-    year: 2019
-    title: "Our Planet"
-    url_poster: https://theposterdb.com/api/assets/237878
-
-  "Planet Earth (2006)":
-    year: 2006
-    title: "Planet Earth"
-    url_poster: https://theposterdb.com/api/assets/237879
-
-  "Planet Earth II (2016)":
-    year: 2016
-    title: "Planet Earth II"
-    url_poster: https://theposterdb.com/api/assets/237880
-
-      #  "Planet Earth III (N/A) (null)":
-      #    year: null
-      #    title: "Planet Earth III (N/A)"
-      #    url_poster: https://theposterdb.com/api/assets/237881
-
-  "Prehistoric Planet (2022)":
-    year: 2022
-    title: "Prehistoric Planet"
-    url_poster: https://theposterdb.com/api/assets/237882
-
-  "Seven Worlds, One Planet (2019)":
-    year: 2019
-    title: "Seven Worlds, One Planet"
-    url_poster: https://theposterdb.com/api/assets/237883
-
-  "The Blue Planet (2001)":
-    year: 2001
-    title: "The Blue Planet"
-    url_poster: https://theposterdb.com/api/assets/237884
-
-  "The Green Planet (2022)":
-    year: 2022
-    title: "The Green Planet"
-    url_poster: https://theposterdb.com/api/assets/237885
-
-  "Planet Dinosaur (2011)":
     year: 2011
-    title: "Planet Dinosaur"
+  Our Planet (2019):
+    match:
+      title: Our Planet
+      year: 2019
+    title: Our Planet
+    url_poster: https://theposterdb.com/api/assets/237878
+    year: 2019
+  Planet Dinosaur (2011):
+    match:
+      title: Planet Dinosaur
+      year: 2011
+    title: Planet Dinosaur
     url_poster: https://theposterdb.com/api/assets/237871
+    year: 2011
+  Planet Earth (2006):
+    match:
+      title: Planet Earth
+      year: 2006
+    title: Planet Earth
+    url_poster: https://theposterdb.com/api/assets/237879
+    year: 2006
+  Planet Earth II (2016):
+    match:
+      title: Planet Earth II
+      year: 2016
+    title: Planet Earth II
+    url_poster: https://theposterdb.com/api/assets/237880
+    year: 2016
+  Prehistoric Planet (2022):
+    match:
+      title: Prehistoric Planet
+      year: 2022
+    title: Prehistoric Planet
+    url_poster: https://theposterdb.com/api/assets/237882
+    year: 2022
+  Seven Worlds, One Planet (2019):
+    match:
+      title: Seven Worlds, One Planet
+      year: 2019
+    title: Seven Worlds, One Planet
+    url_poster: https://theposterdb.com/api/assets/237883
+    year: 2019
+  The Blue Planet (2001):
+    match:
+      title: The Blue Planet
+      year: 2001
+    title: The Blue Planet
+    url_poster: https://theposterdb.com/api/assets/237884
+    year: 2001
+  The Green Planet (2022):
+    match:
+      title: The Green Planet
+      year: 2022
+    title: The Green Planet
+    url_poster: https://theposterdb.com/api/assets/237885
+    year: 2022

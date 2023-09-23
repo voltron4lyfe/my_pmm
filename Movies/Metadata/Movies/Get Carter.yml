@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/user/musikmann2000
-
-  "Get Carter (1971)":
-    title: "Get Carter"
-    year: 1971
+metadata:
+  Get Carter (1971):
+    match:
+      title: Get Carter
+      year: 1971
+    title: Get Carter
     url_poster: https://theposterdb.com/api/assets/213767
+    year: 1971

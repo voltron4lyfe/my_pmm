@@ -1,7 +1,8 @@
 metadata:
-
-  "American Psycho (2000)":
-    title: "American Psycho"
-    year: 2000
+  American Psycho (2000):
+    match:
+      title: American Psycho
+      year: 2000
+    title: American Psycho
     url_poster: https://theposterdb.com/api/assets/194725
-
+    year: 2000

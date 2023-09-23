@@ -1,7 +1,8 @@
 metadata:
-
-  "Ed Wood (1994)":
-    title: "Ed Wood"
-    year: 1994
+  Ed Wood (1994):
+    match:
+      title: Ed Wood
+      year: 1994
+    title: Ed Wood
     url_poster: https://theposterdb.com/api/assets/211163
-
+    year: 1994

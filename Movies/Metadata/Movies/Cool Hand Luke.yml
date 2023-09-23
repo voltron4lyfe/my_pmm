@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/170542
-
-  "Cool Hand Luke (1967)":
-    title: "Cool Hand Luke"
-    year: 1967
+metadata:
+  Cool Hand Luke (1967):
+    match:
+      title: Cool Hand Luke
+      year: 1967
+    title: Cool Hand Luke
     url_poster: https://theposterdb.com/api/assets/170542
+    year: 1967

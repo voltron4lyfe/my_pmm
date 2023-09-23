@@ -1,13 +1,22 @@
 metadata:
   From Dusk Till Dawn (1996):
+    match:
+      title: From Dusk Till Dawn
+      year: 1996
     title: From Dusk Till Dawn
     url_poster: https://theposterdb.com/api/assets/180302
     year: 1996
   'From Dusk Till Dawn 2: Texas Blood Money (1999)':
+    match:
+      title: 'From Dusk Till Dawn 2: Texas Blood Money'
+      year: 1999
     title: 'From Dusk Till Dawn 2: Texas Blood Money'
     url_poster: https://theposterdb.com/api/assets/180303
     year: 1999
   'From Dusk Till Dawn 3: The Hangman''s Daughter (1999)':
+    match:
+      title: 'From Dusk Till Dawn 3: The Hangman''s Daughter'
+      year: 1999
     title: 'From Dusk Till Dawn 3: The Hangman''s Daughter'
     url_poster: https://theposterdb.com/api/assets/180304
     year: 1999

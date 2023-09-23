@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/215720
-
-  "Zack and Miri Make a Porno (2008)":
-    title: "Zack and Miri Make a Porno"
-    year: 2008
+metadata:
+  Zack and Miri Make a Porno (2008):
+    match:
+      title: Zack and Miri Make a Porno
+      year: 2008
+    title: Zack and Miri Make a Porno
     url_poster: https://theposterdb.com/api/assets/215720
+    year: 2008

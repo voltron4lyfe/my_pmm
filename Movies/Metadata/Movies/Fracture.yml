@@ -1,7 +1,8 @@
 metadata:
-
-  "Fracture (2007)":
-    title: "Fracture"
-    year: 2007
+  Fracture (2007):
+    match:
+      title: Fracture
+      year: 2007
+    title: Fracture
     url_poster: https://theposterdb.com/api/assets/212151
-
+    year: 2007

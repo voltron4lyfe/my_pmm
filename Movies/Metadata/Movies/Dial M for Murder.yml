@@ -1,7 +1,8 @@
 metadata:
-
-  "Dial M for Murder (1954)":
-    title: "Dial M for Murder"
-    year: 1954
+  Dial M for Murder (1954):
+    match:
+      title: Dial M for Murder
+      year: 1954
+    title: Dial M for Murder
     url_poster: https://theposterdb.com/api/assets/207746
-
+    year: 1954

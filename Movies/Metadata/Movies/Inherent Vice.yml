@@ -1,7 +1,8 @@
 metadata:
-
-  "Inherent Vice (2014)":
-    title: "Inherent Vice"
-    year: 2014
+  Inherent Vice (2014):
+    match:
+      title: Inherent Vice
+      year: 2014
+    title: Inherent Vice
     url_poster: https://theposterdb.com/api/assets/205341
-
+    year: 2014

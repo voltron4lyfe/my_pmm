@@ -1,7 +1,8 @@
 metadata:
-
-  "Backdraft (1991)":
-    title: "Backdraft"
-    year: 1991
+  Backdraft (1991):
+    match:
+      title: Backdraft
+      year: 1991
+    title: Backdraft
     url_poster: https://theposterdb.com/api/assets/194469
-
+    year: 1991

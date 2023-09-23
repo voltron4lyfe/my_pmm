@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/183776
-
-  "Infinite (2021)":
-    title: "Infinite"
-    year: 2021
+metadata:
+  Infinite (2021):
+    match:
+      title: Infinite
+      year: 2021
+    title: Infinite
     url_poster: https://theposterdb.com/api/assets/183776
+    year: 2021

@@ -1,7 +1,8 @@
 metadata:
-
-  "A Million Ways to Die in the West (2014)":
-    title: "A Million Ways to Die in the West"
-    year: 2014
+  A Million Ways to Die in the West (2014):
+    match:
+      title: A Million Ways to Die in the West
+      year: 2014
+    title: A Million Ways to Die in the West
     url_poster: https://theposterdb.com/api/assets/205659
-
+    year: 2014

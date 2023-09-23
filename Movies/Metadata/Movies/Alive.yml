@@ -1,7 +1,8 @@
 metadata:
-
-  "Alive (1993)":
-    title: "Alive"
-    year: 1993
+  Alive (1993):
+    match:
+      title: Alive
+      year: 1993
+    title: Alive
     url_poster: https://theposterdb.com/api/assets/203387
-
+    year: 1993

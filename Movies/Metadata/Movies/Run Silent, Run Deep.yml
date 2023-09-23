@@ -1,7 +1,8 @@
 metadata:
-
-  "Run Silent Run Deep (1958)":
-    title: "Run Silent Run Deep"
-    year: 1958
+  Run Silent Run Deep (1958):
+    match:
+      title: Run Silent Run Deep
+      year: 1958
+    title: Run Silent Run Deep
     url_poster: https://theposterdb.com/api/assets/197268
-
+    year: 1958

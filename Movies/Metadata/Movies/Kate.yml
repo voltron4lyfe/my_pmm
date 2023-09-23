@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/176022
-
-  "Kate (2021)":
-    title: "Kate"
-    year: 2021
+metadata:
+  Kate (2021):
+    match:
+      title: Kate
+      year: 2021
+    title: Kate
     url_poster: https://theposterdb.com/api/assets/176022
+    year: 2021

@@ -1,6 +1,8 @@
-metadata:               #Posters found here: https://theposterdb.com/poster/212723
-
-  "Taxi Driver (1976)":
-    title: "Taxi Driver"
-    year: 1976
+metadata:
+  Taxi Driver (1976):
+    match:
+      title: Taxi Driver
+      year: 1976
+    title: Taxi Driver
     url_poster: https://theposterdb.com/api/assets/212723
+    year: 1976

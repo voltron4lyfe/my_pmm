@@ -1,7 +1,8 @@
 metadata:
-
-  "Rumble in the Bronx (1995)":
-    title: "Rumble in the Bronx"
-    year: 1995
+  Rumble in the Bronx (1995):
+    match:
+      title: Rumble in the Bronx
+      year: 1995
+    title: Rumble in the Bronx
     url_poster: https://theposterdb.com/api/assets/220226
-
+    year: 1995

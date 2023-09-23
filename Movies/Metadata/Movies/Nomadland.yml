@@ -1,6 +1,8 @@
-metadata:               #Posters found here: https://theposterdb.com/poster/184094
-
-  "Nomadland (2020)":
-    title: "Nomadland"
-    year: 2020
+metadata:
+  Nomadland (2020):
+    match:
+      title: Nomadland
+      year: 2020
+    title: Nomadland
     url_poster: https://theposterdb.com/api/assets/184094
+    year: 2020

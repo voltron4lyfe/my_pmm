@@ -1,7 +1,8 @@
 metadata:
-
-  "Any Given Sunday (1999)":
-    title: "Any Given Sunday"
-    year: 1999
+  Any Given Sunday (1999):
+    match:
+      title: Any Given Sunday
+      year: 1999
+    title: Any Given Sunday
     url_poster: https://theposterdb.com/api/assets/188396
-
+    year: 1999

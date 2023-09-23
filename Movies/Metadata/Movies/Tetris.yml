@@ -1,7 +1,8 @@
 metadata:
-
-  "Tetris (2023)":
-    title: "Tetris"
-    year: 2023
+  Tetris (2023):
+    match:
+      title: Tetris
+      year: 2023
+    title: Tetris
     url_poster: https://theposterdb.com/api/assets/343688
-
+    year: 2023

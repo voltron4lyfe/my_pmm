@@ -1,7 +1,8 @@
 metadata:
-
-  "K-19: The Widowmaker (2002)":
-    title: "K-19: The Widowmaker"
-    year: 2002
+  'K-19: The Widowmaker (2002)':
+    match:
+      title: 'K-19: The Widowmaker'
+      year: 2002
+    title: 'K-19: The Widowmaker'
     url_poster: https://theposterdb.com/api/assets/195882
-
+    year: 2002

@@ -1,7 +1,8 @@
 metadata:
-
-  "Behind the Candelabra (2013)":
-    title: "Behind the Candelabra"
-    year: 2013
+  Behind the Candelabra (2013):
+    match:
+      title: Behind the Candelabra
+      year: 2013
+    title: Behind the Candelabra
     url_poster: https://theposterdb.com/api/assets/206476
-
+    year: 2013

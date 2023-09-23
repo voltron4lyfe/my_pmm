@@ -1,16 +1,22 @@
-metadata:               #Posters found here https://theposterdb.com/user/musikmann2000
-
-  "Big Momma's House (2000)":
-    title: "Big Momma's House"
-    year: 2000
+metadata:
+  Big Momma's House (2000):
+    match:
+      title: Big Momma's House
+      year: 2000
+    title: Big Momma's House
     url_poster: https://theposterdb.com/api/assets/206577
-
-  "Big Momma's House 2 (2006)":
-    title: "Big Momma's House 2"
-    year: 2006
+    year: 2000
+  Big Momma's House 2 (2006):
+    match:
+      title: Big Momma's House 2
+      year: 2006
+    title: Big Momma's House 2
     url_poster: https://theposterdb.com/api/assets/206578
-
-  "Big Mommas: Like Father, Like Son (2011)":
-    title: "Big Mommas: Like Father, Like Son"
-    year: 2011
+    year: 2006
+  'Big Mommas: Like Father, Like Son (2011)':
+    match:
+      title: 'Big Mommas: Like Father, Like Son'
+      year: 2011
+    title: 'Big Mommas: Like Father, Like Son'
     url_poster: https://theposterdb.com/api/assets/206579
+    year: 2011

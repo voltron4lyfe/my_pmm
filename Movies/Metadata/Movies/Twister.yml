@@ -1,7 +1,8 @@
 metadata:
-
-  "Twister (1996)":
-    title: "Twister"
-    year: 1996
+  Twister (1996):
+    match:
+      title: Twister
+      year: 1996
+    title: Twister
     url_poster: https://theposterdb.com/api/assets/175453
-
+    year: 1996

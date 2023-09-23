@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/225692
-
-  "Aksel (2021)":
-    title: "Aksel"
-    year: 2021
+metadata:
+  Aksel (2021):
+    match:
+      title: Aksel
+      year: 2021
+    title: Aksel
     url_poster: https://theposterdb.com/api/assets/225692
+    year: 2021

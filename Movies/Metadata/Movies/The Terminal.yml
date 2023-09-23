@@ -1,6 +1,8 @@
-metadata:               #Posters found here: https://theposterdb.com/poster/179237
-
-  "The Terminal (2004)":
-    title: "The Terminal"
-    year: 2004
+metadata:
+  The Terminal (2004):
+    match:
+      title: The Terminal
+      year: 2004
+    title: The Terminal
     url_poster: https://theposterdb.com/api/assets/179237
+    year: 2004

@@ -1,6 +1,8 @@
-metadata:               #Posters found here: https://theposterdb.com/poster/188281
-
-  "Trigger Point (2021)":
-    title: "Trigger Point"
-    year: 2021
+metadata:
+  Trigger Point (2021):
+    match:
+      title: Trigger Point
+      year: 2021
+    title: Trigger Point
     url_poster: https://theposterdb.com/api/assets/188281
+    year: 2021

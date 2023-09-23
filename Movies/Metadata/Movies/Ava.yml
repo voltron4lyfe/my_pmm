@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/user/musikmann2000
-
-  "Ava (2020)":
-    title: "Ava"
-    year: 2020
+metadata:
+  Ava (2020):
+    match:
+      title: Ava
+      year: 2020
+    title: Ava
     url_poster: https://theposterdb.com/api/assets/198175
+    year: 2020

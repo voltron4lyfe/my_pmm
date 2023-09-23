@@ -1,7 +1,8 @@
 metadata:
-
-  "The Fabelmans (2022)":
-    title: "The Fabelmans"
-    year: 2022
+  The Fabelmans (2022):
+    match:
+      title: The Fabelmans
+      year: 2022
+    title: The Fabelmans
     url_poster: https://theposterdb.com/api/assets/297369
-
+    year: 2022

@@ -1,13 +1,22 @@
 metadata:
   Bill & Ted Face the Music (2020):
+    match:
+      title: Bill & Ted Face the Music
+      year: 2020
     title: Bill & Ted Face the Music
     url_poster: https://theposterdb.com/api/assets/183800
     year: 2020
   Bill & Ted's Bogus Journey (1991):
+    match:
+      title: Bill & Ted's Bogus Journey
+      year: 1991
     title: Bill & Ted's Bogus Journey
     url_poster: https://theposterdb.com/api/assets/183799
     year: 1991
   Bill & Ted's Excellent Adventure (1989):
+    match:
+      title: Bill & Ted's Excellent Adventure
+      year: 1989
     title: Bill & Ted's Excellent Adventure
     url_poster: https://theposterdb.com/api/assets/183798
     year: 1989

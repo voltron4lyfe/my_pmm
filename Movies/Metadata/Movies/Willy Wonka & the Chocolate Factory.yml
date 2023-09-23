@@ -1,7 +1,8 @@
 metadata:
-
-  "Willy Wonka & the Chocolate Factory (1971)":
-    title: "Willy Wonka & the Chocolate Factory"
-    year: 1971
+  Willy Wonka & the Chocolate Factory (1971):
+    match:
+      title: Willy Wonka & the Chocolate Factory
+      year: 1971
+    title: Willy Wonka & the Chocolate Factory
     url_poster: https://theposterdb.com/api/assets/173739
-
+    year: 1971

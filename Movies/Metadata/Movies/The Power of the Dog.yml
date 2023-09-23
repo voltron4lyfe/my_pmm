@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/198035
-
-  "The Power of the Dog (2021)":
-    title: "The Power of the Dog"
-    year: 2021
+metadata:
+  The Power of the Dog (2021):
+    match:
+      title: The Power of the Dog
+      year: 2021
+    title: The Power of the Dog
     url_poster: https://theposterdb.com/api/assets/198035
+    year: 2021

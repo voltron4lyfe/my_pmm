@@ -1,7 +1,8 @@
 metadata:
-
-  "Parasite (2019)":
-    title: "Parasite"
-    year: 2019
+  Parasite (2019):
+    match:
+      title: Parasite
+      year: 2019
+    title: Parasite
     url_poster: https://theposterdb.com/api/assets/184096
-
+    year: 2019

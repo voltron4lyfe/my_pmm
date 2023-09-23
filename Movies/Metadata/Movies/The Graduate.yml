@@ -1,7 +1,8 @@
 metadata:
-
-  "The Graduate (1967)":
-    title: "The Graduate"
-    year: 1967
+  The Graduate (1967):
+    match:
+      title: The Graduate
+      year: 1967
+    title: The Graduate
     url_poster: https://theposterdb.com/api/assets/229768
-
+    year: 1967

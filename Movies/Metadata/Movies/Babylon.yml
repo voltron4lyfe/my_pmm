@@ -1,7 +1,8 @@
 metadata:
-
-  "Babylon (2022)":
-    title: "Babylon"
-    year: 2022
+  Babylon (2022):
+    match:
+      title: Babylon
+      year: 2022
+    title: Babylon
     url_poster: https://theposterdb.com/api/assets/297383
-
+    year: 2022

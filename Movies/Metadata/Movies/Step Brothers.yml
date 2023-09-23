@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/194495
-
-  "Step Brothers (2008)":
-    title: "Step Brothers"
-    year: 2008
+metadata:
+  Step Brothers (2008):
+    match:
+      title: Step Brothers
+      year: 2008
+    title: Step Brothers
     url_poster: https://theposterdb.com/api/assets/194495
+    year: 2008

@@ -1,7 +1,8 @@
 metadata:
-
-  "It Happened One Night (1934)":
-    title: "It Happened One Night"
-    year: 1934
+  It Happened One Night (1934):
+    match:
+      title: It Happened One Night
+      year: 1934
+    title: It Happened One Night
     url_poster: https://theposterdb.com/api/assets/186583
-
+    year: 1934

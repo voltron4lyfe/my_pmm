@@ -1,6 +1,8 @@
-metadata:               #Posters found here: https://theposterdb.com/poster/188631
-
-  "Rush (2013)":
-    title: "Rush"
-    year: 2013
+metadata:
+  Rush (2013):
+    match:
+      title: Rush
+      year: 2013
+    title: Rush
     url_poster: https://theposterdb.com/api/assets/188631
+    year: 2013

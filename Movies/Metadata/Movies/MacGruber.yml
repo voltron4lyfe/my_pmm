@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/213065
-
-  "MacGruber (2010)":
-    title: "MacGruber"
-    year: 2010
+metadata:
+  MacGruber (2010):
+    match:
+      title: MacGruber
+      year: 2010
+    title: MacGruber
     url_poster: https://theposterdb.com/api/assets/213065
+    year: 2010

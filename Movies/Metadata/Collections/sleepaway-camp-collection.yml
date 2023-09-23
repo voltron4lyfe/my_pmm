@@ -1,21 +1,36 @@
 metadata:
   Return to Sleepaway Camp (2008):
+    match:
+      title: Return to Sleepaway Camp
+      year: 2008
     title: Return to Sleepaway Camp
     url_poster: https://theposterdb.com/api/assets/179054
     year: 2008
   Sleepaway Camp (1983):
+    match:
+      title: Sleepaway Camp
+      year: 1983
     title: Sleepaway Camp
     url_poster: https://theposterdb.com/api/assets/179050
     year: 1983
   'Sleepaway Camp II: Unhappy Campers (1988)':
+    match:
+      title: 'Sleepaway Camp II: Unhappy Campers'
+      year: 1988
     title: 'Sleepaway Camp II: Unhappy Campers'
     url_poster: https://theposterdb.com/api/assets/179051
     year: 1988
   'Sleepaway Camp III: Teenage Wasteland (1989)':
+    match:
+      title: 'Sleepaway Camp III: Teenage Wasteland'
+      year: 1989
     title: 'Sleepaway Camp III: Teenage Wasteland'
     url_poster: https://theposterdb.com/api/assets/179052
     year: 1989
   'Sleepaway Camp IV: The Survivor (2012)':
+    match:
+      title: 'Sleepaway Camp IV: The Survivor'
+      year: 2012
     title: 'Sleepaway Camp IV: The Survivor'
     url_poster: https://theposterdb.com/api/assets/179053
     year: 2012

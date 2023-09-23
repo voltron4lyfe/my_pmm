@@ -1,7 +1,8 @@
 metadata:
-
-  "Lord Jim (1965)":
-    title: "Lord Jim"
-    year: 1965
+  Lord Jim (1965):
+    match:
+      title: Lord Jim
+      year: 1965
+    title: Lord Jim
     url_poster: https://theposterdb.com/api/assets/289542
-
+    year: 1965

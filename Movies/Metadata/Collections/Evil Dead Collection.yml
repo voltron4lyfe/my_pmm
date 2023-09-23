@@ -1,21 +1,36 @@
 metadata:
   Army of Darkness (1992):
+    match:
+      title: Army of Darkness
+      year: 1992
     title: Army of Darkness
     url_poster: https://theposterdb.com/api/assets/177150
     year: 1992
   Evil Dead (2013):
+    match:
+      title: Evil Dead
+      year: 2013
     title: Evil Dead
     url_poster: https://theposterdb.com/api/assets/177151
     year: 2013
   Evil Dead II (1987):
+    match:
+      title: Evil Dead II
+      year: 1987
     title: Evil Dead II
     url_poster: https://theposterdb.com/api/assets/177149
     year: 1987
   Evil Dead Rise (2023):
+    match:
+      title: Evil Dead Rise
+      year: 2023
     title: Evil Dead Rise
     url_poster: https://theposterdb.com/api/assets/307335
     year: 2023
   The Evil Dead (1983):
+    match:
+      title: The Evil Dead
+      year: 1983
     title: The Evil Dead
     url_poster: https://theposterdb.com/api/assets/177148
     year: 1983

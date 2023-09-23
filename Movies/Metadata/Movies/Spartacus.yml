@@ -1,7 +1,8 @@
 metadata:
-
-  "Spartacus (1960)":
-    title: "Spartacus"
-    year: 1960
+  Spartacus (1960):
+    match:
+      title: Spartacus
+      year: 1960
+    title: Spartacus
     url_poster: https://theposterdb.com/api/assets/283037
-
+    year: 1960

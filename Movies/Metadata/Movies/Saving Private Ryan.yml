@@ -1,6 +1,8 @@
-metadata:               #Posters found here: https://theposterdb.com/poster/179233
-
-  "Saving Private Ryan (1998)":
-    title: "Saving Private Ryan"
-    year: 1998
+metadata:
+  Saving Private Ryan (1998):
+    match:
+      title: Saving Private Ryan
+      year: 1998
+    title: Saving Private Ryan
     url_poster: https://theposterdb.com/api/assets/179233
+    year: 1998

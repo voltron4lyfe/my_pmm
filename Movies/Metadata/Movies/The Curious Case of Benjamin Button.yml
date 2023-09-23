@@ -1,7 +1,8 @@
 metadata:
-
-  "The Curious Case of Benjamin Button (2008)":
-    title: "The Curious Case of Benjamin Button"
-    year: 2008
+  The Curious Case of Benjamin Button (2008):
+    match:
+      title: The Curious Case of Benjamin Button
+      year: 2008
+    title: The Curious Case of Benjamin Button
     url_poster: https://theposterdb.com/api/assets/187638
-
+    year: 2008

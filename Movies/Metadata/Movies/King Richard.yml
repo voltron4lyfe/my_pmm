@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/189474
-
-  "King Richard (2021)":
-    title: "King Richard"
-    year: 2021
+metadata:
+  King Richard (2021):
+    match:
+      title: King Richard
+      year: 2021
+    title: King Richard
     url_poster: https://theposterdb.com/api/assets/189474
+    year: 2021

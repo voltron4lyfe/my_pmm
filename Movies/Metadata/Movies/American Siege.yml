@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/user/musikmann2000
-
-  "American Siege (2021)":
-    title: "American Siege"
-    year: 2021
+metadata:
+  American Siege (2021):
+    match:
+      title: American Siege
+      year: 2021
+    title: American Siege
     url_poster: https://theposterdb.com/api/assets/201206
+    year: 2021

@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/217007
-
-  "City of God (2002)":
-    title: "City of God"
-    year: 2002
+metadata:
+  City of God (2002):
+    match:
+      title: City of God
+      year: 2002
+    title: City of God
     url_poster: https://theposterdb.com/api/assets/217007
+    year: 2002

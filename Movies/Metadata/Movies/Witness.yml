@@ -1,7 +1,8 @@
 metadata:
-
-  "Witness (1985)":
-    title: "Witness"
-    year: 1985
+  Witness (1985):
+    match:
+      title: Witness
+      year: 1985
+    title: Witness
     url_poster: https://theposterdb.com/api/assets/225522
-
+    year: 1985

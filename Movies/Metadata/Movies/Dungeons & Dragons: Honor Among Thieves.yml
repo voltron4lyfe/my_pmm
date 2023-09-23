@@ -1,7 +1,8 @@
 metadata:
-
-  "Dungeons & Dragons: Honor Among Thieves (2023)":
-    title: "Dungeons & Dragons: Honor Among Thieves"
-    year: 2023
+  'Dungeons & Dragons: Honor Among Thieves (2023)':
+    match:
+      title: 'Dungeons & Dragons: Honor Among Thieves'
+      year: 2023
+    title: 'Dungeons & Dragons: Honor Among Thieves'
     url_poster: https://theposterdb.com/api/assets/297422
-
+    year: 2023

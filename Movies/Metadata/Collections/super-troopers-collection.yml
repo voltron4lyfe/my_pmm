@@ -1,9 +1,15 @@
 metadata:
   Super Troopers (2002):
+    match:
+      title: Super Troopers
+      year: 2002
     title: Super Troopers
     url_poster: https://theposterdb.com/api/assets/201063
     year: 2002
   Super Troopers 2 (2018):
+    match:
+      title: Super Troopers 2
+      year: 2018
     title: Super Troopers 2
     url_poster: https://theposterdb.com/api/assets/201064
     year: 2018

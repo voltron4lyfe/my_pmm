@@ -1,7 +1,8 @@
 metadata:
-
-  "Marcel the Shell with Shoes On (2022)":
-    title: "Marcel the Shell with Shoes On"
-    year: 2022
+  Marcel the Shell with Shoes On (2022):
+    match:
+      title: Marcel the Shell with Shoes On
+      year: 2022
+    title: Marcel the Shell with Shoes On
     url_poster: https://theposterdb.com/api/assets/264907
-
+    year: 2022

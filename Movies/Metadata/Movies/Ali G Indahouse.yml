@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/203382
-
-  "Ali G Indahouse (2002)":
-    title: "Ali G Indahouse"
-    year: 2002
+metadata:
+  Ali G Indahouse (2002):
+    match:
+      title: Ali G Indahouse
+      year: 2002
+    title: Ali G Indahouse
     url_poster: https://theposterdb.com/api/assets/203382
+    year: 2002

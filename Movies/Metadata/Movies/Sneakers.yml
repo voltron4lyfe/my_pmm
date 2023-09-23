@@ -1,7 +1,8 @@
 metadata:
-
-  "Sneakers (1992)":
-    title: "Sneakers"
-    year: 1992
+  Sneakers (1992):
+    match:
+      title: Sneakers
+      year: 1992
+    title: Sneakers
     url_poster: https://theposterdb.com/api/assets/194577
-
+    year: 1992

@@ -1,7 +1,8 @@
 metadata:
-
-  "To Catch a Thief (1955)":
-    title: "To Catch a Thief"
-    year: 1955
+  To Catch a Thief (1955):
+    match:
+      title: To Catch a Thief
+      year: 1955
+    title: To Catch a Thief
     url_poster: https://theposterdb.com/api/assets/207748
-
+    year: 1955

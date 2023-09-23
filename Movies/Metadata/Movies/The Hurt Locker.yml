@@ -1,7 +1,8 @@
 metadata:
-
-  "The Hurt Locker (2008)":
-    title: "The Hurt Locker"
-    year: 2008
+  The Hurt Locker (2008):
+    match:
+      title: The Hurt Locker
+      year: 2008
+    title: The Hurt Locker
     url_poster: https://theposterdb.com/api/assets/184117
-
+    year: 2008

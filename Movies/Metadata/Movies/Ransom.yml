@@ -1,7 +1,8 @@
 metadata:
-
-  "Ransom (1996)":
-    title: "Ransom"
-    year: 1996
+  Ransom (1996):
+    match:
+      title: Ransom
+      year: 1996
+    title: Ransom
     url_poster: https://theposterdb.com/api/assets/220199
-
+    year: 1996

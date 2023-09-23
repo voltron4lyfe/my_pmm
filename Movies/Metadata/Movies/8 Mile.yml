@@ -1,7 +1,8 @@
 metadata:
-
-  "8 Mile (2002)":
-    title: "8 Mile"
-    year: 2002
+  8 Mile (2002):
+    match:
+      title: 8 Mile
+      year: 2002
+    title: 8 Mile
     url_poster: https://theposterdb.com/api/assets/190681
-
+    year: 2002

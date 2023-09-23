@@ -1,7 +1,8 @@
 metadata:
-
-  "Asteroid City (2023)":
-    title: "Asteroid City"
-    year: 2023
+  Asteroid City (2023):
+    match:
+      title: Asteroid City
+      year: 2023
+    title: Asteroid City
     url_poster: https://theposterdb.com/api/assets/372456
-
+    year: 2023

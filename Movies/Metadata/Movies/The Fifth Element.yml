@@ -1,7 +1,8 @@
 metadata:
-
-  "The Fifth Element (1997)":
-    title: "The Fifth Element"
-    year: 1997
+  The Fifth Element (1997):
+    match:
+      title: The Fifth Element
+      year: 1997
+    title: The Fifth Element
     url_poster: https://theposterdb.com/api/assets/277489
-
+    year: 1997

@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/184099
-
-  "Green Book (2018)":
-    title: "Green Book"
-    year: 2018
+metadata:
+  Green Book (2018):
+    match:
+      title: Green Book
+      year: 2018
+    title: Green Book
     url_poster: https://theposterdb.com/api/assets/184099
+    year: 2018

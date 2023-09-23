@@ -1,7 +1,8 @@
 metadata:
-
-  "My Fair Lady (1964)":
-    title: "My Fair Lady"
-    year: 1964
+  My Fair Lady (1964):
+    match:
+      title: My Fair Lady
+      year: 1964
+    title: My Fair Lady
     url_poster: https://theposterdb.com/api/assets/186277
-
+    year: 1964

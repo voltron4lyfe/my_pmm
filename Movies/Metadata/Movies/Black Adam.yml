@@ -1,7 +1,8 @@
 metadata:
-
-  "Black Adam (2022)":
-    title: "Black Adam"
-    year: 2022
+  Black Adam (2022):
+    match:
+      title: Black Adam
+      year: 2022
+    title: Black Adam
     url_poster: https://theposterdb.com/api/assets/289681
-
+    year: 2022

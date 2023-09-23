@@ -1,7 +1,8 @@
 metadata:
-
-  "Frosty the Snowman (1969)":
-    title: "Frosty the Snowman"
-    year: 1969
+  Frosty the Snowman (1969):
+    match:
+      title: Frosty the Snowman
+      year: 1969
+    title: Frosty the Snowman
     url_poster: https://theposterdb.com/api/assets/190545
-
+    year: 1969

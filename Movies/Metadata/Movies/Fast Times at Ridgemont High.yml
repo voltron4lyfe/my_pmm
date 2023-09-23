@@ -1,7 +1,8 @@
 metadata:
-
-  "Fast Times at Ridgemont High (1982)":
-    title: "Fast Times at Ridgemont High"
-    year: 1982
+  Fast Times at Ridgemont High (1982):
+    match:
+      title: Fast Times at Ridgemont High
+      year: 1982
+    title: Fast Times at Ridgemont High
     url_poster: https://theposterdb.com/api/assets/201671
-
+    year: 1982

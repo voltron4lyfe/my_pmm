@@ -1,7 +1,8 @@
 metadata:
-
-  "The Revenant (2016)":
-    title: "The Revenant"
-    year: 2016
+  The Revenant (2016):
+    match:
+      title: The Revenant
+      year: 2016
+    title: The Revenant
     url_poster: https://theposterdb.com/api/assets/193744
-
+    year: 2016

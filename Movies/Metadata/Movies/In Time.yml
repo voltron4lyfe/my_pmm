@@ -1,7 +1,8 @@
 metadata:
-
-  "In Time (2011)":
-    title: "In Time"
-    year: 2011
+  In Time (2011):
+    match:
+      title: In Time
+      year: 2011
+    title: In Time
     url_poster: https://theposterdb.com/api/assets/185138
-
+    year: 2011

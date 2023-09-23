@@ -1,7 +1,8 @@
 metadata:
-
-  "Planes, Trains & Automobiles (1987)":
-    title: "Planes, Trains & Automobiles"
-    year: 1987
+  Planes, Trains & Automobiles (1987):
+    match:
+      title: Planes, Trains & Automobiles
+      year: 1987
+    title: Planes, Trains & Automobiles
     url_poster: https://theposterdb.com/api/assets/198999
-
+    year: 1987

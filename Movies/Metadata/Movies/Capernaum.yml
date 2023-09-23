@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/200530
-
-  "Capernaum (2018)":
-    title: "Capernaum"
-    year: 2018
+metadata:
+  Capernaum (2018):
+    match:
+      title: Capernaum
+      year: 2018
+    title: Capernaum
     url_poster: https://theposterdb.com/api/assets/200530
+    year: 2018

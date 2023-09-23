@@ -1,21 +1,36 @@
 metadata:
   Underworld (2003):
+    match:
+      title: Underworld
+      year: 2003
     title: Underworld
     url_poster: https://theposterdb.com/api/assets/173449
     year: 2003
   'Underworld: Awakening (2012)':
+    match:
+      title: 'Underworld: Awakening'
+      year: 2012
     title: 'Underworld: Awakening'
     url_poster: https://theposterdb.com/api/assets/173452
     year: 2012
   'Underworld: Blood Wars (2016)':
+    match:
+      title: 'Underworld: Blood Wars'
+      year: 2016
     title: 'Underworld: Blood Wars'
     url_poster: https://theposterdb.com/api/assets/173453
     year: 2016
   'Underworld: Evolution (2006)':
+    match:
+      title: 'Underworld: Evolution'
+      year: 2006
     title: 'Underworld: Evolution'
     url_poster: https://theposterdb.com/api/assets/173450
     year: 2006
   'Underworld: Rise of the Lycans (2009)':
+    match:
+      title: 'Underworld: Rise of the Lycans'
+      year: 2009
     title: 'Underworld: Rise of the Lycans'
     url_poster: https://theposterdb.com/api/assets/173451
     year: 2009

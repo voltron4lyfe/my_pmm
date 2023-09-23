@@ -1,11 +1,15 @@
-metadata:               #Posters found here https://theposterdb.com/user/musikmann2000
-
-  "The Dukes of Hazzard (2005)":
-    title: "The Dukes of Hazzard"
-    year: 2005
+metadata:
+  The Dukes of Hazzard (2005):
+    match:
+      title: The Dukes of Hazzard
+      year: 2005
+    title: The Dukes of Hazzard
     url_poster: https://theposterdb.com/api/assets/216204
-
-  "The Dukes of Hazzard: The Beginning (2007)":
-    title: "The Dukes of Hazzard: The Beginning"
-    year: 2007
+    year: 2005
+  'The Dukes of Hazzard: The Beginning (2007)':
+    match:
+      title: 'The Dukes of Hazzard: The Beginning'
+      year: 2007
+    title: 'The Dukes of Hazzard: The Beginning'
     url_poster: https://theposterdb.com/api/assets/216205
+    year: 2007

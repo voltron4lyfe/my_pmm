@@ -1,7 +1,8 @@
 metadata:
-
-  "Rescue Dawn (2006)":
-    title: "Rescue Dawn"
-    year: 2006
+  Rescue Dawn (2006):
+    match:
+      title: Rescue Dawn
+      year: 2006
+    title: Rescue Dawn
     url_poster: https://theposterdb.com/api/assets/195724
-
+    year: 2006

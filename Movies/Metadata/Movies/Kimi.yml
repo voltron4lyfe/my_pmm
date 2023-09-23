@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/214303
-
-  "Kimi (2022)":
-    title: "Kimi"
-    year: 2022
+metadata:
+  Kimi (2022):
+    match:
+      title: Kimi
+      year: 2022
+    title: Kimi
     url_poster: https://theposterdb.com/api/assets/214303
+    year: 2022

@@ -1,7 +1,8 @@
 metadata:
-
-  "Dick Tracy (1990)":
-    title: "Dick Tracy"
-    year: 1990
+  Dick Tracy (1990):
+    match:
+      title: Dick Tracy
+      year: 1990
+    title: Dick Tracy
     url_poster: https://theposterdb.com/api/assets/171824
-
+    year: 1990

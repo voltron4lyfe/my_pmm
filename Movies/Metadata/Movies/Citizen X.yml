@@ -1,7 +1,8 @@
 metadata:
-
-  "Citizen X (1995)":
-    title: "Citizen X"
-    year: 1995
+  Citizen X (1995):
+    match:
+      title: Citizen X
+      year: 1995
+    title: Citizen X
     url_poster: https://theposterdb.com/api/assets/346205
-
+    year: 1995

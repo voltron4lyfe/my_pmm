@@ -1,7 +1,8 @@
 metadata:
-
-  "Idiocracy (2006)":
-    title: "Idiocracy"
-    year: 2006
+  Idiocracy (2006):
+    match:
+      title: Idiocracy
+      year: 2006
+    title: Idiocracy
     url_poster: https://theposterdb.com/api/assets/185443
-
+    year: 2006

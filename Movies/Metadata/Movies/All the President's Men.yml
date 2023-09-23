@@ -1,7 +1,8 @@
 metadata:
-
-  "All the President's Men (1976)":
-    title: "All the President's Men"
-    year: 1976
+  All the President's Men (1976):
+    match:
+      title: All the President's Men
+      year: 1976
+    title: All the President's Men
     url_poster: https://theposterdb.com/api/assets/203393
-
+    year: 1976

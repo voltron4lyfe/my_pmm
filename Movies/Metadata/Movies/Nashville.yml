@@ -1,7 +1,8 @@
 metadata:
-
-  "Nashville (1975)":
-    title: "Nashville"
-    year: 1975
+  Nashville (1975):
+    match:
+      title: Nashville
+      year: 1975
+    title: Nashville
     url_poster: https://theposterdb.com/api/assets/227587
-
+    year: 1975

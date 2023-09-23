@@ -1,7 +1,8 @@
 metadata:
-
-  "Parenthood (1989)":
-    title: "Parenthood"
-    year: 1989
+  Parenthood (1989):
+    match:
+      title: Parenthood
+      year: 1989
+    title: Parenthood
     url_poster: https://theposterdb.com/api/assets/175201
-
+    year: 1989

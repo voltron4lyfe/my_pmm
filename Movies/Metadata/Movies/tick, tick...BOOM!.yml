@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/user/musikmann2000
-
-  "tick, tick...BOOM! (2021)":
-    title: "tick, tick...BOOM!"
-    year: 2021
+metadata:
+  tick, tick...BOOM! (2021):
+    match:
+      title: tick, tick...BOOM!
+      year: 2021
+    title: tick, tick...BOOM!
     url_poster: https://theposterdb.com/api/assets/190916
+    year: 2021

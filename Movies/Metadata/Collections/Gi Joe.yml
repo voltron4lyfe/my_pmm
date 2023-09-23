@@ -1,16 +1,22 @@
-metadata:               #Posters found here https://theposterdb.com/user/musikmann2000
-
-  "G.I. Joe: The Rise of Cobra (2009)":
-    title: "G.I. Joe: The Rise of Cobra"
-    year: 2009
-    url_poster: https://theposterdb.com/api/assets/172040
-
-  "G.I. Joe: Retaliation (2013)":
-    title: "G.I. Joe: Retaliation"
-    year: 2013
+metadata:
+  'G.I. Joe: Retaliation (2013)':
+    match:
+      title: 'G.I. Joe: Retaliation'
+      year: 2013
+    title: 'G.I. Joe: Retaliation'
     url_poster: https://theposterdb.com/api/assets/172041
-
-  "Snake Eyes (2021)":
-    title: "Snake Eyes"
-    year: 2021
+    year: 2013
+  'G.I. Joe: The Rise of Cobra (2009)':
+    match:
+      title: 'G.I. Joe: The Rise of Cobra'
+      year: 2009
+    title: 'G.I. Joe: The Rise of Cobra'
+    url_poster: https://theposterdb.com/api/assets/172040
+    year: 2009
+  Snake Eyes (2021):
+    match:
+      title: Snake Eyes
+      year: 2021
+    title: Snake Eyes
     url_poster: https://theposterdb.com/api/assets/172042
+    year: 2021

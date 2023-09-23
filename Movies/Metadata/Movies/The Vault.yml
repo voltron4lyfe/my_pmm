@@ -1,6 +1,8 @@
-metadata:               #Posters found here: https://theposterdb.com/poster/251253
-
-  "The Vault (2021)":
-    title: "The Vault"
-    year: 2021
+metadata:
+  The Vault (2021):
+    match:
+      title: The Vault
+      year: 2021
+    title: The Vault
     url_poster: https://theposterdb.com/api/assets/251253
+    year: 2021

@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/198409
-
-  "The Father (2020)":
-    title: "The Father"
-    year: 2020
+metadata:
+  The Father (2020):
+    match:
+      title: The Father
+      year: 2020
+    title: The Father
     url_poster: https://theposterdb.com/api/assets/198409
+    year: 2020

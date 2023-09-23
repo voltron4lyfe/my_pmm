@@ -1,136 +1,190 @@
-metadata:               #Posters found here https://theposterdb.com/user/musikmann2000
-
-  "Dr. No (1962)":
-    title: "Dr. No"
-    year: 1962
-    url_poster: https://theposterdb.com/api/assets/189915
-
-  "From Russia with Love (1963)":
-    title: "From Russia with Love"
-    year: 1963
-    url_poster: https://theposterdb.com/api/assets/189916
-
-  "Goldfinger (1964)":
-    title: "Goldfinger"
-    year: 1964
-    url_poster: https://theposterdb.com/api/assets/189917
-
-  "Thunderball (1965)":
-    title: "Thunderball"
-    year: 1965
-    url_poster: https://theposterdb.com/api/assets/189918
-
-  "You Only Live Twice (1967)":
-    title: "You Only Live Twice"
-    year: 1967
-    url_poster: https://theposterdb.com/api/assets/189920
-
-  "Casino Royale (1967)":
-    title: "Casino Royale"
-    year: 1967
-    url_poster: https://theposterdb.com/api/assets/189919
-
-  "On Her Majesty's Secret Service (1969)":
-    title: "On Her Majesty's Secret Service"
-    year: 1969
-    url_poster: https://theposterdb.com/api/assets/189921
-
-  "Diamonds Are Forever (1971)":
-    title: "Diamonds Are Forever"
-    year: 1971
-    url_poster: https://theposterdb.com/api/assets/189922
-
-  "Live and Let Die (1973)":
-    title: "Live and Let Die"
-    year: 1973
-    url_poster: https://theposterdb.com/api/assets/189923
-
-  "The Man with the Golden Gun (1974)":
-    title: "The Man with the Golden Gun"
-    year: 1974
-    url_poster: https://theposterdb.com/api/assets/189924
-
-  "The Spy Who Loved Me (1977)":
-    title: "The Spy Who Loved Me"
-    year: 1977
-    url_poster: https://theposterdb.com/api/assets/189925
-
-  "Moonraker (1979)":
-    title: "Moonraker"
-    year: 1979
-    url_poster: https://theposterdb.com/api/assets/189926
-
-  "For Your Eyes Only (1981)":
-    title: "For Your Eyes Only"
-    year: 1981
-    url_poster: https://theposterdb.com/api/assets/189927
-
-  "Never Say Never Again (1983)":
-    title: "Never Say Never Again"
-    year: 1983
-    url_poster: https://theposterdb.com/api/assets/189929
-
-  "Octopussy (1983)":
-    title: "Octopussy"
-    year: 1983
-    url_poster: https://theposterdb.com/api/assets/189928
-
-  "A View to a Kill (1985)":
-    title: "A View to a Kill"
-    year: 1985
+metadata:
+  A View to a Kill (1985):
+    match:
+      title: A View to a Kill
+      year: 1985
+    title: A View to a Kill
     url_poster: https://theposterdb.com/api/assets/189930
-
-  "The Living Daylights (1987)":
-    title: "The Living Daylights"
-    year: 1987
-    url_poster: https://theposterdb.com/api/assets/189931
-
-  "Licence to Kill (1989)":
-    title: "Licence to Kill"
-    year: 1989
-    url_poster: https://theposterdb.com/api/assets/189932
-
-  "GoldenEye (1995)":
-    title: "GoldenEye"
-    year: 1995
-    url_poster: https://theposterdb.com/api/assets/189933
-
-  "Tomorrow Never Dies (1997)":
-    title: "Tomorrow Never Dies"
-    year: 1997
-    url_poster: https://theposterdb.com/api/assets/189934
-
-  "The World Is Not Enough (1999)":
-    title: "The World Is Not Enough"
-    year: 1999
-    url_poster: https://theposterdb.com/api/assets/189935
-
-  "Die Another Day (2002)":
-    title: "Die Another Day"
-    year: 2002
-    url_poster: https://theposterdb.com/api/assets/189936
-
-  "Casino Royale (2006)":
-    title: "Casino Royale"
-    year: 2006
+    year: 1985
+  Casino Royale (1967):
+    match:
+      title: Casino Royale
+      year: 1967
+    title: Casino Royale
+    url_poster: https://theposterdb.com/api/assets/189919
+    year: 1967
+  Casino Royale (2006):
+    match:
+      title: Casino Royale
+      year: 2006
+    title: Casino Royale
     url_poster: https://theposterdb.com/api/assets/189937
-
-  "Quantum of Solace (2008)":
-    title: "Quantum of Solace"
-    year: 2008
-    url_poster: https://theposterdb.com/api/assets/189938
-
-  "Skyfall (2012)":
-    title: "Skyfall"
-    year: 2012
-    url_poster: https://theposterdb.com/api/assets/189939
-
-  "Spectre (2015)":
-    title: "Spectre"
-    year: 2015
-    url_poster: https://theposterdb.com/api/assets/189940
-
-  "No Time to Die (2021)":
-    title: "No Time to Die"
-    year: 2021
+    year: 2006
+  Diamonds Are Forever (1971):
+    match:
+      title: Diamonds Are Forever
+      year: 1971
+    title: Diamonds Are Forever
+    url_poster: https://theposterdb.com/api/assets/189922
+    year: 1971
+  Die Another Day (2002):
+    match:
+      title: Die Another Day
+      year: 2002
+    title: Die Another Day
+    url_poster: https://theposterdb.com/api/assets/189936
+    year: 2002
+  Dr. No (1962):
+    match:
+      title: Dr. No
+      year: 1962
+    title: Dr. No
+    url_poster: https://theposterdb.com/api/assets/189915
+    year: 1962
+  For Your Eyes Only (1981):
+    match:
+      title: For Your Eyes Only
+      year: 1981
+    title: For Your Eyes Only
+    url_poster: https://theposterdb.com/api/assets/189927
+    year: 1981
+  From Russia with Love (1963):
+    match:
+      title: From Russia with Love
+      year: 1963
+    title: From Russia with Love
+    url_poster: https://theposterdb.com/api/assets/189916
+    year: 1963
+  GoldenEye (1995):
+    match:
+      title: GoldenEye
+      year: 1995
+    title: GoldenEye
+    url_poster: https://theposterdb.com/api/assets/189933
+    year: 1995
+  Goldfinger (1964):
+    match:
+      title: Goldfinger
+      year: 1964
+    title: Goldfinger
+    url_poster: https://theposterdb.com/api/assets/189917
+    year: 1964
+  Licence to Kill (1989):
+    match:
+      title: Licence to Kill
+      year: 1989
+    title: Licence to Kill
+    url_poster: https://theposterdb.com/api/assets/189932
+    year: 1989
+  Live and Let Die (1973):
+    match:
+      title: Live and Let Die
+      year: 1973
+    title: Live and Let Die
+    url_poster: https://theposterdb.com/api/assets/189923
+    year: 1973
+  Moonraker (1979):
+    match:
+      title: Moonraker
+      year: 1979
+    title: Moonraker
+    url_poster: https://theposterdb.com/api/assets/189926
+    year: 1979
+  Never Say Never Again (1983):
+    match:
+      title: Never Say Never Again
+      year: 1983
+    title: Never Say Never Again
+    url_poster: https://theposterdb.com/api/assets/189929
+    year: 1983
+  No Time to Die (2021):
+    match:
+      title: No Time to Die
+      year: 2021
+    title: No Time to Die
     url_poster: https://theposterdb.com/api/assets/189941
+    year: 2021
+  Octopussy (1983):
+    match:
+      title: Octopussy
+      year: 1983
+    title: Octopussy
+    url_poster: https://theposterdb.com/api/assets/189928
+    year: 1983
+  On Her Majesty's Secret Service (1969):
+    match:
+      title: On Her Majesty's Secret Service
+      year: 1969
+    title: On Her Majesty's Secret Service
+    url_poster: https://theposterdb.com/api/assets/189921
+    year: 1969
+  Quantum of Solace (2008):
+    match:
+      title: Quantum of Solace
+      year: 2008
+    title: Quantum of Solace
+    url_poster: https://theposterdb.com/api/assets/189938
+    year: 2008
+  Skyfall (2012):
+    match:
+      title: Skyfall
+      year: 2012
+    title: Skyfall
+    url_poster: https://theposterdb.com/api/assets/189939
+    year: 2012
+  Spectre (2015):
+    match:
+      title: Spectre
+      year: 2015
+    title: Spectre
+    url_poster: https://theposterdb.com/api/assets/189940
+    year: 2015
+  The Living Daylights (1987):
+    match:
+      title: The Living Daylights
+      year: 1987
+    title: The Living Daylights
+    url_poster: https://theposterdb.com/api/assets/189931
+    year: 1987
+  The Man with the Golden Gun (1974):
+    match:
+      title: The Man with the Golden Gun
+      year: 1974
+    title: The Man with the Golden Gun
+    url_poster: https://theposterdb.com/api/assets/189924
+    year: 1974
+  The Spy Who Loved Me (1977):
+    match:
+      title: The Spy Who Loved Me
+      year: 1977
+    title: The Spy Who Loved Me
+    url_poster: https://theposterdb.com/api/assets/189925
+    year: 1977
+  The World Is Not Enough (1999):
+    match:
+      title: The World Is Not Enough
+      year: 1999
+    title: The World Is Not Enough
+    url_poster: https://theposterdb.com/api/assets/189935
+    year: 1999
+  Thunderball (1965):
+    match:
+      title: Thunderball
+      year: 1965
+    title: Thunderball
+    url_poster: https://theposterdb.com/api/assets/189918
+    year: 1965
+  Tomorrow Never Dies (1997):
+    match:
+      title: Tomorrow Never Dies
+      year: 1997
+    title: Tomorrow Never Dies
+    url_poster: https://theposterdb.com/api/assets/189934
+    year: 1997
+  You Only Live Twice (1967):
+    match:
+      title: You Only Live Twice
+      year: 1967
+    title: You Only Live Twice
+    url_poster: https://theposterdb.com/api/assets/189920
+    year: 1967

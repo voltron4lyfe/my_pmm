@@ -1,7 +1,8 @@
 metadata:
-
-  "Wet Hot American Summer (2001)":
-    title: "Wet Hot American Summer"
-    year: 2001
+  Wet Hot American Summer (2001):
+    match:
+      title: Wet Hot American Summer
+      year: 2001
+    title: Wet Hot American Summer
     url_poster: https://theposterdb.com/api/assets/218001
-
+    year: 2001

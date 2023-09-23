@@ -1,7 +1,8 @@
 metadata:
-
-  "Menace II Society (1993)":
-    title: "Menace II Society"
-    year: 1993
+  Menace II Society (1993):
+    match:
+      title: Menace II Society
+      year: 1993
+    title: Menace II Society
     url_poster: https://theposterdb.com/api/assets/219507
-
+    year: 1993

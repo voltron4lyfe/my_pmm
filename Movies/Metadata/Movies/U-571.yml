@@ -1,7 +1,8 @@
 metadata:
-
-  "U-571 (2000)":
-    title: "U-571"
-    year: 2000
+  U-571 (2000):
+    match:
+      title: U-571
+      year: 2000
+    title: U-571
     url_poster: https://theposterdb.com/api/assets/195894
-
+    year: 2000

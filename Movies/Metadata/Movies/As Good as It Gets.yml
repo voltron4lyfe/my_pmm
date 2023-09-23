@@ -1,7 +1,8 @@
 metadata:
-
-  "As Good as It Gets (1997)":
-    title: "As Good as It Gets"
-    year: 1997
+  As Good as It Gets (1997):
+    match:
+      title: As Good as It Gets
+      year: 1997
+    title: As Good as It Gets
     url_poster: https://theposterdb.com/api/assets/204053
-
+    year: 1997

@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/190441
-
-  "Love Actually (2003)":
-    title: "Love Actually"
-    year: 2003
+metadata:
+  Love Actually (2003):
+    match:
+      title: Love Actually
+      year: 2003
+    title: Love Actually
     url_poster: https://theposterdb.com/api/assets/190441
+    year: 2003

@@ -1,7 +1,8 @@
 metadata:
-
-  "Tenet (2020)":
-    title: "Tenet"
-    year: 2020
+  Tenet (2020):
+    match:
+      title: Tenet
+      year: 2020
+    title: Tenet
     url_poster: https://theposterdb.com/api/assets/194733
-
+    year: 2020

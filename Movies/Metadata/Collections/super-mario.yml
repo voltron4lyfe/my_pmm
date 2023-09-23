@@ -1,14 +1,22 @@
 metadata:
-  "Super Mario Brothers: Great Mission to Rescue Princess Peach (1986)":
-    title: "Super Mario Brothers: Great Mission to Rescue Princess Peach"
-    url_poster: https://theposterdb.com/api/assets/292974
-    year: 1986
-  'Super Mario Bros. (1993)':
-    title: 'Super Mario Bros.'
+  Super Mario Bros. (1993):
+    match:
+      title: Super Mario Bros.
+      year: 1993
+    title: Super Mario Bros.
     url_poster: https://theposterdb.com/api/assets/292975
     year: 1993
-  'The Super Mario Bros. Movie (2023)':
-    title: 'The Super Mario Bros. Movie'
+  'Super Mario Brothers: Great Mission to Rescue Princess Peach (1986)':
+    match:
+      title: 'Super Mario Brothers: Great Mission to Rescue Princess Peach'
+      year: 1986
+    title: 'Super Mario Brothers: Great Mission to Rescue Princess Peach'
+    url_poster: https://theposterdb.com/api/assets/292974
+    year: 1986
+  The Super Mario Bros. Movie (2023):
+    match:
+      title: The Super Mario Bros. Movie
+      year: 2023
+    title: The Super Mario Bros. Movie
     url_poster: https://theposterdb.com/api/assets/292976
     year: 2023
-

@@ -1,7 +1,8 @@
 metadata:
-
-  "Risky Business (1983)":
-    title: "Risky Business"
-    year: 1983
+  Risky Business (1983):
+    match:
+      title: Risky Business
+      year: 1983
+    title: Risky Business
     url_poster: https://theposterdb.com/api/assets/198520
-
+    year: 1983

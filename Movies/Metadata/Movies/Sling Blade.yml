@@ -1,7 +1,8 @@
 metadata:
-
-  "Sling Blade (1996)":
-    title: "Sling Blade"
-    year: 1996
+  Sling Blade (1996):
+    match:
+      title: Sling Blade
+      year: 1996
+    title: Sling Blade
     url_poster: https://theposterdb.com/api/assets/220630
-
+    year: 1996

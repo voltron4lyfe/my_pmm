@@ -1,7 +1,8 @@
 metadata:
-
-  "Apollo 13 (1995)":
-    title: "Apollo 13"
-    year: 1995
+  Apollo 13 (1995):
+    match:
+      title: Apollo 13
+      year: 1995
+    title: Apollo 13
     url_poster: https://theposterdb.com/api/assets/203892
-
+    year: 1995

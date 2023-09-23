@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/203834
-
-  "Andrei Rublev (1966)":
-    title: "Andrei Rublev"
-    year: 1966
+metadata:
+  Andrei Rublev (1966):
+    match:
+      title: Andrei Rublev
+      year: 1966
+    title: Andrei Rublev
     url_poster: https://theposterdb.com/api/assets/203834
+    year: 1966

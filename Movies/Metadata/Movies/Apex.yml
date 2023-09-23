@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/user/musikmann2000
-
-  "Apex (2021)":
-    title: "Apex"
-    year: 2021
+metadata:
+  Apex (2021):
+    match:
+      title: Apex
+      year: 2021
+    title: Apex
     url_poster: https://theposterdb.com/api/assets/189832
+    year: 2021

@@ -1,7 +1,8 @@
 metadata:
-
-  "Woooooo! Becoming Ric Flair (2022)":
-    title: "Woooooo! Becoming Ric Flair"
-    year: 2022
+  Woooooo! Becoming Ric Flair (2022):
+    match:
+      title: Woooooo! Becoming Ric Flair
+      year: 2022
+    title: Woooooo! Becoming Ric Flair
     url_poster: https://theposterdb.com/api/assets/302810
-
+    year: 2022

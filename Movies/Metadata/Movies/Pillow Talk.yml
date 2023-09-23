@@ -1,7 +1,8 @@
 metadata:
-
-  "Pillow Talk (1959)":
-    title: "Pillow Talk"
-    year: 1959
+  Pillow Talk (1959):
+    match:
+      title: Pillow Talk
+      year: 1959
+    title: Pillow Talk
     url_poster: https://theposterdb.com/api/assets/244069
-
+    year: 1959

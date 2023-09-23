@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/213424
-
-  "Casino (1995)":
-    title: "Casino"
-    year: 1995
+metadata:
+  Casino (1995):
+    match:
+      title: Casino
+      year: 1995
+    title: Casino
     url_poster: https://theposterdb.com/api/assets/194474
+    year: 1995

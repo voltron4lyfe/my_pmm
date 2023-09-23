@@ -1,7 +1,8 @@
 metadata:
-
-  "WarGames (1983)":
-    title: "WarGames"
-    year: 1983
+  WarGames (1983):
+    match:
+      title: WarGames
+      year: 1983
+    title: WarGames
     url_poster: https://theposterdb.com/api/assets/196953
-
+    year: 1983

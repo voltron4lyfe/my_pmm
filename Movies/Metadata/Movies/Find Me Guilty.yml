@@ -1,7 +1,8 @@
 metadata:
-
-  "Find Me Guilty (2006)":
-    title: "Find Me Guilty"
-    year: 2006
+  Find Me Guilty (2006):
+    match:
+      title: Find Me Guilty
+      year: 2006
+    title: Find Me Guilty
     url_poster: https://theposterdb.com/api/assets/283114
-
+    year: 2006

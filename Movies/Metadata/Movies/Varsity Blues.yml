@@ -1,7 +1,8 @@
 metadata:
-
-  "Varsity Blues (1999)":
-    title: "Varsity Blues"
-    year: 1999
+  Varsity Blues (1999):
+    match:
+      title: Varsity Blues
+      year: 1999
+    title: Varsity Blues
     url_poster: https://theposterdb.com/api/assets/234942
-
+    year: 1999

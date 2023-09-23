@@ -1,7 +1,8 @@
 metadata:
-
-  "Gattaca (1997)":
-    title: "Gattaca"
-    year: 1997
+  Gattaca (1997):
+    match:
+      title: Gattaca
+      year: 1997
+    title: Gattaca
     url_poster: https://theposterdb.com/api/assets/186811
-
+    year: 1997

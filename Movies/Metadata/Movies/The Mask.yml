@@ -1,7 +1,8 @@
 metadata:
-
-  "The Mask (1994)":
-    title: "The Mask"
-    year: 1994
+  The Mask (1994):
+    match:
+      title: The Mask
+      year: 1994
+    title: The Mask
     url_poster: https://theposterdb.com/api/assets/187754
-
+    year: 1994

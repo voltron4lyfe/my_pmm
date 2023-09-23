@@ -1,6 +1,8 @@
-metadata:               #Posters found here: https://theposterdb.com/poster/184731
-
-  "One Flew Over the Cuckoo's Nest (1975)":
-    title: "One Flew Over the Cuckoo's Nest"
-    year: 1975
+metadata:
+  One Flew Over the Cuckoo's Nest (1975):
+    match:
+      title: One Flew Over the Cuckoo's Nest
+      year: 1975
+    title: One Flew Over the Cuckoo's Nest
     url_poster: https://theposterdb.com/api/assets/184731
+    year: 1975

@@ -1,6 +1,8 @@
-metadata:               #Posters found here: https://theposterdb.com/poster/202831
-
-  "Sully (2016)":
-    title: "Sully"
-    year: 2016
+metadata:
+  Sully (2016):
+    match:
+      title: Sully
+      year: 2016
+    title: Sully
     url_poster: https://theposterdb.com/api/assets/202831
+    year: 2016

@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/197473
-
-  "Belfast (2021)":
-    title: "Belfast"
-    year: 2021
+metadata:
+  Belfast (2021):
+    match:
+      title: Belfast
+      year: 2021
+    title: Belfast
     url_poster: https://theposterdb.com/api/assets/197473
+    year: 2021

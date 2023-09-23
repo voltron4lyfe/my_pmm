@@ -1,7 +1,8 @@
 metadata:
-
-  "Kickboxer (1989)":
-    title: "Kickboxer"
-    year: 1989
+  Kickboxer (1989):
+    match:
+      title: Kickboxer
+      year: 1989
+    title: Kickboxer
     url_poster: https://theposterdb.com/api/assets/213857
-
+    year: 1989

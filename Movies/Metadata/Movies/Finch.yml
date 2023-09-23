@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/176975
-
-  "Finch (2021)":
-    title: "Finch"
-    year: 2021
+metadata:
+  Finch (2021):
+    match:
+      title: Finch
+      year: 2021
+    title: Finch
     url_poster: https://theposterdb.com/api/assets/176975
+    year: 2021

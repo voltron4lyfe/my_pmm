@@ -1,7 +1,8 @@
 metadata:
-
-  "Unstoppable (2010)":
-    title: "Unstoppable"
-    year: 2010
+  Unstoppable (2010):
+    match:
+      title: Unstoppable
+      year: 2010
+    title: Unstoppable
     url_poster: https://theposterdb.com/api/assets/213114
-
+    year: 2010

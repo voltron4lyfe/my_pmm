@@ -1,7 +1,8 @@
 metadata:
-
-  "Panic Room (2002)":
-    title: "Panic Room"
-    year: 2002
+  Panic Room (2002):
+    match:
+      title: Panic Room
+      year: 2002
+    title: Panic Room
     url_poster: https://theposterdb.com/api/assets/217750
-
+    year: 2002

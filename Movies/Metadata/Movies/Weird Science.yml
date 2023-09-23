@@ -1,7 +1,8 @@
 metadata:
-
-  "Weird Science (1985)":
-    title: "Weird Science"
-    year: 1985
+  Weird Science (1985):
+    match:
+      title: Weird Science
+      year: 1985
+    title: Weird Science
     url_poster: https://theposterdb.com/api/assets/186948
-
+    year: 1985

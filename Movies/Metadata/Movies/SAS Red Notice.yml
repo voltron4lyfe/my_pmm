@@ -1,6 +1,8 @@
-metadata:               #Posters found here: https://theposterdb.com/poster/188275
-
-  "SAS: Red Notice (2021)":
-    title: "SAS: Red Notice"
-    year: 2021
+metadata:
+  'SAS: Red Notice (2021)':
+    match:
+      title: 'SAS: Red Notice'
+      year: 2021
+    title: 'SAS: Red Notice'
     url_poster: https://theposterdb.com/api/assets/188275
+    year: 2021

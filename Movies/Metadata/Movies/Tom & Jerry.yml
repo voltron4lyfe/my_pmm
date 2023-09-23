@@ -1,6 +1,8 @@
-metadata:               #Posters found here: https://theposterdb.com/poster/175323
-
-  "Tom & Jerry (2021)":
-    title: "Tom & Jerry"
-    year: 2021
+metadata:
+  Tom & Jerry (2021):
+    match:
+      title: Tom & Jerry
+      year: 2021
+    title: Tom & Jerry
     url_poster: https://theposterdb.com/api/assets/175323
+    year: 2021

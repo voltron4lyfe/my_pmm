@@ -1,6 +1,8 @@
-metadata:               #Posters found here: https://theposterdb.com/poster/217786
-
-  "Reindeer Games (2000)":
-    title: "Reindeer Games"
-    year: 2000
+metadata:
+  Reindeer Games (2000):
+    match:
+      title: Reindeer Games
+      year: 2000
+    title: Reindeer Games
     url_poster: https://theposterdb.com/api/assets/217786
+    year: 2000

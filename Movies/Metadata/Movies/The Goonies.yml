@@ -1,7 +1,8 @@
 metadata:
-
-  "The Goonies (1985)":
-    title: "The Goonies"
-    year: 1985
+  The Goonies (1985):
+    match:
+      title: The Goonies
+      year: 1985
+    title: The Goonies
     url_poster: https://theposterdb.com/api/assets/174787
-
+    year: 1985

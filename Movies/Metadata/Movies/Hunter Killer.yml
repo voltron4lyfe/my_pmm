@@ -1,7 +1,8 @@
 metadata:
-
-  "Hunter Killer (2018)":
-    title: "Hunter Killer"
-    year: 2018
+  Hunter Killer (2018):
+    match:
+      title: Hunter Killer
+      year: 2018
+    title: Hunter Killer
     url_poster: https://theposterdb.com/api/assets/195308
-
+    year: 2018

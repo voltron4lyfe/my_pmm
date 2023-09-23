@@ -1,11 +1,15 @@
 metadata:
-
-  "21 Jump Street (2012)":
-    title: "21 Jump Street"
-    year: 2012
+  21 Jump Street (2012):
+    match:
+      title: 21 Jump Street
+      year: 2012
+    title: 21 Jump Street
     url_poster: https://theposterdb.com/api/assets/200157
-
-  "22 Jump Street (2014)":
-    title: "22 Jump Street"
-    year: 2014
+    year: 2012
+  22 Jump Street (2014):
+    match:
+      title: 22 Jump Street
+      year: 2014
+    title: 22 Jump Street
     url_poster: https://theposterdb.com/api/assets/200158
+    year: 2014

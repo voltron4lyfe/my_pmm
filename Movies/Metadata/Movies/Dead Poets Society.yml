@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/201666
-
-  "Dead Poets Society (1989)":
-    title: "Dead Poets Society"
-    year: 1989
+metadata:
+  Dead Poets Society (1989):
+    match:
+      title: Dead Poets Society
+      year: 1989
+    title: Dead Poets Society
     url_poster: https://theposterdb.com/api/assets/201666
+    year: 1989

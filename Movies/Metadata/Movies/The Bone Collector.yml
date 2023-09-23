@@ -1,7 +1,8 @@
 metadata:
-
-  "The Bone Collector (1999)":
-    title: "The Bone Collector"
-    year: 1999
+  The Bone Collector (1999):
+    match:
+      title: The Bone Collector
+      year: 1999
+    title: The Bone Collector
     url_poster: https://theposterdb.com/api/assets/195550
-
+    year: 1999

@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/190451
-
-  "Mixed Nuts (1994)":
-    title: "Mixed Nuts"
-    year: 1994
+metadata:
+  Mixed Nuts (1994):
+    match:
+      title: Mixed Nuts
+      year: 1994
+    title: Mixed Nuts
     url_poster: https://theposterdb.com/api/assets/190451
+    year: 1994

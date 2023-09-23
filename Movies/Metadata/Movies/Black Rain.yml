@@ -1,7 +1,8 @@
 metadata:
-
-  "Black Rain (1989)":
-    title: "Black Rain"
-    year: 1989
+  Black Rain (1989):
+    match:
+      title: Black Rain
+      year: 1989
+    title: Black Rain
     url_poster: https://theposterdb.com/api/assets/206883
-
+    year: 1989

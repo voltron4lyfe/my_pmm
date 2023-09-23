@@ -1,11 +1,15 @@
-metadata:               #Posters found here: https://theposterdb.com/poster/184740
-
-  "The Sting (1973)":
-    title: "The Sting"
-    year: 1973
+metadata:
+  The Sting (1973):
+    match:
+      title: The Sting
+      year: 1973
+    title: The Sting
     url_poster: https://theposterdb.com/api/assets/184740
-
-  "The Sting II (1983)":
-    title: "The Sting II"
-    year: 1983
+    year: 1973
+  The Sting II (1983):
+    match:
+      title: The Sting II
+      year: 1983
+    title: The Sting II
     url_poster: https://theposterdb.com/api/assets/184741
+    year: 1983

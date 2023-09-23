@@ -1,7 +1,8 @@
 metadata:
-
-  "North Dallas Forty (1979)":
-    title: "North Dallas Forty"
-    year: 1979
+  North Dallas Forty (1979):
+    match:
+      title: North Dallas Forty
+      year: 1979
+    title: North Dallas Forty
     url_poster: https://theposterdb.com/api/assets/188419
-
+    year: 1979

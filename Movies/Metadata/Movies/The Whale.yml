@@ -1,7 +1,8 @@
 metadata:
-
-  "The Whale (2022)":
-    title: "The Whale"
-    year: 2022
+  The Whale (2022):
+    match:
+      title: The Whale
+      year: 2022
+    title: The Whale
     url_poster: https://theposterdb.com/api/assets/297373
-
+    year: 2022

@@ -1,11 +1,15 @@
 metadata:
-
-  "Horrible Bosses (2011)":
-    title: "Horrible Bosses"
-    year: 2011
+  Horrible Bosses (2011):
+    match:
+      title: Horrible Bosses
+      year: 2011
+    title: Horrible Bosses
     url_poster: https://theposterdb.com/api/assets/191276
-
-  "Horrible Bosses 2 (2014)":
-    title: "Horrible Bosses 2"
-    year: 2014
+    year: 2011
+  Horrible Bosses 2 (2014):
+    match:
+      title: Horrible Bosses 2
+      year: 2014
+    title: Horrible Bosses 2
     url_poster: https://theposterdb.com/api/assets/191277
+    year: 2014

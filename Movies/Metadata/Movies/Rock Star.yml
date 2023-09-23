@@ -1,6 +1,8 @@
-metadata:               #Posters found here: https://theposterdb.com/poster/207793
-
-  "Rock Star (2001)":
-    title: "Rock Star"
-    year: 2001
+metadata:
+  Rock Star (2001):
+    match:
+      title: Rock Star
+      year: 2001
+    title: Rock Star
     url_poster: https://theposterdb.com/api/assets/207793
+    year: 2001

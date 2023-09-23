@@ -1,7 +1,8 @@
 metadata:
-
-  "Renfield (2023)":
-    title: "Renfield"
-    year: 2023
+  Renfield (2023):
+    match:
+      title: Renfield
+      year: 2023
+    title: Renfield
     url_poster: https://theposterdb.com/api/assets/356891
-
+    year: 2023

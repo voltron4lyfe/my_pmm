@@ -1,7 +1,8 @@
 metadata:
-
-  "Enemy of the State (1998)":
-    title: "Enemy of the State"
-    year: 1998
+  Enemy of the State (1998):
+    match:
+      title: Enemy of the State
+      year: 1998
+    title: Enemy of the State
     url_poster: https://theposterdb.com/api/assets/211207
-
+    year: 1998

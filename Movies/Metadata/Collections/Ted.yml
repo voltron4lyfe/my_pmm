@@ -1,11 +1,15 @@
-metadata:               #Posters found here https://theposterdb.com/user/musikmann2000
-
-  "Ted (2012)":
-    title: "Ted"
-    year: 2012
+metadata:
+  Ted (2012):
+    match:
+      title: Ted
+      year: 2012
+    title: Ted
     url_poster: https://theposterdb.com/api/assets/204871
-
-  "Ted 2 (2015)":
-    title: "Ted 2"
-    year: 2015
+    year: 2012
+  Ted 2 (2015):
+    match:
+      title: Ted 2
+      year: 2015
+    title: Ted 2
     url_poster: https://theposterdb.com/api/assets/204872
+    year: 2015

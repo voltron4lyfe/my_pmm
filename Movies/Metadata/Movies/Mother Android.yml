@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/197912
-
-  "Mother/Android (2021)":
-    title: "Mother/Android"
-    year: 2021
+metadata:
+  Mother/Android (2021):
+    match:
+      title: Mother/Android
+      year: 2021
+    title: Mother/Android
     url_poster: https://theposterdb.com/api/assets/197912
+    year: 2021

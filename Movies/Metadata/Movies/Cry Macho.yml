@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/178724
-
-  "Cry Macho (2021)":
-    title: "Cry Macho"
-    year: 2021
+metadata:
+  Cry Macho (2021):
+    match:
+      title: Cry Macho
+      year: 2021
+    title: Cry Macho
     url_poster: https://theposterdb.com/api/assets/178724
+    year: 2021

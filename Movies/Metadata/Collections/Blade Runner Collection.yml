@@ -1,10 +1,15 @@
 metadata:
   Blade Runner (1982):
+    match:
+      title: Blade Runner
+      year: 1982
     title: Blade Runner
     url_poster: https://theposterdb.com/api/assets/184335
     year: 1982
   Blade Runner 2049 (2017):
+    match:
+      title: Blade Runner 2049
+      year: 2017
     title: Blade Runner 2049
     url_poster: https://theposterdb.com/api/assets/184338
     year: 2017
-

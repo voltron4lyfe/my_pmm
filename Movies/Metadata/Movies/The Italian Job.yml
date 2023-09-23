@@ -1,12 +1,15 @@
 metadata:
-
-  "The Italian Job (1969)":
-    title: "The Italian Job"
-    year: 1969
+  The Italian Job (1969):
+    match:
+      title: The Italian Job
+      year: 1969
+    title: The Italian Job
     url_poster: https://theposterdb.com/api/assets/213881
-
-  "The Italian Job (2003)":
-    title: "The Italian Job"
-    year: 2003
+    year: 1969
+  The Italian Job (2003):
+    match:
+      title: The Italian Job
+      year: 2003
+    title: The Italian Job
     url_poster: https://theposterdb.com/api/assets/213880
-
+    year: 2003

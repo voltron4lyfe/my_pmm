@@ -1,7 +1,8 @@
 metadata:
-
-  "Flashdance (1983)":
-    title: "Flashdance"
-    year: 1983
+  Flashdance (1983):
+    match:
+      title: Flashdance
+      year: 1983
+    title: Flashdance
     url_poster: https://theposterdb.com/api/assets/189567
-
+    year: 1983

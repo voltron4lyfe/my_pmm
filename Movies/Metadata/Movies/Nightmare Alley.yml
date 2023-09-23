@@ -1,6 +1,8 @@
-metadata:               #Posters found here: https://theposterdb.com/poster/210490
-
-  "Nightmare Alley (2021)":
-    title: "Nightmare Alley"
-    year: 2021
+metadata:
+  Nightmare Alley (2021):
+    match:
+      title: Nightmare Alley
+      year: 2021
+    title: Nightmare Alley
     url_poster: https://theposterdb.com/api/assets/210490
+    year: 2021

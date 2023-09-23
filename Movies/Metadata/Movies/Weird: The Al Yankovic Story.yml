@@ -1,7 +1,8 @@
 metadata:
-
-  "Weird: The Al Yankovic Story (2022)":
-    title: "Weird: The Al Yankovic Story"
-    year: 2022
+  'Weird: The Al Yankovic Story (2022)':
+    match:
+      title: 'Weird: The Al Yankovic Story'
+      year: 2022
+    title: 'Weird: The Al Yankovic Story'
     url_poster: https://theposterdb.com/api/assets/283502
-
+    year: 2022

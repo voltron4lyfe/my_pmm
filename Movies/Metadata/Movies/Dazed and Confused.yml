@@ -1,7 +1,8 @@
 metadata:
-
-  "Dazed and Confused (1993)":
-    title: "Dazed and Confused"
-    year: 1993
+  Dazed and Confused (1993):
+    match:
+      title: Dazed and Confused
+      year: 1993
+    title: Dazed and Confused
     url_poster: https://theposterdb.com/api/assets/210356
-
+    year: 1993

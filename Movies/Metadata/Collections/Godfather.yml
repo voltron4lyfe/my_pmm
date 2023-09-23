@@ -1,16 +1,22 @@
-metadata:               #Posters found here https://theposterdb.com/set/100802
-
-  "The Godfather (1972)":
-    title: "The Godfather"
-    year: 1972
+metadata:
+  The Godfather (1972):
+    match:
+      title: The Godfather
+      year: 1972
+    title: The Godfather
     url_poster: https://theposterdb.com/api/assets/184746
-
-  "The Godfather Part II (1974)":
-    title: "The Godfather Part II"
-    year: 1974
+    year: 1972
+  The Godfather Part II (1974):
+    match:
+      title: The Godfather Part II
+      year: 1974
+    title: The Godfather Part II
     url_poster: https://theposterdb.com/api/assets/184747
-
-  "The Godfather Part III (1990)":
-    title: "The Godfather Part III"
-    year: 1990
+    year: 1974
+  The Godfather Part III (1990):
+    match:
+      title: The Godfather Part III
+      year: 1990
+    title: The Godfather Part III
     url_poster: https://theposterdb.com/api/assets/184748
+    year: 1990

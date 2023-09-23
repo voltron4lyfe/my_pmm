@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/214304
-
-  "Licorice Pizza (2021)":
-    title: "Licorice Pizza"
-    year: 2021
+metadata:
+  Licorice Pizza (2021):
+    match:
+      title: Licorice Pizza
+      year: 2021
+    title: Licorice Pizza
     url_poster: https://theposterdb.com/api/assets/214304
+    year: 2021

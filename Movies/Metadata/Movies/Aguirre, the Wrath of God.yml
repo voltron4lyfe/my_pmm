@@ -1,7 +1,8 @@
 metadata:
-
-  "Aguirre, the Wrath of God (1974)":
-    title: "Aguirre, the Wrath of God"
-    year: 1974
+  Aguirre, the Wrath of God (1974):
+    match:
+      title: Aguirre, the Wrath of God
+      year: 1974
+    title: Aguirre, the Wrath of God
     url_poster: https://theposterdb.com/api/assets/203181
-
+    year: 1974

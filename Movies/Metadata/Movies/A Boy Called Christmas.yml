@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/192769
-
-  "A Boy Called Christmas (2021)":
-    title: "A Boy Called Christmas"
-    year: 2021
+metadata:
+  A Boy Called Christmas (2021):
+    match:
+      title: A Boy Called Christmas
+      year: 2021
+    title: A Boy Called Christmas
     url_poster: https://theposterdb.com/api/assets/192769
+    year: 2021

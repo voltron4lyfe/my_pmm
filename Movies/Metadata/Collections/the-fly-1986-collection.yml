@@ -1,9 +1,15 @@
 metadata:
   The Fly (1986):
+    match:
+      title: The Fly
+      year: 1986
     title: The Fly
     url_poster: https://theposterdb.com/api/assets/177231
     year: 1986
   The Fly II (1989):
+    match:
+      title: The Fly II
+      year: 1989
     title: The Fly II
     url_poster: https://theposterdb.com/api/assets/177232
     year: 1989

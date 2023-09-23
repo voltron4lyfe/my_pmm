@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/user/musikmann2000
-
-  "Bulletproof (1996)":
-    title: "Bulletproof"
-    year: 1996
+metadata:
+  Bulletproof (1996):
+    match:
+      title: Bulletproof
+      year: 1996
+    title: Bulletproof
     url_poster: https://theposterdb.com/api/assets/195559
+    year: 1996

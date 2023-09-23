@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/189019
-
-  "Happy Gilmore (1996)":
-    title: "Happy Gilmore"
-    year: 1996
+metadata:
+  Happy Gilmore (1996):
+    match:
+      title: Happy Gilmore
+      year: 1996
+    title: Happy Gilmore
     url_poster: https://theposterdb.com/api/assets/189019
+    year: 1996

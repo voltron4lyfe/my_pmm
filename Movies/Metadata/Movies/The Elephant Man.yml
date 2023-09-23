@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/211176
-
-  "The Elephant Man (1980)":
-    title: "The Elephant Man"
-    year: 1980
+metadata:
+  The Elephant Man (1980):
+    match:
+      title: The Elephant Man
+      year: 1980
+    title: The Elephant Man
     url_poster: https://theposterdb.com/api/assets/211176
+    year: 1980

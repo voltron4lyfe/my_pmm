@@ -1,6 +1,8 @@
-metadata:               #Posters found here: https://theposterdb.com/poster/228742
-
-  "Summer of Soul (...Or, When the Revolution Could Not Be Televised) (2021)":
-    title: "Summer of Soul (...Or, When the Revolution Could Not Be Televised)"
-    year: 2021
+metadata:
+  Summer of Soul (...Or, When the Revolution Could Not Be Televised) (2021):
+    match:
+      title: Summer of Soul (...Or, When the Revolution Could Not Be Televised)
+      year: 2021
+    title: Summer of Soul (...Or, When the Revolution Could Not Be Televised)
     url_poster: https://theposterdb.com/api/assets/228742
+    year: 2021

@@ -1,7 +1,8 @@
 metadata:
-
-  "Groundhog Day (1993)":
-    title: "Groundhog Day"
-    year: 1993
+  Groundhog Day (1993):
+    match:
+      title: Groundhog Day
+      year: 1993
+    title: Groundhog Day
     url_poster: https://theposterdb.com/api/assets/186812
-
+    year: 1993

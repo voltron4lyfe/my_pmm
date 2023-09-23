@@ -1,7 +1,8 @@
 metadata:
-
-  "Easy A (2010)":
-    title: "Easy A"
-    year: 2010
+  Easy A (2010):
+    match:
+      title: Easy A
+      year: 2010
+    title: Easy A
     url_poster: https://theposterdb.com/api/assets/210359
-
+    year: 2010

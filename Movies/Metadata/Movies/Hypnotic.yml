@@ -1,7 +1,8 @@
 metadata:
-
-  "Hypnotic (2023)":
-    title: "Hypnotic"
-    year: 2023
+  Hypnotic (2023):
+    match:
+      title: Hypnotic
+      year: 2023
+    title: Hypnotic
     url_poster: https://theposterdb.com/api/assets/368984
-
+    year: 2023

@@ -1,7 +1,8 @@
 metadata:
-
-  "The Social Network (2010)":
-    title: "The Social Network"
-    year: 2010
+  The Social Network (2010):
+    match:
+      title: The Social Network
+      year: 2010
+    title: The Social Network
     url_poster: https://theposterdb.com/api/assets/212612
-
+    year: 2010

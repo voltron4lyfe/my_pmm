@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/213884
-
-  "Snatch (2000)":
-    title: "Snatch"
-    year: 2000
+metadata:
+  Snatch (2000):
+    match:
+      title: Snatch
+      year: 2000
+    title: Snatch
     url_poster: https://theposterdb.com/api/assets/213884
+    year: 2000

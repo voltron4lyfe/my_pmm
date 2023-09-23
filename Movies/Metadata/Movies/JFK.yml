@@ -1,7 +1,8 @@
 metadata:
-
-  "JFK (1991)":
-    title: "JFK"
-    year: 1991
+  JFK (1991):
+    match:
+      title: JFK
+      year: 1991
+    title: JFK
     url_poster: https://theposterdb.com/api/assets/219148
-
+    year: 1991

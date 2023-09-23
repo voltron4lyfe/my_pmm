@@ -1,7 +1,8 @@
 metadata:
-
-  "It's a Wonderful Life (1946)":
-    title: "It's a Wonderful Life"
-    year: 1946
+  It's a Wonderful Life (1946):
+    match:
+      title: It's a Wonderful Life
+      year: 1946
+    title: It's a Wonderful Life
     url_poster: https://theposterdb.com/api/assets/188231
-
+    year: 1946

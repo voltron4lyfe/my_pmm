@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/183769
-
-  "Awake (2021)":
-    title: "Awake"
-    year: 2021
+metadata:
+  Awake (2021):
+    match:
+      title: Awake
+      year: 2021
+    title: Awake
     url_poster: https://theposterdb.com/api/assets/183769
+    year: 2021

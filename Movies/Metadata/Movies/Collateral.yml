@@ -1,7 +1,8 @@
 metadata:
-
-  "Collateral (2004)":
-    title: "Collateral"
-    year: 2004
+  Collateral (2004):
+    match:
+      title: Collateral
+      year: 2004
+    title: Collateral
     url_poster: https://theposterdb.com/api/assets/213882
-
+    year: 2004

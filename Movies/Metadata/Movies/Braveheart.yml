@@ -1,7 +1,8 @@
 metadata:
-
-  "Braveheart (1995)":
-    title: "Braveheart"
-    year: 1995
+  Braveheart (1995):
+    match:
+      title: Braveheart
+      year: 1995
+    title: Braveheart
     url_poster: https://theposterdb.com/api/assets/184399
-
+    year: 1995

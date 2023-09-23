@@ -1,7 +1,8 @@
 metadata:
-
-  "Boyz n the Hood (1991)":
-    title: "Boyz n the Hood"
-    year: 1991
+  Boyz n the Hood (1991):
+    match:
+      title: Boyz n the Hood
+      year: 1991
+    title: Boyz n the Hood
     url_poster: https://theposterdb.com/api/assets/207049
-
+    year: 1991

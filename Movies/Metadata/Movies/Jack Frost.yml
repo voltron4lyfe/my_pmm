@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/190433
-
-  "Jack Frost (1998)":
-    title: "Jack Frost"
-    year: 1998
+metadata:
+  Jack Frost (1998):
+    match:
+      title: Jack Frost
+      year: 1998
+    title: Jack Frost
     url_poster: https://theposterdb.com/api/assets/190433
+    year: 1998

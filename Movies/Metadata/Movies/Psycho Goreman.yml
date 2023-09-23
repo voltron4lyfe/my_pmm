@@ -1,7 +1,8 @@
 metadata:
-
-  "Psycho Goreman (2020)":
-    title: "Psycho Goreman"
-    year: 2020
+  Psycho Goreman (2020):
+    match:
+      title: Psycho Goreman
+      year: 2020
+    title: Psycho Goreman
     url_poster: https://theposterdb.com/api/assets/309619
-
+    year: 2020

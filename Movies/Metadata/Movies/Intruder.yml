@@ -1,7 +1,8 @@
 metadata:
-
-  "Intruder (1989)":
-    title: "Intruder"
-    year: 1989
+  Intruder (1989):
+    match:
+      title: Intruder
+      year: 1989
+    title: Intruder
     url_poster: https://theposterdb.com/api/assets/293250
-
+    year: 1989

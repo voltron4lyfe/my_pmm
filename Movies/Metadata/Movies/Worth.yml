@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/175448
-
-  "Worth (2021)":
-    title: "Worth"
-    year: 2021
+metadata:
+  Worth (2021):
+    match:
+      title: Worth
+      year: 2021
+    title: Worth
     url_poster: https://theposterdb.com/api/assets/175448
+    year: 2021

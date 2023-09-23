@@ -1,51 +1,71 @@
-metadata:               #Posters found here: https://theposterdb.com/poster/172014
-
-  "Rocky (1976)":
-    title: "Rocky"
-    year: 1976
-    url_poster: https://theposterdb.com/api/assets/172022
-
-  "Rocky II (1979)":
-    title: "Rocky II"
-    year: 1979
-    url_poster: https://theposterdb.com/api/assets/172015
-
-  "Rocky III (1982)":
-    title: "Rocky III"
-    year: 1982
-    url_poster: https://theposterdb.com/api/assets/172016
-
-  "Rocky IV (1985)":
-    title: "Rocky IV"
-    year: 1985
-    url_poster: https://theposterdb.com/api/assets/172017
-
-  "Rocky V (1990)":
-    title: "Rocky V"
-    year: 1990
-    url_poster: https://theposterdb.com/api/assets/172018
-
-  "Rocky Balboa (2006)":
-    title: "Rocky Balboa"
-    year: 2006
-    url_poster: https://theposterdb.com/api/assets/172019
-
-  "Creed (2015)":
-    title: "Creed"
-    year: 2015
-    url_poster: https://theposterdb.com/api/assets/172020
-
-  "Creed II (2018)":
-    title: "Creed II"
-    year: 2018
-    url_poster: https://theposterdb.com/api/assets/172021
-
-  "Creed III (2023)":
-    title: "Creed III"
-    year: 2023
-    url_poster: https://theposterdb.com/api/assets/307793
-
-  "40 Years of Rocky: The Birth of a Classic (2020)":
-    title: "40 Years of Rocky: The Birth of a Classic"
-    year: 2020
+metadata:
+  '40 Years of Rocky: The Birth of a Classic (2020)':
+    match:
+      title: '40 Years of Rocky: The Birth of a Classic'
+      year: 2020
+    title: '40 Years of Rocky: The Birth of a Classic'
     url_poster: https://theposterdb.com/api/assets/172034
+    year: 2020
+  Creed (2015):
+    match:
+      title: Creed
+      year: 2015
+    title: Creed
+    url_poster: https://theposterdb.com/api/assets/172020
+    year: 2015
+  Creed II (2018):
+    match:
+      title: Creed II
+      year: 2018
+    title: Creed II
+    url_poster: https://theposterdb.com/api/assets/172021
+    year: 2018
+  Creed III (2023):
+    match:
+      title: Creed III
+      year: 2023
+    title: Creed III
+    url_poster: https://theposterdb.com/api/assets/307793
+    year: 2023
+  Rocky (1976):
+    match:
+      title: Rocky
+      year: 1976
+    title: Rocky
+    url_poster: https://theposterdb.com/api/assets/172022
+    year: 1976
+  Rocky Balboa (2006):
+    match:
+      title: Rocky Balboa
+      year: 2006
+    title: Rocky Balboa
+    url_poster: https://theposterdb.com/api/assets/172019
+    year: 2006
+  Rocky II (1979):
+    match:
+      title: Rocky II
+      year: 1979
+    title: Rocky II
+    url_poster: https://theposterdb.com/api/assets/172015
+    year: 1979
+  Rocky III (1982):
+    match:
+      title: Rocky III
+      year: 1982
+    title: Rocky III
+    url_poster: https://theposterdb.com/api/assets/172016
+    year: 1982
+  Rocky IV (1985):
+    match:
+      title: Rocky IV
+      year: 1985
+    title: Rocky IV
+    url_poster: https://theposterdb.com/api/assets/172017
+    year: 1985
+  Rocky V (1990):
+    match:
+      title: Rocky V
+      year: 1990
+    title: Rocky V
+    url_poster: https://theposterdb.com/api/assets/172018
+    year: 1990

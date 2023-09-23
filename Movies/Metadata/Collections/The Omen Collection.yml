@@ -1,17 +1,29 @@
 metadata:
   'Damien: Omen II (1978)':
+    match:
+      title: 'Damien: Omen II'
+      year: 1978
     title: 'Damien: Omen II'
     url_poster: https://theposterdb.com/api/assets/178456
     year: 1978
-  'The Final Conflict (1981)':
-    title: 'The Final Conflict'
-    url_poster: https://theposterdb.com/api/assets/178457
-    year: 1981
   'Omen IV: The Awakening (1991)':
+    match:
+      title: 'Omen IV: The Awakening'
+      year: 1991
     title: 'Omen IV: The Awakening'
     url_poster: https://theposterdb.com/api/assets/178458
     year: 1991
+  The Final Conflict (1981):
+    match:
+      title: The Final Conflict
+      year: 1981
+    title: The Final Conflict
+    url_poster: https://theposterdb.com/api/assets/178457
+    year: 1981
   The Omen (1976):
+    match:
+      title: The Omen
+      year: 1976
     title: The Omen
     url_poster: https://theposterdb.com/api/assets/178455
     year: 1976

@@ -1,7 +1,8 @@
 metadata:
-
-  "Less Than Zero (1987)":
-    title: "Less Than Zero"
-    year: 1987
+  Less Than Zero (1987):
+    match:
+      title: Less Than Zero
+      year: 1987
+    title: Less Than Zero
     url_poster: https://theposterdb.com/api/assets/200011
-
+    year: 1987

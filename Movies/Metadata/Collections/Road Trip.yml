@@ -1,11 +1,15 @@
 metadata:
-
-  "Road Trip (2000)":
-    title: "Road Trip"
-    year: 2000
+  Road Trip (2000):
+    match:
+      title: Road Trip
+      year: 2000
+    title: Road Trip
     url_poster: https://theposterdb.com/api/assets/189033
-
-  "Road Trip: Beer Pong (2009)":
-    title: "Road Trip: Beer Pong"
-    year: 2009
+    year: 2000
+  'Road Trip: Beer Pong (2009)':
+    match:
+      title: 'Road Trip: Beer Pong'
+      year: 2009
+    title: 'Road Trip: Beer Pong'
     url_poster: https://theposterdb.com/api/assets/189034
+    year: 2009

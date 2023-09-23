@@ -1,7 +1,8 @@
 metadata:
-
-  "Sound of Metal (2020)":
-    title: "Sound of Metal"
-    year: 2020
+  Sound of Metal (2020):
+    match:
+      title: Sound of Metal
+      year: 2020
+    title: Sound of Metal
     url_poster: https://theposterdb.com/api/assets/198482
-
+    year: 2020

@@ -1,9 +1,15 @@
 metadata:
   Sanjuro (1962):
+    match:
+      title: Sanjuro
+      year: 1962
     title: Sanjuro
     url_poster: https://theposterdb.com/api/assets/229857
     year: 1962
   Yojimbo (1961):
+    match:
+      title: Yojimbo
+      year: 1961
     title: Yojimbo
     url_poster: https://theposterdb.com/api/assets/228251
     year: 1961

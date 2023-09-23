@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/217373
-
-  "In the Mood for Love (2000)":
-    title: "In the Mood for Love"
-    year: 2000
+metadata:
+  In the Mood for Love (2000):
+    match:
+      title: In the Mood for Love
+      year: 2000
+    title: In the Mood for Love
     url_poster: https://theposterdb.com/api/assets/217373
+    year: 2000

@@ -1,7 +1,8 @@
 metadata:
-
-  "Alfie (1966)":
-    title: "Alfie"
-    year: 1966
+  Alfie (1966):
+    match:
+      title: Alfie
+      year: 1966
+    title: Alfie
     url_poster: https://theposterdb.com/api/assets/314801
-
+    year: 1966

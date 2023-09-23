@@ -1,7 +1,8 @@
 metadata:
-
-  "The Conversation (1974)":
-    title: "The Conversation"
-    year: 1974
+  The Conversation (1974):
+    match:
+      title: The Conversation
+      year: 1974
+    title: The Conversation
     url_poster: https://theposterdb.com/api/assets/226359
-
+    year: 1974

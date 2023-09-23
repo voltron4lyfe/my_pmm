@@ -1,7 +1,8 @@
 metadata:
-
-  "Big Trouble in Little China (1986)":
-    title: "Big Trouble in Little China"
-    year: 1986
+  Big Trouble in Little China (1986):
+    match:
+      title: Big Trouble in Little China
+      year: 1986
+    title: Big Trouble in Little China
     url_poster: https://theposterdb.com/api/assets/177653
-
+    year: 1986

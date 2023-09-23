@@ -1,6 +1,8 @@
-metadata:               #Posters found here: https://theposterdb.com/poster/194493
-
-  "Se7en (1995)":
-    title: "Se7en"
-    year: 1995
+metadata:
+  Se7en (1995):
+    match:
+      title: Se7en
+      year: 1995
+    title: Se7en
     url_poster: https://theposterdb.com/api/assets/194493
+    year: 1995

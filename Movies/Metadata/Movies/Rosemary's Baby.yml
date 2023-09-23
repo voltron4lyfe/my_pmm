@@ -1,7 +1,8 @@
 metadata:
-
-  "Rosemary's Baby (1968)":
-    title: "Rosemary's Baby"
-    year: 1968
+  Rosemary's Baby (1968):
+    match:
+      title: Rosemary's Baby
+      year: 1968
+    title: Rosemary's Baby
     url_poster: https://theposterdb.com/api/assets/181290
-
+    year: 1968

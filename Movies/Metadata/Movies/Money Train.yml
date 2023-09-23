@@ -1,7 +1,8 @@
 metadata:
-
-  "Money Train (1995)":
-    title: "Money Train"
-    year: 1995
+  Money Train (1995):
+    match:
+      title: Money Train
+      year: 1995
+    title: Money Train
     url_poster: https://theposterdb.com/api/assets/219526
-
+    year: 1995

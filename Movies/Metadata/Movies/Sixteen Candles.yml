@@ -1,7 +1,8 @@
 metadata:
-
-  "Sixteen Candles (1984)":
-    title: "Sixteen Candles"
-    year: 1984
+  Sixteen Candles (1984):
+    match:
+      title: Sixteen Candles
+      year: 1984
+    title: Sixteen Candles
     url_poster: https://theposterdb.com/api/assets/204201
-
+    year: 1984

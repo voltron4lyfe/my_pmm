@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/235356
-
-  "The Lost City (2022)":
-    title: "The Lost City"
-    year: 2022
+metadata:
+  The Lost City (2022):
+    match:
+      title: The Lost City
+      year: 2022
+    title: The Lost City
     url_poster: https://theposterdb.com/api/assets/235356
+    year: 2022

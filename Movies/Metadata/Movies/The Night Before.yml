@@ -1,6 +1,8 @@
-metadata:               #Posters found here: https://theposterdb.com/poster/190452
-
-  "The Night Before (2015)":
-    title: "The Night Before"
-    year: 2015
+metadata:
+  The Night Before (2015):
+    match:
+      title: The Night Before
+      year: 2015
+    title: The Night Before
     url_poster: https://theposterdb.com/api/assets/190452
+    year: 2015

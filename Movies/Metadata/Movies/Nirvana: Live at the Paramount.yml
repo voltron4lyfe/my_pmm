@@ -1,7 +1,8 @@
 metadata:
-
-  "Nirvana: Live at the Paramount (2011)":
-    title: "Nirvana: Live at the Paramount"
-    year: 2011
+  'Nirvana: Live at the Paramount (2011)':
+    match:
+      title: 'Nirvana: Live at the Paramount'
+      year: 2011
+    title: 'Nirvana: Live at the Paramount'
     url_poster: https://theposterdb.com/api/assets/306988
-
+    year: 2011

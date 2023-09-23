@@ -1,7 +1,8 @@
 metadata:
-
-  "Boogie Nights (1997)":
-    title: "Boogie Nights"
-    year: 1997
+  Boogie Nights (1997):
+    match:
+      title: Boogie Nights
+      year: 1997
+    title: Boogie Nights
     url_poster: https://theposterdb.com/api/assets/207028
-
+    year: 1997

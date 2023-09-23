@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/197219
-
-  "The Battle of Algiers (1966)":
-    title: "The Battle of Algiers"
-    year: 1966
+metadata:
+  The Battle of Algiers (1966):
+    match:
+      title: The Battle of Algiers
+      year: 1966
+    title: The Battle of Algiers
     url_poster: https://theposterdb.com/api/assets/197219
+    year: 1966

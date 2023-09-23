@@ -1,7 +1,8 @@
 metadata:
-
-  "Spaceballs (1987)":
-    title: "Spaceballs"
-    year: 1987
+  Spaceballs (1987):
+    match:
+      title: Spaceballs
+      year: 1987
+    title: Spaceballs
     url_poster: https://theposterdb.com/api/assets/225029
-
+    year: 1987

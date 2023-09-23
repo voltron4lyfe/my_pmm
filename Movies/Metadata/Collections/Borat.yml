@@ -1,16 +1,26 @@
-metadata:               #Posters found here https://theposterdb.com/user/musikmann2000
-
-  "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan (2006)":
-    title: "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan"
-    year: 2006
-    url_poster: https://theposterdb.com/api/assets/191066
-
-  "Borat Subsequent Moviefilm (2020)":
-    title: "Borat Subsequent Moviefilm"
-    year: 2020
+metadata:
+  Borat Subsequent Moviefilm (2020):
+    match:
+      title: Borat Subsequent Moviefilm
+      year: 2020
+    title: Borat Subsequent Moviefilm
     url_poster: https://theposterdb.com/api/assets/191067
-
-  "Borat: VHS Cassette of Material Deemed “Sub-acceptable” By Kazakhstan Ministry of Censorship and Circumcision (2021)":
-    title: "Borat: VHS Cassette of Material Deemed “Sub-acceptable” By Kazakhstan Ministry of Censorship and Circumcision"
-    year: 2021
+    year: 2020
+  'Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan (2006)':
+    match:
+      title: 'Borat: Cultural Learnings of America for Make Benefit Glorious Nation
+        of Kazakhstan'
+      year: 2006
+    title: 'Borat: Cultural Learnings of America for Make Benefit Glorious Nation
+      of Kazakhstan'
+    url_poster: https://theposterdb.com/api/assets/191066
+    year: 2006
+  "Borat: VHS Cassette of Material Deemed \u201CSub-acceptable\u201D By Kazakhstan Ministry of Censorship and Circumcision (2021)":
+    match:
+      title: "Borat: VHS Cassette of Material Deemed \u201CSub-acceptable\u201D By\
+        \ Kazakhstan Ministry of Censorship and Circumcision"
+      year: 2021
+    title: "Borat: VHS Cassette of Material Deemed \u201CSub-acceptable\u201D By Kazakhstan\
+      \ Ministry of Censorship and Circumcision"
     url_poster: https://theposterdb.com/api/assets/191068
+    year: 2021

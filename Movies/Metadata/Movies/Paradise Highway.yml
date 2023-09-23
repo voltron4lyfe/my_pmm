@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/255293
-
-  "Paradise Highway (2022)":
-    title: "Paradise Highway"
-    year: 2022
+metadata:
+  Paradise Highway (2022):
+    match:
+      title: Paradise Highway
+      year: 2022
+    title: Paradise Highway
     url_poster: https://theposterdb.com/api/assets/255293
+    year: 2022

@@ -1,7 +1,8 @@
 metadata:
-
-  "Tommy Boy (1995)":
-    title: "Tommy Boy"
-    year: 1995
+  Tommy Boy (1995):
+    match:
+      title: Tommy Boy
+      year: 1995
+    title: Tommy Boy
     url_poster: https://theposterdb.com/api/assets/221812
-
+    year: 1995

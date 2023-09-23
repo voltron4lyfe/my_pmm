@@ -1,0 +1,15 @@
+metadata:
+  Red Dawn (1984):
+    match:
+      title: Red Dawn
+      year: 1984
+    title: Red Dawn
+    url_poster: https://theposterdb.com/api/assets/170453
+    year: 1984
+  Red Dawn (2012):
+    match:
+      title: Red Dawn
+      year: 2012
+    title: Red Dawn
+    url_poster: https://theposterdb.com/api/assets/170454
+    year: 2012

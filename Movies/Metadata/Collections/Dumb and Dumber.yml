@@ -1,16 +1,22 @@
 metadata:
-
-  "Dumb and Dumber (1994)":
-    title: "Dumb and Dumber"
-    year: 1994
+  Dumb and Dumber (1994):
+    match:
+      title: Dumb and Dumber
+      year: 1994
+    title: Dumb and Dumber
     url_poster: https://theposterdb.com/api/assets/193762
-
-  "Dumb and Dumberer: When Harry Met Lloyd (2003)":
-    title: "Dumb and Dumberer: When Harry Met Lloyd"
-    year: 2003
-    url_poster: https://theposterdb.com/api/assets/193763
-
-  "Dumb and Dumber To (2014)":
-    title: "Dumb and Dumber To"
-    year: 2014
+    year: 1994
+  Dumb and Dumber To (2014):
+    match:
+      title: Dumb and Dumber To
+      year: 2014
+    title: Dumb and Dumber To
     url_poster: https://theposterdb.com/api/assets/193764
+    year: 2014
+  'Dumb and Dumberer: When Harry Met Lloyd (2003)':
+    match:
+      title: 'Dumb and Dumberer: When Harry Met Lloyd'
+      year: 2003
+    title: 'Dumb and Dumberer: When Harry Met Lloyd'
+    url_poster: https://theposterdb.com/api/assets/193763
+    year: 2003

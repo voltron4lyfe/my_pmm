@@ -1,7 +1,8 @@
 metadata:
-
-  "Dracula (1931)":
-    title: "Dracula"
-    year: 1931
+  Dracula (1931):
+    match:
+      title: Dracula
+      year: 1931
+    title: Dracula
     url_poster: https://theposterdb.com/api/assets/35792
-
+    year: 1931

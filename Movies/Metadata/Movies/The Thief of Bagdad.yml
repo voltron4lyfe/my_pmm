@@ -1,7 +1,8 @@
 metadata:
-
-  "The Thief of Bagdad (1940)":
-    title: "The Thief of Bagdad"
-    year: 1940
+  The Thief of Bagdad (1940):
+    match:
+      title: The Thief of Bagdad
+      year: 1940
+    title: The Thief of Bagdad
     url_poster: https://theposterdb.com/api/assets/188239
-
+    year: 1940

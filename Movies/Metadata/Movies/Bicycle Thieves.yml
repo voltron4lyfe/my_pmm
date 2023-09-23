@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/206564
-
-  "Bicycle Thieves (1948)":
-    title: "Bicycle Thieves"
-    year: 1948
+metadata:
+  Bicycle Thieves (1948):
+    match:
+      title: Bicycle Thieves
+      year: 1948
+    title: Bicycle Thieves
     url_poster: https://theposterdb.com/api/assets/206564
+    year: 1948

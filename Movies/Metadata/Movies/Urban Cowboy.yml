@@ -1,7 +1,8 @@
 metadata:
-
-  "Urban Cowboy (1980)":
-    title: "Urban Cowboy"
-    year: 1980
+  Urban Cowboy (1980):
+    match:
+      title: Urban Cowboy
+      year: 1980
+    title: Urban Cowboy
     url_poster: https://theposterdb.com/api/assets/225357
-
+    year: 1980

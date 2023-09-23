@@ -1,7 +1,8 @@
 metadata:
-
-  "Brazil (1985)":
-    title: "Brazil"
-    year: 1985
+  Brazil (1985):
+    match:
+      title: Brazil
+      year: 1985
+    title: Brazil
     url_poster: https://theposterdb.com/api/assets/186797
-
+    year: 1985

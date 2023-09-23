@@ -1,7 +1,8 @@
 metadata:
-
-  "The Natural (1984)":
-    title: "The Natural"
-    year: 1984
+  The Natural (1984):
+    match:
+      title: The Natural
+      year: 1984
+    title: The Natural
     url_poster: https://theposterdb.com/api/assets/188371
-
+    year: 1984

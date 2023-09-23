@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/184136
-
-  "Gladiator (2000)":
-    title: "Gladiator"
-    year: 2000
+metadata:
+  Gladiator (2000):
+    match:
+      title: Gladiator
+      year: 2000
+    title: Gladiator
     url_poster: https://theposterdb.com/api/assets/184136
+    year: 2000

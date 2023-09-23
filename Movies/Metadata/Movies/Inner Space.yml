@@ -1,7 +1,8 @@
 metadata:
-
-  "Innerspace (1987)":
-    title: "Innerspace"
-    year: 1987
+  Innerspace (1987):
+    match:
+      title: Innerspace
+      year: 1987
+    title: Innerspace
     url_poster: https://theposterdb.com/api/assets/186928
-
+    year: 1987

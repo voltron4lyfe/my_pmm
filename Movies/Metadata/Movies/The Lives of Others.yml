@@ -1,7 +1,8 @@
 metadata:
-
-  "The Lives of Others (2006)":
-    title: "The Lives of Others"
-    year: 2006
+  The Lives of Others (2006):
+    match:
+      title: The Lives of Others
+      year: 2006
+    title: The Lives of Others
     url_poster: https://theposterdb.com/api/assets/216489
-
+    year: 2006

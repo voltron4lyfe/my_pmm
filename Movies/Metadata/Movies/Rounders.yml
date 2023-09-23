@@ -1,7 +1,8 @@
 metadata:
-
-  "Rounders (1998)":
-    title: "Rounders"
-    year: 1998
+  Rounders (1998):
+    match:
+      title: Rounders
+      year: 1998
+    title: Rounders
     url_poster: https://theposterdb.com/api/assets/220225
-
+    year: 1998

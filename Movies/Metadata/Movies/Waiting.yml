@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/216892
-
-  "Waiting... (2005)":
-    title: "Waiting..."
-    year: 2005
+metadata:
+  Waiting... (2005):
+    match:
+      title: Waiting...
+      year: 2005
+    title: Waiting...
     url_poster: https://theposterdb.com/api/assets/216892
+    year: 2005

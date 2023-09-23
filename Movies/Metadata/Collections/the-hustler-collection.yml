@@ -1,9 +1,15 @@
 metadata:
   The Color of Money (1986):
+    match:
+      title: The Color of Money
+      year: 1986
     title: The Color of Money
     url_poster: https://theposterdb.com/api/assets/171925
     year: 1986
   The Hustler (1961):
+    match:
+      title: The Hustler
+      year: 1961
     title: The Hustler
     url_poster: https://theposterdb.com/api/assets/171924
     year: 1961

@@ -1,101 +1,141 @@
 metadata:
-
-  "Tyler Perry's Madea's Family Reunion - The Play (2002)":
-    title: "Tyler Perry's Madea's Family Reunion - The Play"
-    year: 2002
-    url_poster: https://theposterdb.com/api/assets/178406
-
-  "Tyler Perry's Madea's Class Reunion - The Play (2003)":
-    title: "Tyler Perry's Madea's Class Reunion - The Play"
-    year: 2003
-    url_poster: https://theposterdb.com/api/assets/178409
-
-  "Diary of a Mad Black Woman (2005)":
-    title: "Diary of a Mad Black Woman"
-    year: 2005
-    url_poster: https://theposterdb.com/api/assets/178363
-
-  "Tyler Perry's Madea Goes to Jail - The Play (2006)":
-    title: "Tyler Perry's Madea Goes to Jail - The Play"
-    year: 2006
-    url_poster: https://theposterdb.com/api/assets/178402
-
-  "Madea's Family Reunion (2006)":
-    title: "Madea's Family Reunion"
-    year: 2006
-    url_poster: https://theposterdb.com/api/assets/178364
-
-  "Meet the Browns (2008)":
-    title: "Meet the Browns"
-    year: 2008
-    url_poster: https://theposterdb.com/api/assets/178372
-
-  "I Can Do Bad All by Myself (2009)":
-    title: "I Can Do Bad All by Myself"
-    year: 2009
-    url_poster: https://theposterdb.com/api/assets/178373
-
-  "Madea Goes to Jail (2009)":
-    title: "Madea Goes to Jail"
-    year: 2009
-    url_poster: https://theposterdb.com/api/assets/178365
-
-  "Tyler Perry's Madea's Big Happy Family - The Play (2010)":
-    title: "Tyler Perry's Madea's Big Happy Family - The Play"
-    year: 2010
-    url_poster: https://theposterdb.com/api/assets/178400
-
-  "Tyler Perry's A Madea Christmas - The Play (2011)":
-    title: "Tyler Perry's A Madea Christmas - The Play"
-    year: 2011
-    url_poster: https://theposterdb.com/api/assets/178398
-
-  "Madea's Big Happy Family (2011)":
-    title: "Madea's Big Happy Family"
-    year: 2011
-    url_poster: https://theposterdb.com/api/assets/178366
-
-  "Tyler Perry's Madea Gets A Job - The Play (2012)":
-    title: "Tyler Perry's Madea Gets A Job - The Play"
-    year: 2012
-    url_poster: https://theposterdb.com/api/assets/178399
-
-  "Madea's Witness Protection (2012)":
-    title: "Madea's Witness Protection"
-    year: 2012
-    url_poster: https://theposterdb.com/api/assets/178367
-
-  "A Madea Christmas (2013)":
-    title: "A Madea Christmas"
-    year: 2013
+  A Madea Christmas (2013):
+    match:
+      title: A Madea Christmas
+      year: 2013
+    title: A Madea Christmas
     url_poster: https://theposterdb.com/api/assets/178368
-
-  "Tyler Perry's Madea's Neighbors from Hell - The Play (2014)":
-    title: "Tyler Perry's Madea's Neighbors from Hell - The Play"
-    year: 2014
-    url_poster: https://theposterdb.com/api/assets/178408
-
-  "Boo! A Madea Halloween (2016)":
-    title: "Boo! A Madea Halloween"
-    year: 2016
-    url_poster: https://theposterdb.com/api/assets/178369
-
-  "Boo 2! A Madea Halloween (2017)":
-    title: "Boo 2! A Madea Halloween"
-    year: 2017
-    url_poster: https://theposterdb.com/api/assets/178370
-
-  "A Madea Family Funeral (2019)":
-    title: "A Madea Family Funeral"
-    year: 2019
+    year: 2013
+  A Madea Family Funeral (2019):
+    match:
+      title: A Madea Family Funeral
+      year: 2019
+    title: A Madea Family Funeral
     url_poster: https://theposterdb.com/api/assets/178371
-
-  "Tyler Perry's Madea's Farewell Play (2020)":
-    title: "Tyler Perry's Madea's Farewell Play"
-    year: 2020
-    url_poster: https://theposterdb.com/api/assets/178422
-
-  "Tyler Perry's A Madea Homecoming (2022)":
-    title: "Tyler Perry's A Madea Homecoming"
-    year: 2022
+    year: 2019
+  Boo 2! A Madea Halloween (2017):
+    match:
+      title: Boo 2! A Madea Halloween
+      year: 2017
+    title: Boo 2! A Madea Halloween
+    url_poster: https://theposterdb.com/api/assets/178370
+    year: 2017
+  Boo! A Madea Halloween (2016):
+    match:
+      title: Boo! A Madea Halloween
+      year: 2016
+    title: Boo! A Madea Halloween
+    url_poster: https://theposterdb.com/api/assets/178369
+    year: 2016
+  Diary of a Mad Black Woman (2005):
+    match:
+      title: Diary of a Mad Black Woman
+      year: 2005
+    title: Diary of a Mad Black Woman
+    url_poster: https://theposterdb.com/api/assets/178363
+    year: 2005
+  I Can Do Bad All by Myself (2009):
+    match:
+      title: I Can Do Bad All by Myself
+      year: 2009
+    title: I Can Do Bad All by Myself
+    url_poster: https://theposterdb.com/api/assets/178373
+    year: 2009
+  Madea Goes to Jail (2009):
+    match:
+      title: Madea Goes to Jail
+      year: 2009
+    title: Madea Goes to Jail
+    url_poster: https://theposterdb.com/api/assets/178365
+    year: 2009
+  Madea's Big Happy Family (2011):
+    match:
+      title: Madea's Big Happy Family
+      year: 2011
+    title: Madea's Big Happy Family
+    url_poster: https://theposterdb.com/api/assets/178366
+    year: 2011
+  Madea's Family Reunion (2006):
+    match:
+      title: Madea's Family Reunion
+      year: 2006
+    title: Madea's Family Reunion
+    url_poster: https://theposterdb.com/api/assets/178364
+    year: 2006
+  Madea's Witness Protection (2012):
+    match:
+      title: Madea's Witness Protection
+      year: 2012
+    title: Madea's Witness Protection
+    url_poster: https://theposterdb.com/api/assets/178367
+    year: 2012
+  Meet the Browns (2008):
+    match:
+      title: Meet the Browns
+      year: 2008
+    title: Meet the Browns
+    url_poster: https://theposterdb.com/api/assets/178372
+    year: 2008
+  Tyler Perry's A Madea Christmas - The Play (2011):
+    match:
+      title: Tyler Perry's A Madea Christmas - The Play
+      year: 2011
+    title: Tyler Perry's A Madea Christmas - The Play
+    url_poster: https://theposterdb.com/api/assets/178398
+    year: 2011
+  Tyler Perry's A Madea Homecoming (2022):
+    match:
+      title: Tyler Perry's A Madea Homecoming
+      year: 2022
+    title: Tyler Perry's A Madea Homecoming
     url_poster: https://theposterdb.com/api/assets/222429
+    year: 2022
+  Tyler Perry's Madea Gets A Job - The Play (2012):
+    match:
+      title: Tyler Perry's Madea Gets A Job - The Play
+      year: 2012
+    title: Tyler Perry's Madea Gets A Job - The Play
+    url_poster: https://theposterdb.com/api/assets/178399
+    year: 2012
+  Tyler Perry's Madea Goes to Jail - The Play (2006):
+    match:
+      title: Tyler Perry's Madea Goes to Jail - The Play
+      year: 2006
+    title: Tyler Perry's Madea Goes to Jail - The Play
+    url_poster: https://theposterdb.com/api/assets/178402
+    year: 2006
+  Tyler Perry's Madea's Big Happy Family - The Play (2010):
+    match:
+      title: Tyler Perry's Madea's Big Happy Family - The Play
+      year: 2010
+    title: Tyler Perry's Madea's Big Happy Family - The Play
+    url_poster: https://theposterdb.com/api/assets/178400
+    year: 2010
+  Tyler Perry's Madea's Class Reunion - The Play (2003):
+    match:
+      title: Tyler Perry's Madea's Class Reunion - The Play
+      year: 2003
+    title: Tyler Perry's Madea's Class Reunion - The Play
+    url_poster: https://theposterdb.com/api/assets/178409
+    year: 2003
+  Tyler Perry's Madea's Family Reunion - The Play (2002):
+    match:
+      title: Tyler Perry's Madea's Family Reunion - The Play
+      year: 2002
+    title: Tyler Perry's Madea's Family Reunion - The Play
+    url_poster: https://theposterdb.com/api/assets/178406
+    year: 2002
+  Tyler Perry's Madea's Farewell Play (2020):
+    match:
+      title: Tyler Perry's Madea's Farewell Play
+      year: 2020
+    title: Tyler Perry's Madea's Farewell Play
+    url_poster: https://theposterdb.com/api/assets/178422
+    year: 2020
+  Tyler Perry's Madea's Neighbors from Hell - The Play (2014):
+    match:
+      title: Tyler Perry's Madea's Neighbors from Hell - The Play
+      year: 2014
+    title: Tyler Perry's Madea's Neighbors from Hell - The Play
+    url_poster: https://theposterdb.com/api/assets/178408
+    year: 2014

@@ -1,6 +1,8 @@
-metadata:               #Posters found here: https://theposterdb.com/poster/255549
-
-  "Werewolves Within (2021)":
-    title: "Werewolves Within"
-    year: 2021
+metadata:
+  Werewolves Within (2021):
+    match:
+      title: Werewolves Within
+      year: 2021
+    title: Werewolves Within
     url_poster: https://theposterdb.com/api/assets/255549
+    year: 2021

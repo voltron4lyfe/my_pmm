@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/242604
-
-  "MLK/FBI (2021)":
-    title: "MLK/FBI"
-    year: 2021
+metadata:
+  MLK/FBI (2021):
+    match:
+      title: MLK/FBI
+      year: 2021
+    title: MLK/FBI
     url_poster: https://theposterdb.com/api/assets/242604
+    year: 2021

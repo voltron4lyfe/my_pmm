@@ -1,11 +1,15 @@
-metadata:               #Posters found here https://theposterdb.com/user/musikmann2000
-
-  "Bad Santa (2003)":
-    title: "Bad Santa"
-    year: 2003
+metadata:
+  Bad Santa (2003):
+    match:
+      title: Bad Santa
+      year: 2003
+    title: Bad Santa
     url_poster: https://theposterdb.com/api/assets/189965
-
-  "Bad Santa 2 (2016)":
-    title: "Bad Santa 2"
-    year: 2016
+    year: 2003
+  Bad Santa 2 (2016):
+    match:
+      title: Bad Santa 2
+      year: 2016
+    title: Bad Santa 2
     url_poster: https://theposterdb.com/api/assets/189966
+    year: 2016

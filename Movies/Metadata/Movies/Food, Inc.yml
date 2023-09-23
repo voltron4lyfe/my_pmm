@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/237296
-
-  "Food, Inc. (2009)":
-    title: "Food, Inc."
-    year: 2009
+metadata:
+  Food, Inc. (2009):
+    match:
+      title: Food, Inc.
+      year: 2009
+    title: Food, Inc.
     url_poster: https://theposterdb.com/api/assets/237296
+    year: 2009

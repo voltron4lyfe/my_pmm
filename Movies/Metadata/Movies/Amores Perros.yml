@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/203537
-
-  "Amores Perros (2000)":
-    title: "Amores Perros"
-    year: 2000
+metadata:
+  Amores Perros (2000):
+    match:
+      title: Amores Perros
+      year: 2000
+    title: Amores Perros
     url_poster: https://theposterdb.com/api/assets/203537
+    year: 2000

@@ -1,7 +1,8 @@
 metadata:
-
-  "Grease (1978)":
-    title: "Grease"
-    year: 1978
+  Grease (1978):
+    match:
+      title: Grease
+      year: 1978
+    title: Grease
     url_poster: https://theposterdb.com/api/assets/279510
-
+    year: 1978

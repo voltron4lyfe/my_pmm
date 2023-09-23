@@ -1,7 +1,8 @@
 metadata:
-
-  "Freeway (1996)":
-    title: "Freeway"
-    year: 1996
+  Freeway (1996):
+    match:
+      title: Freeway
+      year: 1996
+    title: Freeway
     url_poster: https://theposterdb.com/api/assets/212164
-
+    year: 1996

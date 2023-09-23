@@ -1,7 +1,8 @@
 metadata:
-
-  "Demolition Man (1993)":
-    title: "Demolition Man"
-    year: 1993
+  Demolition Man (1993):
+    match:
+      title: Demolition Man
+      year: 1993
+    title: Demolition Man
     url_poster: https://theposterdb.com/api/assets/213759
-
+    year: 1993

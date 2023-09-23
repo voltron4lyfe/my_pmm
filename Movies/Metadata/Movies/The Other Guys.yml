@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/213078
-
-  "The Other Guys (2010)":
-    title: "The Other Guys"
-    year: 2010
+metadata:
+  The Other Guys (2010):
+    match:
+      title: The Other Guys
+      year: 2010
+    title: The Other Guys
     url_poster: https://theposterdb.com/api/assets/213078
+    year: 2010

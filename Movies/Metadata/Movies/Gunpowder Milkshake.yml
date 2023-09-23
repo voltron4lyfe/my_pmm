@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/188268
-
-  "Gunpowder Milkshake (2021)":
-    title: "Gunpowder Milkshake"
-    year: 2021
+metadata:
+  Gunpowder Milkshake (2021):
+    match:
+      title: Gunpowder Milkshake
+      year: 2021
+    title: Gunpowder Milkshake
     url_poster: https://theposterdb.com/api/assets/188268
+    year: 2021

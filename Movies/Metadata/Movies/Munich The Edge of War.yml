@@ -1,6 +1,8 @@
-metadata:               #Posters found here: https://theposterdb.com/poster/210482
-
-  "Munich: The Edge of War (2022)":
-    title: "Munich: The Edge of War"
-    year: 2022
+metadata:
+  'Munich: The Edge of War (2022)':
+    match:
+      title: 'Munich: The Edge of War'
+      year: 2022
+    title: 'Munich: The Edge of War'
     url_poster: https://theposterdb.com/api/assets/210482
+    year: 2022

@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/226041
-
-  "Julia (2022)":
-    title: "Julia"
-    year: 2022
+metadata:
+  Julia (2022):
+    match:
+      title: Julia
+      year: 2022
+    title: Julia
     url_poster: https://theposterdb.com/api/assets/226041
+    year: 2022

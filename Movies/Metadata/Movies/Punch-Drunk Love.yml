@@ -1,6 +1,8 @@
-metadata:               #Posters found here: https://theposterdb.com/poster/195570
-
-  "Punch-Drunk Love (2002)":
-    title: "Punch-Drunk Love"
-    year: 2002
+metadata:
+  Punch-Drunk Love (2002):
+    match:
+      title: Punch-Drunk Love
+      year: 2002
+    title: Punch-Drunk Love
     url_poster: https://theposterdb.com/api/assets/195570
+    year: 2002

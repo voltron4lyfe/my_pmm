@@ -1,11 +1,12 @@
-metadata:               # Posters found here https://theposterdb.com/set/10610
-
-  "Airplane! (1980)":
-    title: "Airplane!"
-    year: 1980
-    url_poster: https://theposterdb.com/api/assets/201649
-
-  "Airplane II: The Sequel":
-    title: "Airplane II: The Sequel"
-    year: 1982
+metadata:
+  'Airplane II: The Sequel':
+    title: 'Airplane II: The Sequel'
     url_poster: https://theposterdb.com/api/assets/201650
+    year: 1982
+  Airplane! (1980):
+    match:
+      title: Airplane!
+      year: 1980
+    title: Airplane!
+    url_poster: https://theposterdb.com/api/assets/201649
+    year: 1980

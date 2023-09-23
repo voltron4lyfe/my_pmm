@@ -1,25 +1,43 @@
 metadata:
   Big Top Pee-wee (1988):
+    match:
+      title: Big Top Pee-wee
+      year: 1988
     title: Big Top Pee-wee
     url_poster: https://theposterdb.com/api/assets/173601
     year: 1988
   Pee-wee's Big Adventure (1985):
+    match:
+      title: Pee-wee's Big Adventure
+      year: 1985
     title: Pee-wee's Big Adventure
     url_poster: https://theposterdb.com/api/assets/173600
     year: 1985
   Pee-wee's Big Holiday (2016):
+    match:
+      title: Pee-wee's Big Holiday
+      year: 2016
     title: Pee-wee's Big Holiday
     url_poster: https://theposterdb.com/api/assets/173604
     year: 2016
   Pee-wee's Playhouse Christmas Special (1988):
+    match:
+      title: Pee-wee's Playhouse Christmas Special
+      year: 1988
     title: Pee-wee's Playhouse Christmas Special
     url_poster: https://theposterdb.com/api/assets/173602
     year: 1988
   The Pee-wee Herman Show (1981):
+    match:
+      title: The Pee-wee Herman Show
+      year: 1981
     title: The Pee-wee Herman Show
     url_poster: https://theposterdb.com/api/assets/173599
     year: 1981
   The Pee-wee Herman Show on Broadway (2011):
+    match:
+      title: The Pee-wee Herman Show on Broadway
+      year: 2011
     title: The Pee-wee Herman Show on Broadway
     url_poster: https://theposterdb.com/api/assets/173603
     year: 2011

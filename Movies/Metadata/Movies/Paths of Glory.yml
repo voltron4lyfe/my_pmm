@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/197267
-
-  "Paths of Glory (1957)":
-    title: "Paths of Glory"
-    year: 1957
+metadata:
+  Paths of Glory (1957):
+    match:
+      title: Paths of Glory
+      year: 1957
+    title: Paths of Glory
     url_poster: https://theposterdb.com/api/assets/197267
+    year: 1957

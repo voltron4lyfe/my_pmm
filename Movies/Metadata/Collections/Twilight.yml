@@ -1,26 +1,36 @@
-metadata:               #Posters found here: https://theposterdb.com/poster/161853
-
-  "Twilight (2008)":
-    title: "Twilight"
-    year: 2008
-    url_poster: https://theposterdb.com/api/assets/179761
-
-  "The Twilight Saga: New Moon (2009)":
-    title: "The Twilight Saga: New Moon"
-    year: 2009
-    url_poster: https://theposterdb.com/api/assets/179762
-
-  "The Twilight Saga: Eclipse (2010)":
-    title: "The Twilight Saga: Eclipse"
-    year: 2010
-    url_poster: https://theposterdb.com/api/assets/179763
-
-  "The Twilight Saga: Breaking Dawn - Part 1 (2011)":
-    title: "The Twilight Saga: Breaking Dawn - Part 1"
-    year: 2011
+metadata:
+  'The Twilight Saga: Breaking Dawn - Part 1 (2011)':
+    match:
+      title: 'The Twilight Saga: Breaking Dawn - Part 1'
+      year: 2011
+    title: 'The Twilight Saga: Breaking Dawn - Part 1'
     url_poster: https://theposterdb.com/api/assets/179764
-
-  "The Twilight Saga: Breaking Dawn - Part 2 (2012)":
-    title: "The Twilight Saga: Breaking Dawn - Part 2"
-    year: 2012
+    year: 2011
+  'The Twilight Saga: Breaking Dawn - Part 2 (2012)':
+    match:
+      title: 'The Twilight Saga: Breaking Dawn - Part 2'
+      year: 2012
+    title: 'The Twilight Saga: Breaking Dawn - Part 2'
     url_poster: https://theposterdb.com/api/assets/179765
+    year: 2012
+  'The Twilight Saga: Eclipse (2010)':
+    match:
+      title: 'The Twilight Saga: Eclipse'
+      year: 2010
+    title: 'The Twilight Saga: Eclipse'
+    url_poster: https://theposterdb.com/api/assets/179763
+    year: 2010
+  'The Twilight Saga: New Moon (2009)':
+    match:
+      title: 'The Twilight Saga: New Moon'
+      year: 2009
+    title: 'The Twilight Saga: New Moon'
+    url_poster: https://theposterdb.com/api/assets/179762
+    year: 2009
+  Twilight (2008):
+    match:
+      title: Twilight
+      year: 2008
+    title: Twilight
+    url_poster: https://theposterdb.com/api/assets/179761
+    year: 2008

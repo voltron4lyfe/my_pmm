@@ -1,7 +1,8 @@
 metadata:
-
-  "Wedding Crashers (2005)":
-    title: "Wedding Crashers"
-    year: 2005
+  Wedding Crashers (2005):
+    match:
+      title: Wedding Crashers
+      year: 2005
+    title: Wedding Crashers
     url_poster: https://theposterdb.com/api/assets/194502
-
+    year: 2005

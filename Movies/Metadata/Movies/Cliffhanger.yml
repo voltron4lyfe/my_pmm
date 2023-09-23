@@ -1,7 +1,8 @@
 metadata:
-
-  "Cliffhanger (1993)":
-    title: "Cliffhanger"
-    year: 1993
+  Cliffhanger (1993):
+    match:
+      title: Cliffhanger
+      year: 1993
+    title: Cliffhanger
     url_poster: https://theposterdb.com/api/assets/188737
-
+    year: 1993

@@ -1,7 +1,8 @@
 metadata:
-
-  "Coraline (2009)":
-    title: "Coraline"
-    year: 2009
+  Coraline (2009):
+    match:
+      title: Coraline
+      year: 2009
+    title: Coraline
     url_poster: https://theposterdb.com/api/assets/179824
-
+    year: 2009

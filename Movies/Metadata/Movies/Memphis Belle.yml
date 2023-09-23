@@ -1,7 +1,8 @@
 metadata:
-
-  "Memphis Belle (1990)":
-    title: "Memphis Belle"
-    year: 1990
+  Memphis Belle (1990):
+    match:
+      title: Memphis Belle
+      year: 1990
+    title: Memphis Belle
     url_poster: https://theposterdb.com/api/assets/196071
-
+    year: 1990

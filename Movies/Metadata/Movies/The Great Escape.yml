@@ -1,7 +1,8 @@
 metadata:
-
-  "The Great Escape (1963)":
-    title: "The Great Escape"
-    year: 1963
+  The Great Escape (1963):
+    match:
+      title: The Great Escape
+      year: 1963
+    title: The Great Escape
     url_poster: https://theposterdb.com/api/assets/197236
-
+    year: 1963

@@ -1,7 +1,8 @@
 metadata:
-
-  "Blazing Saddles (1974)":
-    title: "Blazing Saddles"
-    year: 1974
+  Blazing Saddles (1974):
+    match:
+      title: Blazing Saddles
+      year: 1974
+    title: Blazing Saddles
     url_poster: https://theposterdb.com/api/assets/206893
-
+    year: 1974

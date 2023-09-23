@@ -1,7 +1,8 @@
 metadata:
-
-  "Matchstick Men (2003)":
-    title: "Matchstick Men"
-    year: 2003
+  Matchstick Men (2003):
+    match:
+      title: Matchstick Men
+      year: 2003
+    title: Matchstick Men
     url_poster: https://theposterdb.com/api/assets/217622
-
+    year: 2003

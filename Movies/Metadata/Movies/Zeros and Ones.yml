@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/user/musikmann2000
-
-  "Zeros and Ones (2021)":
-    title: "Zeros and Ones"
-    year: 2021
+metadata:
+  Zeros and Ones (2021):
+    match:
+      title: Zeros and Ones
+      year: 2021
+    title: Zeros and Ones
     url_poster: https://theposterdb.com/api/assets/190958
+    year: 2021

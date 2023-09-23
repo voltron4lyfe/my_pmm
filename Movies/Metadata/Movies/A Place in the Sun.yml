@@ -1,7 +1,8 @@
 metadata:
-
-  "A Place in the Sun (1951)":
-    title: "A Place in the Sun"
-    year: 1951
+  A Place in the Sun (1951):
+    match:
+      title: A Place in the Sun
+      year: 1951
+    title: A Place in the Sun
     url_poster: https://theposterdb.com/api/assets/244071
-
+    year: 1951

@@ -1,7 +1,8 @@
 metadata:
-
-  "Ruthless People (1986)":
-    title: "Ruthless People"
-    year: 1986
+  Ruthless People (1986):
+    match:
+      title: Ruthless People
+      year: 1986
+    title: Ruthless People
     url_poster: https://theposterdb.com/api/assets/224474
-
+    year: 1986

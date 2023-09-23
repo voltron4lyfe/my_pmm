@@ -1,7 +1,8 @@
 metadata:
-
-  "Enter the Dragon (1973)":
-    title: "Enter the Dragon"
-    year: 1973
+  Enter the Dragon (1973):
+    match:
+      title: Enter the Dragon
+      year: 1973
+    title: Enter the Dragon
     url_poster: https://theposterdb.com/api/assets/211218
-
+    year: 1973

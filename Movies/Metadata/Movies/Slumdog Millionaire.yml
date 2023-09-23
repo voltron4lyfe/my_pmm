@@ -1,6 +1,8 @@
-metadata:               #Posters found here: https://theposterdb.com/poster/184119
-
-  "Slumdog Millionaire (2008)":
-    title: "Slumdog Millionaire"
-    year: 2008
+metadata:
+  Slumdog Millionaire (2008):
+    match:
+      title: Slumdog Millionaire
+      year: 2008
+    title: Slumdog Millionaire
     url_poster: https://theposterdb.com/api/assets/184119
+    year: 2008

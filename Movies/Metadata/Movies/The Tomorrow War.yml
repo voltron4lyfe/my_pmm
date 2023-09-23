@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/183796
-
-  "The Tomorrow War (2021)":
-    title: "The Tomorrow War"
-    year: 2021
+metadata:
+  The Tomorrow War (2021):
+    match:
+      title: The Tomorrow War
+      year: 2021
+    title: The Tomorrow War
     url_poster: https://theposterdb.com/api/assets/183796
+    year: 2021

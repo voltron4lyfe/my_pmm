@@ -1,6 +1,8 @@
-metadata:               #Posters found here: https://theposterdb.com/poster/196084
-
-  "The Unforgivable (2021)":
-    title: "The Unforgivable"
-    year: 2021
+metadata:
+  The Unforgivable (2021):
+    match:
+      title: The Unforgivable
+      year: 2021
+    title: The Unforgivable
     url_poster: https://theposterdb.com/api/assets/196084
+    year: 2021

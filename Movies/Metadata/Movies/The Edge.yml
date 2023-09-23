@@ -1,7 +1,8 @@
 metadata:
-
-  "The Edge (1997)":
-    title: "The Edge"
-    year: 1997
+  The Edge (1997):
+    match:
+      title: The Edge
+      year: 1997
+    title: The Edge
     url_poster: https://theposterdb.com/api/assets/194022
-
+    year: 1997

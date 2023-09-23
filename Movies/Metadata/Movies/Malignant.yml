@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/176023
-
-  "Malignant (2021)":
-    title: "Malignant"
-    year: 2021
+metadata:
+  Malignant (2021):
+    match:
+      title: Malignant
+      year: 2021
+    title: Malignant
     url_poster: https://theposterdb.com/api/assets/176023
+    year: 2021

@@ -1,6 +1,8 @@
-metadata:               #Posters found here: https://theposterdb.com/poster/261504
-
-  "Samaritan (2022)":
-    title: "Samaritan"
-    year: 2022
+metadata:
+  Samaritan (2022):
+    match:
+      title: Samaritan
+      year: 2022
+    title: Samaritan
     url_poster: https://theposterdb.com/api/assets/261504
+    year: 2022

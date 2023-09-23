@@ -1,7 +1,8 @@
 metadata:
-
-  "Big (1988)":
-    title: "Big"
-    year: 1988
+  Big (1988):
+    match:
+      title: Big
+      year: 1988
+    title: Big
     url_poster: https://theposterdb.com/api/assets/187725
-
+    year: 1988

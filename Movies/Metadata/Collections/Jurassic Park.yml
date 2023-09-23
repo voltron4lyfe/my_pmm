@@ -1,42 +1,57 @@
-metadata:               #Posters found here https://theposterdb.com/user/musikmann2000
-
-  "Jurassic Park (1993)":
-    title: "Jurassic Park"
-    year: 1993
-    url_poster: https://theposterdb.com/api/assets/179165
-
-  "The Lost World: Jurassic Park (1997)":
-    title: "The Lost World: Jurassic Park"
-    year: 1997
-    url_poster: https://theposterdb.com/api/assets/179166
-
-  "Jurassic Park III (2001)":
-    title: "Jurassic Park III"
-    year: 2001
-    url_poster: https://theposterdb.com/api/assets/179167
-
-  "Jurassic World (2015)":
-    title: "Jurassic World"
-    year: 2015
-    url_poster: https://theposterdb.com/api/assets/179168
-
-  "Jurassic World: Fallen Kingdom (2018)":
-    title: "Jurassic World: Fallen Kingdom"
-    year: 2018
-    url_poster: https://theposterdb.com/api/assets/179169
-
-  "Battle at Big Rock (2019)":
-    title: "Battle at Big Rock"
-    year: 2019
+metadata:
+  Battle at Big Rock (2019):
+    match:
+      title: Battle at Big Rock
+      year: 2019
+    title: Battle at Big Rock
     url_poster: https://theposterdb.com/api/assets/179170
-
-  "Jurassic World: Camp Cretaceous (2020)":
-    year: 2020
-    title: "Jurassic World: Camp Cretaceous"
+    year: 2019
+  Jurassic Park (1993):
+    match:
+      title: Jurassic Park
+      year: 1993
+    title: Jurassic Park
+    url_poster: https://theposterdb.com/api/assets/179165
+    year: 1993
+  Jurassic Park III (2001):
+    match:
+      title: Jurassic Park III
+      year: 2001
+    title: Jurassic Park III
+    url_poster: https://theposterdb.com/api/assets/179167
+    year: 2001
+  Jurassic World (2015):
+    match:
+      title: Jurassic World
+      year: 2015
+    title: Jurassic World
+    url_poster: https://theposterdb.com/api/assets/179168
+    year: 2015
+  'Jurassic World: Camp Cretaceous (2020)':
+    match:
+      title: 'Jurassic World: Camp Cretaceous'
+      year: 2020
+    title: 'Jurassic World: Camp Cretaceous'
     url_poster: https://theposterdb.com/api/assets/179171
-
-  "Jurassic World: Dominion (2022)":
-    year: 2022
-    title: "Jurassic World: Dominion"
+    year: 2020
+  'Jurassic World: Dominion (2022)':
+    match:
+      title: 'Jurassic World: Dominion'
+      year: 2022
+    title: 'Jurassic World: Dominion'
     url_poster: https://theposterdb.com/api/assets/242689
-
+    year: 2022
+  'Jurassic World: Fallen Kingdom (2018)':
+    match:
+      title: 'Jurassic World: Fallen Kingdom'
+      year: 2018
+    title: 'Jurassic World: Fallen Kingdom'
+    url_poster: https://theposterdb.com/api/assets/179169
+    year: 2018
+  'The Lost World: Jurassic Park (1997)':
+    match:
+      title: 'The Lost World: Jurassic Park'
+      year: 1997
+    title: 'The Lost World: Jurassic Park'
+    url_poster: https://theposterdb.com/api/assets/179166
+    year: 1997

@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/196915
-
-  "Full Metal Jacket (1987)":
-    title: "Full Metal Jacket"
-    year: 1987
+metadata:
+  Full Metal Jacket (1987):
+    match:
+      title: Full Metal Jacket
+      year: 1987
+    title: Full Metal Jacket
     url_poster: https://theposterdb.com/api/assets/196915
+    year: 1987

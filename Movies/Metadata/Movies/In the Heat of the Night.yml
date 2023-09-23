@@ -1,7 +1,8 @@
 metadata:
-
-  "In the Heat of the Night (1967)":
-    title: "In the Heat of the Night"
-    year: 1967
+  In the Heat of the Night (1967):
+    match:
+      title: In the Heat of the Night
+      year: 1967
+    title: In the Heat of the Night
     url_poster: https://theposterdb.com/api/assets/186284
-
+    year: 1967

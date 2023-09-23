@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/user/musikmann2000
-
-  "Warning (2021)":
-    title: "Warning"
-    year: 2021
+metadata:
+  Warning (2021):
+    match:
+      title: Warning
+      year: 2021
+    title: Warning
     url_poster: https://theposterdb.com/api/assets/183637
+    year: 2021

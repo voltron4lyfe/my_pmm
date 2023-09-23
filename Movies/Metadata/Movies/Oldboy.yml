@@ -1,6 +1,8 @@
-metadata:               #Posters found here: https://theposterdb.com/poster/208888
-
-  "Oldboy (2003)":
-    title: "Oldboy"
-    year: 2003
+metadata:
+  Oldboy (2003):
+    match:
+      title: Oldboy
+      year: 2003
+    title: Oldboy
     url_poster: https://theposterdb.com/api/assets/208888
+    year: 2003

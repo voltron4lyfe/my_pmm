@@ -1,7 +1,8 @@
 metadata:
-
-  "Raising Arizona (1987)":
-    title: "Raising Arizona"
-    year: 1987
+  Raising Arizona (1987):
+    match:
+      title: Raising Arizona
+      year: 1987
+    title: Raising Arizona
     url_poster: https://theposterdb.com/api/assets/198997
-
+    year: 1987

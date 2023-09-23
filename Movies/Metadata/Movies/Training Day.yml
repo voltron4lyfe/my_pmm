@@ -1,7 +1,8 @@
 metadata:
-
-  "Training Day (2001)":
-    title: "Training Day"
-    year: 2001
+  Training Day (2001):
+    match:
+      title: Training Day
+      year: 2001
+    title: Training Day
     url_poster: https://theposterdb.com/api/assets/214064
-
+    year: 2001

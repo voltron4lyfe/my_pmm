@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/197369
-
-  "The General (1926)":
-    title: "The General"
-    year: 1926
+metadata:
+  The General (1926):
+    match:
+      title: The General
+      year: 1926
+    title: The General
     url_poster: https://theposterdb.com/api/assets/197369
+    year: 1926

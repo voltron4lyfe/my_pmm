@@ -1,7 +1,8 @@
 metadata:
-
-  "Blow Out (1981)":
-    title: "Blow Out"
-    year: 1981
+  Blow Out (1981):
+    match:
+      title: Blow Out
+      year: 1981
+    title: Blow Out
     url_poster: https://theposterdb.com/api/assets/206916
-
+    year: 1981

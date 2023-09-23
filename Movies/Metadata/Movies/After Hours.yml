@@ -1,7 +1,8 @@
 metadata:
-
-  "After Hours (1985)":
-    title: "After Hours"
-    year: 1985
+  After Hours (1985):
+    match:
+      title: After Hours
+      year: 1985
+    title: After Hours
     url_poster: https://theposterdb.com/api/assets/203172
-
+    year: 1985

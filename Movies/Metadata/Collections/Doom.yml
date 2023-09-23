@@ -1,11 +1,15 @@
-metadata:               #Posters found here https://theposterdb.com/user/musikmann2000
-
-  "Doom (2005)":
-    title: "Doom"
-    year: 2005
+metadata:
+  Doom (2005):
+    match:
+      title: Doom
+      year: 2005
+    title: Doom
     url_poster: https://theposterdb.com/api/assets/179773
-
-  "Doom: Annihilation (2019)":
-    title: "Doom: Annihilation"
-    year: 2019
+    year: 2005
+  'Doom: Annihilation (2019)':
+    match:
+      title: 'Doom: Annihilation'
+      year: 2019
+    title: 'Doom: Annihilation'
     url_poster: https://theposterdb.com/api/assets/179774
+    year: 2019

@@ -1,17 +1,29 @@
 metadata:
   The Dirty Dozen (1967):
+    match:
+      title: The Dirty Dozen
+      year: 1967
     title: The Dirty Dozen
     url_poster: https://theposterdb.com/api/assets/170567
     year: 1967
   'The Dirty Dozen: Next Mission (1985)':
+    match:
+      title: 'The Dirty Dozen: Next Mission'
+      year: 1985
     title: 'The Dirty Dozen: Next Mission'
     url_poster: https://theposterdb.com/api/assets/170568
     year: 1985
   'The Dirty Dozen: The Deadly Mission (1987)':
+    match:
+      title: 'The Dirty Dozen: The Deadly Mission'
+      year: 1987
     title: 'The Dirty Dozen: The Deadly Mission'
     url_poster: https://theposterdb.com/api/assets/170569
     year: 1987
   'The Dirty Dozen: The Fatal Mission (1988)':
+    match:
+      title: 'The Dirty Dozen: The Fatal Mission'
+      year: 1988
     title: 'The Dirty Dozen: The Fatal Mission'
     url_poster: https://theposterdb.com/api/assets/170570
     year: 1988

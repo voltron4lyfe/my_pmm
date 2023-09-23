@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/179255
-
-  "The Many Saints of Newark (2021)":
-    title: "The Many Saints of Newark"
-    year: 2021
+metadata:
+  The Many Saints of Newark (2021):
+    match:
+      title: The Many Saints of Newark
+      year: 2021
+    title: The Many Saints of Newark
     url_poster: https://theposterdb.com/api/assets/179255
+    year: 2021

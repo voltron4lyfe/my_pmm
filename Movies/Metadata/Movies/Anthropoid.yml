@@ -1,7 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/user/musikmann2000
-
-  "Anthropoid (2016)":
-    title: "Anthropoid"
-    year: 2016
+metadata:
+  Anthropoid (2016):
+    match:
+      title: Anthropoid
+      year: 2016
+    title: Anthropoid
     url_poster: https://theposterdb.com/api/assets/195281
-
+    year: 2016

@@ -1,7 +1,9 @@
-metadata:               #Posters found here https://theposterdb.com/poster/195315
-
-  "The Command (2018)":
-    title: "The Command"
-    original_title: "Kursk"
-    year: 2018
+metadata:
+  The Command (2018):
+    match:
+      title: The Command
+      year: 2018
+    original_title: Kursk
+    title: The Command
     url_poster: https://theposterdb.com/api/assets/195315
+    year: 2018

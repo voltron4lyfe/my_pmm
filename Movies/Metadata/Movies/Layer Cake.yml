@@ -1,7 +1,8 @@
 metadata:
-
-  "Layer Cake (2004)":
-    title: "Layer Cake"
-    year: 2004
+  Layer Cake (2004):
+    match:
+      title: Layer Cake
+      year: 2004
+    title: Layer Cake
     url_poster: https://theposterdb.com/api/assets/217548
-
+    year: 2004

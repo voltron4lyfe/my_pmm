@@ -1,7 +1,8 @@
 metadata:
-
-  "Point Break (1991)":
-    title: "Point Break"
-    year: 1991
+  Point Break (1991):
+    match:
+      title: Point Break
+      year: 1991
+    title: Point Break
     url_poster: https://theposterdb.com/api/assets/189460
-
+    year: 1991

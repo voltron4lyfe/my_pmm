@@ -1,7 +1,8 @@
 metadata:
-
-  "Shooter (2007)":
-    title: "Shooter"
-    year: 2007
+  Shooter (2007):
+    match:
+      title: Shooter
+      year: 2007
+    title: Shooter
     url_poster: https://theposterdb.com/api/assets/216246
-
+    year: 2007

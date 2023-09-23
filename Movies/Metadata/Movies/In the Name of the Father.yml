@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/218791
-
-  "In the Name of the Father (1993)":
-    title: "In the Name of the Father"
-    year: 1993
+metadata:
+  In the Name of the Father (1993):
+    match:
+      title: In the Name of the Father
+      year: 1993
+    title: In the Name of the Father
     url_poster: https://theposterdb.com/api/assets/218791
+    year: 1993

@@ -1,7 +1,8 @@
 metadata:
-
-  "Tropic Thunder (2008)":
-    title: "Tropic Thunder"
-    year: 2008
+  Tropic Thunder (2008):
+    match:
+      title: Tropic Thunder
+      year: 2008
+    title: Tropic Thunder
     url_poster: https://theposterdb.com/api/assets/213888
-
+    year: 2008

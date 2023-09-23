@@ -1,16 +1,22 @@
-metadata:               #Posters found here https://theposterdb.com/user/musikmann2000
-
-  "The Hangover (2009)":
-    title: "The Hangover"
-    year: 2009
+metadata:
+  The Hangover (2009):
+    match:
+      title: The Hangover
+      year: 2009
+    title: The Hangover
     url_poster: https://theposterdb.com/api/assets/193765
-
-  "The Hangover Part II (2011)":
-    title: "The Hangover Part II"
-    year: 2011
+    year: 2009
+  The Hangover Part II (2011):
+    match:
+      title: The Hangover Part II
+      year: 2011
+    title: The Hangover Part II
     url_poster: https://theposterdb.com/api/assets/193766
-
-  "The Hangover Part III (2013)":
-    title: "The Hangover Part III"
-    year: 2013
+    year: 2011
+  The Hangover Part III (2013):
+    match:
+      title: The Hangover Part III
+      year: 2013
+    title: The Hangover Part III
     url_poster: https://theposterdb.com/api/assets/193767
+    year: 2013

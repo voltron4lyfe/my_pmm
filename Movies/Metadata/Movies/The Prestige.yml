@@ -1,6 +1,8 @@
-metadata:               #Posters found here: https://theposterdb.com/poster/207789
-
-  "The Prestige (2006)":
-    title: "The Prestige"
-    year: 2006
+metadata:
+  The Prestige (2006):
+    match:
+      title: The Prestige
+      year: 2006
+    title: The Prestige
     url_poster: https://theposterdb.com/api/assets/207789
+    year: 2006

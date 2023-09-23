@@ -1,7 +1,8 @@
 metadata:
-
-  "High and Low (1963)":
-    title: "High and Low"
-    year: 1963
+  High and Low (1963):
+    match:
+      title: High and Low
+      year: 1963
+    title: High and Low
     url_poster: https://theposterdb.com/api/assets/302809
-
+    year: 1963

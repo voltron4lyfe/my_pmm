@@ -1,6 +1,8 @@
-metadata:               #Posters found here: https://theposterdb.com/poster/245869
-
-  "Spiderhead (2022)":
-    title: "Spiderhead"
-    year: 2022
+metadata:
+  Spiderhead (2022):
+    match:
+      title: Spiderhead
+      year: 2022
+    title: Spiderhead
     url_poster: https://theposterdb.com/api/assets/245869
+    year: 2022

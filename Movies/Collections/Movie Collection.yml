@@ -186,7 +186,7 @@ collections:
 
 ############################################### Evil Dead #############################################
   "Evil Dead":
-    template: {name: Set, collection: 12263, poster: https://theposterdb.com/api/assets/1960 }
+    template: {name: Set, collection: 1960, poster: https://theposterdb.com/api/assets/160866 }
 
   "Flatliners":
     template:
@@ -440,6 +440,16 @@ collections:
     template: {name: Set, collection: 5039, poster: https://theposterdb.com/api/assets/164821 }
 
 ############################################ Resident Evil #############################################
+
+  "Red Dawn":
+    template:
+      name: Set
+      imdb_id:
+        - tt0087985
+        - tt1234719
+      poster: https://theposterdb.com/api/assets/164859
+      
+############################################ Resident Evil #############################################
   "Resident Evil":
     template: {name: Set, collection: 17255, poster: https://theposterdb.com/api/assets/161290 }
 
@@ -473,10 +483,6 @@ collections:
 ######################################## Short Circuit  #################################################
   "Short Circuit Collection":
     template: {name: Set, collection: 86347, poster: https://theposterdb.com/api/assets/160987 }
-
-######################################## Sonic the Hedgehog #############################################
-  "Sonic the Hedgehog":
-    template: {name: Set, collection: 720879, poster: https://theposterdb.com/api/assets/234937 }
 
 ########################################### South Park ##################################################
   "South Park: Post COVID":

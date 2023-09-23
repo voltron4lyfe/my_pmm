@@ -1,7 +1,8 @@
 metadata:
-
-  "Beetlejuice (1988)":
-    title: "Beetlejuice"
-    year: 1988
+  Beetlejuice (1988):
+    match:
+      title: Beetlejuice
+      year: 1988
+    title: Beetlejuice
     url_poster: https://theposterdb.com/api/assets/180590
-
+    year: 1988

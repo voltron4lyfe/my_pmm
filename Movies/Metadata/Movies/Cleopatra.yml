@@ -1,7 +1,8 @@
 metadata:
-
-  "Cleopatra (1963)":
-    title: "Cleopatra"
-    year: 1963
+  Cleopatra (1963):
+    match:
+      title: Cleopatra
+      year: 1963
+    title: Cleopatra
     url_poster: https://theposterdb.com/api/assets/229736
-
+    year: 1963

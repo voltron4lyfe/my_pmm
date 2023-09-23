@@ -1,7 +1,8 @@
 metadata:
-
-  "Snowpiercer (2013)":
-    title: "Snowpiercer"
-    year: 2013
+  Snowpiercer (2013):
+    match:
+      title: Snowpiercer
+      year: 2013
+    title: Snowpiercer
     url_poster: https://theposterdb.com/api/assets/185068
-
+    year: 2013

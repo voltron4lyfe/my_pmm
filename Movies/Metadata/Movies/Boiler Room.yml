@@ -1,7 +1,8 @@
 metadata:
-
-  "Boiler Room (2000)":
-    title: "Boiler Room"
-    year: 2000
+  Boiler Room (2000):
+    match:
+      title: Boiler Room
+      year: 2000
+    title: Boiler Room
     url_poster: https://theposterdb.com/api/assets/207021
-
+    year: 2000

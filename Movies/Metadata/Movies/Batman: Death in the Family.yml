@@ -1,7 +1,8 @@
 metadata:
-
-  "Batman: Death in the Family (2020)":
-    title: "Batman: Death in the Family"
-    year: 2020
+  'Batman: Death in the Family (2020)':
+    match:
+      title: 'Batman: Death in the Family'
+      year: 2020
+    title: 'Batman: Death in the Family'
     url_poster: https://theposterdb.com/api/assets/292461
-
+    year: 2020

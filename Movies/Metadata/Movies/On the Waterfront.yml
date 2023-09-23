@@ -1,7 +1,8 @@
 metadata:
-
-  "On the Waterfront (1954)":
-    title: "On the Waterfront"
-    year: 1954
+  On the Waterfront (1954):
+    match:
+      title: On the Waterfront
+      year: 1954
+    title: On the Waterfront
     url_poster: https://theposterdb.com/api/assets/186629
-
+    year: 1954

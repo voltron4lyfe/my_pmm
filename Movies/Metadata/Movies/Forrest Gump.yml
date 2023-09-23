@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/user/musikmann2000
-
-  "Forrest Gump (1994)":
-    title: "Forrest Gump"
-    year: 1994
+metadata:
+  Forrest Gump (1994):
+    match:
+      title: Forrest Gump
+      year: 1994
+    title: Forrest Gump
     url_poster: https://theposterdb.com/api/assets/184397
+    year: 1994

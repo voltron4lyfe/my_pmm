@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/219245
-
-  "Léon: The Professional (1994)":
-    title: "Léon: The Professional"
-    year: 1994
+metadata:
+  "L\xE9on: The Professional (1994)":
+    match:
+      title: "L\xE9on: The Professional"
+      year: 1994
+    title: "L\xE9on: The Professional"
     url_poster: https://theposterdb.com/api/assets/219245
+    year: 1994

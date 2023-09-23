@@ -1,7 +1,8 @@
 metadata:
-
-  "The Verdict (1982)":
-    title: "The Verdict"
-    year: 1982
+  The Verdict (1982):
+    match:
+      title: The Verdict
+      year: 1982
+    title: The Verdict
     url_poster: https://theposterdb.com/api/assets/213816
-
+    year: 1982

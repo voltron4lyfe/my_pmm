@@ -1,7 +1,8 @@
 metadata:
-
-  "Battle of the Bulge (1966)":
-    title: "Battle of the Bulge"
-    year: 1966
+  Battle of the Bulge (1966):
+    match:
+      title: Battle of the Bulge
+      year: 1966
+    title: Battle of the Bulge
     url_poster: https://theposterdb.com/api/assets/197221
-
+    year: 1966

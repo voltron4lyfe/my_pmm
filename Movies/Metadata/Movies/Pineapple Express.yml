@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/215683
-
-  "Pineapple Express (2008)":
-    title: "Pineapple Express"
-    year: 2008
+metadata:
+  Pineapple Express (2008):
+    match:
+      title: Pineapple Express
+      year: 2008
+    title: Pineapple Express
     url_poster: https://theposterdb.com/api/assets/215683
+    year: 2008

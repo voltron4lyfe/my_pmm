@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/194481
-
-  "Goodfellas (1990)":
-    title: "Goodfellas"
-    year: 1990
+metadata:
+  Goodfellas (1990):
+    match:
+      title: Goodfellas
+      year: 1990
+    title: Goodfellas
     url_poster: https://theposterdb.com/api/assets/194481
+    year: 1990

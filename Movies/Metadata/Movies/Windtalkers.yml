@@ -1,6 +1,8 @@
-metadata:               #Posters found here: https://theposterdb.com/poster/195896
-
-  "Windtalkers (2002)":
-    title: "Windtalkers"
-    year: 2002
+metadata:
+  Windtalkers (2002):
+    match:
+      title: Windtalkers
+      year: 2002
+    title: Windtalkers
     url_poster: https://theposterdb.com/api/assets/195896
+    year: 2002

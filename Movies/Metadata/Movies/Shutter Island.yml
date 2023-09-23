@@ -1,6 +1,8 @@
-metadata:               #Posters found here: https://theposterdb.com/poster/213094
-
-  "Shutter Island (2010)":
-    title: "Shutter Island"
-    year: 2010
+metadata:
+  Shutter Island (2010):
+    match:
+      title: Shutter Island
+      year: 2010
+    title: Shutter Island
     url_poster: https://theposterdb.com/api/assets/213094
+    year: 2010

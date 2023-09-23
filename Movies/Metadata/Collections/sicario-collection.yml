@@ -1,9 +1,15 @@
 metadata:
   Sicario (2015):
+    match:
+      title: Sicario
+      year: 2015
     title: Sicario
     url_poster: https://theposterdb.com/api/assets/201052
     year: 2015
   'Sicario: Day of the Soldado (2018)':
+    match:
+      title: 'Sicario: Day of the Soldado'
+      year: 2018
     title: 'Sicario: Day of the Soldado'
     url_poster: https://theposterdb.com/api/assets/201053
     year: 2018

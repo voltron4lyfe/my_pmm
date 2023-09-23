@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/199720
-
-  "Mary and Max (2009)":
-    title: "Mary and Max"
-    year: 2009
+metadata:
+  Mary and Max (2009):
+    match:
+      title: Mary and Max
+      year: 2009
+    title: Mary and Max
     url_poster: https://theposterdb.com/api/assets/199720
+    year: 2009

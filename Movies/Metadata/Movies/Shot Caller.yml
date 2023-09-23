@@ -1,6 +1,8 @@
-metadata:               #Posters found here https://theposterdb.com/poster/201504
-
-  "Shot Caller (2017)":
-    title: "Shot Caller"
-    year: 2017
+metadata:
+  Shot Caller (2017):
+    match:
+      title: Shot Caller
+      year: 2017
+    title: Shot Caller
     url_poster: https://theposterdb.com/api/assets/201504
+    year: 2017

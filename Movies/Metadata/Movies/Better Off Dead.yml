@@ -1,7 +1,8 @@
 metadata:
-
-  "Better Off Dead... (1985)":
-    title: "Better Off Dead..."
-    year: 1985
+  Better Off Dead... (1985):
+    match:
+      title: Better Off Dead...
+      year: 1985
+    title: Better Off Dead...
     url_poster: https://theposterdb.com/api/assets/201654
-
+    year: 1985
